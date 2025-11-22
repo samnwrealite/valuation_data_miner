@@ -1,4 +1,11 @@
-pypdf
-pandas
-pytesseract 
-pdf2image 
+docling
+langchain
+ollama-client
+sentence-transformers
+supabase
+pdfminer.six
+pydantic
+python-dotenv
+pyyaml
+langchain-community
+sentence-transformers
