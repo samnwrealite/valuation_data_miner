@@ -50,26 +50,108 @@ def convert_acres_to_hectares(value: str) -> str:
     except:
         return None
 
-def fuzzy_date_search(text: str) -> str:
+SIGNATURE_ANCHORS = [
+    r"danish\s+onyango\s+orech",
+    r"simon\s+oruka\s+orwa",
+    r"for\s+and\s+on\s+behalf",
+    r"registered\s*&?\s*practicing\s+valuer",
+    r"bachelor\s+of",
+    r"land\s+economics"
+]
+
+DATE_PATTERN = re.compile(
+    r"date[:\s]*([A-Za-z0-9,\s\-\/]+)",  
+    re.IGNORECASE
+)
+
+SUPPORTED_DATES = [
+    "%d/%m/%Y", "%d-%m-%Y",
+    "%d %B %Y", "%d %b %Y",
+    "%B %d %Y", "%b %d %Y",
+    "%d %B,%Y", "%d %b,%Y",
+    "%B %d,%Y", "%b %d,%Y"
+]
+
+VALID_YEARS = range(2015, 2026)
+
+
+def extract_signature_date(text: str):
+    """
+    Extract ONLY the date located 1–8 lines below the valuer signature block.
+    Handles OCR spacing issues and dates split across lines.
+    """
     if not text:
         return None
-    patterns = [
-        r"(\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4})",
-        r"(\d{1,2}\s*(?:st|nd|rd|th)?\s*[A-Za-z]{3,9}\s*\d{4})",
-        r"([A-Za-z]{3,9}\s*\d{1,2}[,\s]*\d{4})"
+
+    lines = [l.strip() for l in text.splitlines()]
+    clean_lines = [re.sub(r"\s+", " ", l) for l in lines]  # normalize OCR spacing
+
+    # ---- 1. Fuzzy match signature blocks ----
+    signature_phrases = [
+        "danish", "onyango", "orech",
+        "simon", "oruka", "orwa",
+        "for and on behalf",
+        "practicing valuer",
+        "bachelor of",
+        "land economics"
     ]
-    for p in patterns:
-        m = re.search(p, text, FLAGS)
+
+    sig_idx = None
+    for i, line in enumerate(clean_lines):
+        if any(p in line.lower() for p in signature_phrases):
+            sig_idx = i
+
+    if sig_idx is None:
+        return None
+
+    # ---- 2. Inspect next 8 lines for "Date" OR a standalone date ----
+    date_block = clean_lines[sig_idx : sig_idx + 12]
+
+    possible_dates = []
+
+    # Pattern for date-like text
+    date_regex = r"(\d{1,2}(?:st|nd|rd|th)?\s*[A-Za-z]{3,9}\s*\d{4})"
+
+    for line in date_block:
+        # Case A: "Date:" on its own line
+        if re.search(r"^date[:\s]*$", line.lower()):
+            # try next line
+            next_idx = date_block.index(line) + 1
+            if next_idx < len(date_block):
+                m = re.search(date_regex, date_block[next_idx], re.IGNORECASE)
+                if m:
+                    possible_dates.append(m.group(1))
+
+        # Case B: "Date: 11th March 2025"
+        m = re.search(r"date[:\s]*" + date_regex, line, re.IGNORECASE)
         if m:
-            candidate = m.group(1)
-            for fmt in ["%d/%m/%Y","%d-%m-%Y","%d %B %Y","%d %b %Y","%B %d %Y","%b %d %Y"]:
-                try:
-                    dt = datetime.strptime(candidate.strip(), fmt)
+            possible_dates.append(m.group(1))
+
+        # Case C: standalone date (OCR puts date alone)
+        m = re.search(date_regex, line, re.IGNORECASE)
+        if m:
+            possible_dates.append(m.group(1))
+
+    if not possible_dates:
+        return None
+
+    # ---- 3. Normalize and validate ----
+    for raw in possible_dates:
+        cleaned = raw.replace(",", "").strip()
+        for fmt in [
+            "%d %B %Y", "%d %b %Y",
+            "%d%B%Y", "%d%b%Y",
+            "%d %B%Y", "%d %b%Y"
+        ]:
+            try:
+                dt = datetime.strptime(cleaned, fmt)
+                if dt.year in range(2015, 2026):
                     return dt.strftime("%d/%m/%Y")
-                except:
-                    continue
-            return _clean_whitespace(candidate)
+            except:
+                pass
+
     return None
+
 
 def decimal_to_dms(value: float, is_lat=True) -> str:
     """Convert decimal to DMS string format: 1°28'12.2"S"""
@@ -158,7 +240,7 @@ def extract_data_points(full_text: str, file_path: str) -> Dict[str,str]:
     data = {}
     data["FileName"] = os.path.basename(file_path) if file_path else None
     data["REF_ID"] = _safe(find_first([r"Our Ref[:\s]*([\w\/\-\.\d]+)", r"Reference[:\s]*([\w\/\-\.\d]+)"], text))
-    data["VALUATION_DATE"] = fuzzy_date_search(text)
+    data["VALUATION_DATE"] = extract_signature_date(text)
     data["VALUER_NAME"] = extract_valuer(text)
     data["TITLE_NUMBER"] = _safe(find_first([r"LR\s*No[:\s]*([\w\d\/\-]+)", r"Title\s*No[:\s]*([\w\d\/\-]+)"], text))
     data["CLIENT_NAME"] = _safe(find_first([r"Client[:\s]*([\w\s]{1,50})"], text))
