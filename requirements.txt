@@ -1,6 +1,6 @@
 docling
 langchain
-ollama-client
+# ollama-client
 sentence-transformers
 supabase
 pdfminer.six
@@ -9,3 +9,8 @@ python-dotenv
 pyyaml
 langchain-community
 sentence-transformers
+docling-core
+python-dotenv 
+jsonschema
+tqdm
+ollama
