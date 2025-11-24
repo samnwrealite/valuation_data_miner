@@ -1,0 +1,81 @@
+{
+  "property_id": "7815/83 (I.R Number: 237281)",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5296/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Simon Oruka Orwa - BA (Land Economics) Hons (UoN), MISK, Registered & Practicing Valuer"
+    ],
+    "inspection_date": "2021-04-14",
+    "report_date": "2021-04-18",
+    "client": "Mr. Kenneth Wathome",
+    "client_address": "Nairobi",
+    "purpose": "advisory purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "IR.237281",
+      "deed_plan_number": "F/B/C/1",
+      "survey_plan_number": "F/R No. 507/87",
+      "area_hectares": 2.024,
+      "area_acres": 5.001,
+      "annual_ground_rent": 30258,
+      "annual_ground_rent_currency": "KES",
+      "lease_term_years": 999,
+      "lease_commencement_date": "1948-08-01"
+    },
+    "location": {
+      "area": "Lukenya Area",
+      "road_access": "Off Mombasa Road",
+      "county": "Machakos County",
+      "coordinates": "1°28'12.2\"S 37°02'21.7\"E"
+    },
+    "tenure": {
+      "type": "leasehold interest",
+      "details": "for the remainder of a term of 999 years with effect from 1/08/1948 at a revisable annual ground rent of KShs. 30,258.00."
+    },
+    "registered_proprietors": [
+      {
+        "name": "Kenneth Wathome Mwatu"
+      }
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained."
+  },
+  "property_description": "The parcel is rectangular in shape with black cotton soils and with fairly level slope. The boundaries are marked by corner beacons. Mains electricity and water are available for connection to the property. Foul drainage would be into a septic tank. The immediate access to the subject properties is earth surfaced branching off the tar-surfaced Mombasa Road. There were no structural improvements on the parcels as at the date of our inspection. This is a vacant parcel of land situated off Mombasa Road, within Lukenya Area of Machakos County. The property is accessible and in proximity to major road networks and other social activities to support any developments on the plot. The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to a myriad of mixed-use developments comprising residential, commercial and industrial users. This has pushed property prices upwards. Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy that has been precipitated by the Covid 19 pandemic. Land use is Mixed use.",
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "The parcel is rectangular in shape with black cotton soils and with fairly level slope. The boundaries are marked by corner beacons. There were no structural improvements on the parcels as at the date of our inspection.",
+  "market_assessment": {
+    "description": "The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to a myriad of mixed-use developments comprising residential, commercial and industrial users. This has pushed property prices upwards. Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy that has been precipitated by the Covid 19 pandemic."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 60000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Sixty Million"
+    }
+  },
+  "valuation_methodology": [
+    {
+      "method": "Comparative Sales Method",
+      "description": "This method is based on sales and/or property for sale, which are similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property."
+    }
+  ],
+  "lease_details": {
+    "lease_term_years": 999,
+    "lease_commencement_date": "1948-08-01",
+    "annual_ground_rent": 30258,
+    "annual_ground_rent_currency": "KES"
+  },
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the properties are not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the parcel of land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_highway_statutory": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

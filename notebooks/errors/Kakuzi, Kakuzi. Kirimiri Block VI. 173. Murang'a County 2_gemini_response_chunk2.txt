@@ -1,0 +1,39 @@
+{
+  "property_id": "KAKUZI/KIRIMIRI/BLK VI /173",
+  "valuation_report": {
+    "report_reference": "CSU/ Kenol Manis ASR TIN ONT",
+    "valuer": "NW REALITE VALUERS",
+    "valuers": ["NW REALITE VALUERS"],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB BANK",
+    "client_address": "KCB Towers, Upper Hill. P. O. Box 48400 — 00100 Nairobi, Kenya",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "VI",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

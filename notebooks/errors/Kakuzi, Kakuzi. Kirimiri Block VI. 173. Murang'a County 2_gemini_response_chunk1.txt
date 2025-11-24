@@ -1,0 +1,49 @@
+{
+  "property_id": "KAKUZI/KIRIMIRI BLOCK VI1/173",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5296/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-02-21",
+    "report_date": "2025-02-25",
+    "client": "Recovery Managet, KCB Bank Kenya Limited",
+    "client_address": "KCB Towers, Upper Hill, P.O. Box 48400 – 00100, Nairobi",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "VI1",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [
+      "Samuel Kamande Muchoki"
+    ],
+    "ownership_type": "absolute proprietor(s)",
+    "encumbrances": "Registered against the title is a charge dated 17/11/2021 in favour of KCB Bank Kenya Limited to secure a sum of KShs. 3,900,000.00."
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 7500000,
+      "currency": "KES",
+      "amount_words": "Seven Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Forced Sale Value: The forced sale value is also derived on similar principles as those of the current market value but anticipates a wzling buyer—unnilkng seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

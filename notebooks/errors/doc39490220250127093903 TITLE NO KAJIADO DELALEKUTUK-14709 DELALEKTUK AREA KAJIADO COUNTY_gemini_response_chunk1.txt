@@ -1,0 +1,76 @@
+{
+  "property_id": "KAJIADO/DALALEKUTUK/14709",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5283/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-01-16",
+    "report_date": "2025-01-22",
+    "client": "I&M Bank Limited",
+    "client_address": "Nairobi",
+    "purpose": "For bank purposes (Current Market Value, Forced Sale Value)"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/DALALEKUTUK/14709",
+      "plot_area_hectares": 8.31,
+      "plot_area_acres": 20.53,
+      "survey_map_reference": "Sheet No.161/3, 4, 162/3, 172/2 & 173/1 of Kajiado/Dalalekutuk registration section together with Inset Sheet No. 2"
+    },
+    "location": {
+      "area": "Dalalekutuk area",
+      "county": "Kajiado County",
+      "coordinates": "1°46'49.62\"S, 36°46'4.75\"E",
+      "proximity_to_highway": "6.5 kilometers off Namanga Highway",
+      "proximity_to_landmark": "6 Kilometer West of Umma University"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Uma Maheswara Reddy Manukonda"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Charge dated 26/07/2022 in favour of I&M Bank Limited to secure a sum of Kshs. 18,500,000.00."
+  },
+  "property_description": {
+    "land_use": "Agricultural with potential for mixed use purposes.",
+    "plot_shape": "Almost L-shaped black cotton soil parcel with gentle southward slope",
+    "boundaries": "Open, delineated by survey beacons",
+    "access": "Open",
+    "vegetation": "Natural grass vegetation and thorny shrubs",
+    "improvements": "No structural developments"
+  },
+  "apartment_details": {},
+  "occupancy": "Unoccupied",
+  "condition": "Vacant land, no structural developments",
+  "market_assessment": {
+    "neighbourhood_character": "Similar vacant parcels of land with sparse and scattered physical developments, mostly used as grazing fields, with future development potential for subdivision.",
+    "infrastructure_availability": "Not connected with basic infrastructural services (water, electricity). Rudimentary road network.",
+    "land_market_trend": "Modest, common with large land holdings for market speculation and land banking.",
+    "economic_impact": "Subdued due to depressed economy, high interest rates, and low capital inflows.",
+    "environmental_issues": "No developments or environmental issues including contaminated land affecting value.",
+    "public_use_status": "Not set aside for public use, not in Ndung’u report as irregularly acquired or allocated.",
+    "matrimonial_property_status": "Unable to determine if matrimonial."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 20500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Twenty Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value (willing buyer willing seller basis at an arm’s length transaction)",
+    "Forced Sale Value (75% of the market value, anticipating a willing buyer-unwilling seller situation)"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

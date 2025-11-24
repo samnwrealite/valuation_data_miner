@@ -1,0 +1,41 @@
+{
+  "property_id": "KAJIADO/DALALEKUTUK/14709",
+  "valuation_report": {
+    "report_reference": "CM/2025/SP/Reddys Pharma Limited-PC VAR RB Pe] Nn k",
+    "valuer": "N.W. Realite Limited",
+    "valuers": [
+      "N.W. Realite Limited"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-01-20",
+    "client": "I&M Bank Limited",
+    "client_address": "1 Park Avenue, First Parklands Avenue P.O Box 30238 - 00100, GPO, Nairobi Kenya",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

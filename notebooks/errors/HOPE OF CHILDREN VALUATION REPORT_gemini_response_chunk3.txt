@@ -1,0 +1,57 @@
+{
+  "property_id": "182/35",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "1991-10-11",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "182/35",
+      "original_number": "182/15/2",
+      "land_survey_plan_number": "232 = 155462",
+      "grant_registered_as": "I.R. 51540/1",
+      "term": "",
+      "annual_rent": 2970,
+      "annual_rent_currency": "KES",
+      "annual_rent_revisable": true
+    },
+    "location": {
+      "district": "",
+      "town": "",
+      "area_description": "",
+      "area_measurement": 0,
+      "measurement_unit": ""
+    },
+    "tenure": {
+      "type": "",
+      "from": ""
+    },
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": "Caveat by the East African Power and Lighting Company Limited exit() - Registered in Yol. N49 folio 89/7."
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

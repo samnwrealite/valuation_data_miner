@@ -1,18 +1,68 @@
 {
-  "property_id": "L.R Number: 7815/83 (I.R Number: 237281)",
+  "property_id": "doc LR NO 7815-83 LUKENYA AREA OFF MOMBASA ROAD MACHAKOS COUNTY",
   "valuation_report": {
-    "date": "18 April 2021",
-    "valuer": "Simon Oruka Orwa",
-    "market_value": "KShs. 60,000,000.00 (Kenya Shillings Sixty Million)"
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
   },
   "property_details": {
-    "location": "Lukenya Area, Off Mombasa Road-Machakos County",
-    "size": "2.024 Ha (Approx.)"
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "IR.237281",
+      "deed_plan_number": "F/B/C/1",
+      "survey_plan_number": "F/R No. 507/87",
+      "area_hectares": 2.024,
+      "area_acres": 5.001,
+      "annual_ground_rent": 30258,
+      "annual_ground_rent_currency": "KES",
+      "lease_term_years": 999,
+      "lease_commencement_date": "1948-08-01"
+    },
+    "location": {
+      "area": "Lukenya Area",
+      "road_access": "Off Mombasa Road",
+      "county": "Machakos County",
+      "coordinates": "1\u00b028'12.2\"S 37\u00b002'21.7\"E"
+    },
+    "tenure": {
+      "type": "leasehold interest",
+      "details": "for the remainder of a term of 999 years with effect from 1/08/1948 at a revisable annual ground rent of KShs. 30,258.00."
+    },
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": "Caveat registered as IR.8069/40"
   },
   "property_description": {},
   "apartment_details": {},
-  "valuations": [],
-  "valuation_methodology": [
-    "Comparative Sales Method"
-  ]
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "description": "The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to a myriad of mixed-use developments comprising residential, commercial and industrial users. This has pushed property prices upwards. Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy that has been precipitated by the Covid 19 pandemic."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {
+    "lease_term_years": 999,
+    "lease_commencement_date": "1948-08-01",
+    "annual_ground_rent": 30258,
+    "annual_ground_rent_currency": "KES"
+  },
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the properties are not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the parcel of land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_highway_statutory": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties. A detailed environmental impact assessment report would verify this in greater details."
+  }
 }

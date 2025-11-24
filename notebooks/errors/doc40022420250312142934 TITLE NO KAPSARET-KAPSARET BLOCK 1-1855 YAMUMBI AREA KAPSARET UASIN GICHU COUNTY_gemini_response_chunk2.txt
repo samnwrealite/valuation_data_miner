@@ -1,0 +1,54 @@
+{
+  "property_id": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": ["Danish Onyango Orech", "Simon Oruka Orwa"],
+    "inspection_date": "",
+    "report_date": "2025-03-11",
+    "client": "MILCAH W MBUGUA",
+    "client_address": "",
+    "purpose": "To determine Open Market Value, Forced Sale Value, and Insurance Value for financing and insurance purposes."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 1 (Yamumbi)",
+    "floor": "",
+    "title_details": {
+      "title_number": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855",
+      "area": "0.043HA",
+      "tenure_type": "ABSOLUTE",
+      "registry_map_sheet_no": ""
+    },
+    "location": {
+      "area": "Yamumbi Area",
+      "county": "Uasin Gishu County",
+      "constituency": "",
+      "ward": "",
+      "gps_coordinates": "",
+      "address": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855-Yamumbi Area, Eldoret, Uasin Gishu County"
+    },
+    "tenure": {
+      "type": "freehold interest",
+      "details": "free from any encumbrances"
+    },
+    "registered_proprietors": ["MILCAH WANGUI MBUGUA - EDI9575999.0"],
+    "ownership_type": "",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 5600000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Five Million Six Hundred Thousand"
+    }
+  },
+  "valuation_methodology": ["Market Approach", "Depreciated Replacement Cost Approach"],
+  "lease_details": {},
+  "compliance": {}
+}

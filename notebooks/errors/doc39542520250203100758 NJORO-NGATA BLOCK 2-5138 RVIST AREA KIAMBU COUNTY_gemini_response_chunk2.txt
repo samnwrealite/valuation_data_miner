@@ -1,0 +1,61 @@
+{
+  "property_id": "NJORO/NGATA BLOCK 2/5138 (KIROBON 'A')",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-01-28",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "2",
+    "floor": "",
+    "title_details": {
+      "title_number": "NJORO/NGATA BLOCK 2/5138 (KIROBON 'A')",
+      "title_deed_number": "2646936",
+      "approximate_area": "0.065 Ha",
+      "registry_map_sheet_no": "",
+      "edition": "1",
+      "opened_date": "2016-04-06"
+    },
+    "location": {
+      "county": "Nakuru County",
+      "area": "RVIST area",
+      "district_land_registry": ""
+    },
+    "tenure": {
+      "nature_of_title": "ABSOLUTE"
+    },
+    "registered_proprietors": [
+      {
+        "name": "JOASH NAMAN OCHIENG",
+        "date_registered": "2019-05-16",
+        "address": "P.O. BOX 68771, NAIROBI"
+      }
+    ],
+    "ownership_type": "",
+    "encumbrances": "CHARGE To KCB BANK KENYA LTD FOR KSHS. 3,500,000/="
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 4000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

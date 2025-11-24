@@ -1,0 +1,75 @@
+{
+  "property_id": "Karai/Gikambura/6448",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-01-16",
+    "report_date": "2025-01-17",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "Kencom House, P.O. Box 48400 - 00100, Nairobi, Kenya.",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "2",
+    "title_details": {
+      "title_number": "Karai/Gikambura/6448",
+      "nature_of_title": "Freehold",
+      "approximate_area": "",
+      "registration_section": "KARAI/GIKAMBURA",
+      "parcel_number": "6448",
+      "registry_map_sheet_no": "3&3A",
+      "subdivision_of": "3582"
+    },
+    "location": {
+      "county": "Kiambu County",
+      "area": "Ondiri Area",
+      "town": "Kikuyu",
+      "geolocation_address": "1°15'28.7\"S 36°38'02.6\"E",
+      "nearest_landmark": "Ondiri Catholic Church"
+    },
+    "tenure": {
+      "type": "Freehold"
+    },
+    "registered_proprietors": [
+      "John Argwings Otieno Ogeta",
+      "Lilian Khayaga Mukweyi"
+    ],
+    "ownership_type": "",
+    "encumbrances": "None"
+  },
+  "property_description": {
+    "type_of_house": "Town House",
+    "age_year_of_construction": "2024",
+    "total_area_covered_sqm": "373.50",
+    "number_of_bedrooms": "4",
+    "number_of_bathrooms": "5",
+    "size_of_living_room_sqm": "39",
+    "number_of_floors": "2",
+    "other_features": "DSQ",
+    "current_user": "Residential"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 17000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Seventeen Million"
+    }
+  },
+  "valuation_methodology": [
+    "Current Market Value: on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Forced Sale Value: derived on similar principles as those of the current market value but anticipates a willing buyer-unwilling seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as tecommended by Land Act No. 6 of 2012.",
+    "Insurance Value: considered the current replacement cost of the building including professional fees and loss of rent."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

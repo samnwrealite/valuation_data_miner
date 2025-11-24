@@ -1,0 +1,43 @@
+{
+  "property_id": "Karai/Gikambura/9968",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "Gilbert Sosi",
+    "client_address": "",
+    "purpose": "Open Market, Mortgage/Insurable Values, Reserved prices, Forced/Auction sale value or Recommended sale price for Land and Permanent buildings and developments."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {},
+    "location": {
+      "area": "Karai/Gikambura"
+    },
+    "tenure": {},
+    "registered_proprietors": [
+      "Gilbert Sosi"
+    ],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

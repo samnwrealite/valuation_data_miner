@@ -1,0 +1,76 @@
+{
+  "property_id": "SUB-PLOT B- (PROPOSED AMALGAMATION & SUBDIVISION OF L.R NUMBERS: 182/16-20, 35-37) ONDIRI AREA-KIKUYU KIAMBU COUNTY",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5320/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria"
+    ],
+    "inspection_date": "2025-06-15",
+    "report_date": "",
+    "client": "Director, Children of Hope, Kikuyu, Kiambu County",
+    "client_address": "Kikuyu, Kiambu County",
+    "purpose": "advice on its current market value for advisory purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "parcel_numbers": "182/16-20, 35-37",
+      "registered_proprietors": [
+        "Tumaini Ministries"
+      ],
+      "tenure": {
+        "type": "Leasehold",
+        "duration": "999 years",
+        "effective_date": "1904-01-01",
+        "ground_rent": "KShs. 730/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 2,970/=, KShs. 1,945/=, KShs. 9,720/="
+      }
+    },
+    "location": {
+      "address": "outskirts of Kikuyu Township, approximately 1.5 kilometres to the West of Kikuyu Township, along Kikuyu-Kamangu Road and 350 metets to the Southeast of Ondiri Police Post within Ondirti area of Kiambu County.",
+      "coordinates": "1°14'28.5\"S 36°39'01.1\"E"
+    },
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": "Unascertained."
+  },
+  "property_description": {
+    "land_use": "Agricultural user. Potential for residential user.",
+    "plot_area_hectares": 14.596,
+    "plot_area_acres": 36.067,
+    "plot_shape": "irregular-shaped",
+    "soil_type": "red soils plot",
+    "slope": "gentle westward slope",
+    "boundaries": "barbed wite reinforced with hedges",
+    "access": "metal plate gate mounted on concrete pillars granting access into the property",
+    "services": "Mains electricity is connected to the property. Water is supplied from a borehole within the property. Foul drainage is into a septic tank. Immediate access road is tarmacked.",
+    "improvements_summary": "2 No. similar 5-bedroomed townhouses, an ablution block, cowshed and a temporary storage cabin."
+  },
+  "apartment_details": {},
+  "occupancy": "The houses were being used as a children’s home.",
+  "condition": "in a good condition of repair and maintenance.",
+  "market_assessment": {
+    "general_remarks": "This is an expansive property located in the outskirts of Kikuyu Township, Kiambu County. The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. For optimum use, the proposed sub-plot could be further subdivided into smaller portions to be utilised for residential developments. Infrastructural and social facilities are available in the neighbourhood to support medium density residential uset.",
+    "market_outlook": "The property market has remained subdued due to local economic challenges that have adversely affected the demand for property across board. We however anticipate a continued but measured growth in the foreseeable future due to improving macroeconomic factors such as falling interest and stable exchange rates."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Market Value"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "it is out considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd Match 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory": "In our opinion we don’t foresee any significant prospect of ot potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment teport would verify this in greater details."
+  }
+}

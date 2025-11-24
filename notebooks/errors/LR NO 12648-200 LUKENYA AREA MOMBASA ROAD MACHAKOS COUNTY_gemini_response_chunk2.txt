@@ -1,0 +1,39 @@
+{
+  "property_id": "12648/200",
+  "valuation_report": {
+    "report_reference": "B/856/Vol-1/AKM",
+    "valuer": "NW Realite",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "2025-07-18",
+    "client": "ARCH. -R &WILCOCK",
+    "client_address": "",
+    "purpose": "CONDUCT VALUATION ON LAND REFERENCE NUMBER 12648/200"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

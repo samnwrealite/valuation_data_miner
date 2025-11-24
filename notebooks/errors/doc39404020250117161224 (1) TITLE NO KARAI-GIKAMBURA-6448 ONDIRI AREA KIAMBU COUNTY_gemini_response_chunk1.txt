@@ -1,0 +1,127 @@
+{
+  "property_id": "KARAI/GIKAMBURA/6448",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5280/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Simon Oruka Orwa - BA Land Econ. (Hons), MISK, RV, REA"
+    ],
+    "inspection_date": "2025-01-14",
+    "report_date": "",
+    "client": "Branch Manager, KCB Bank Kenya Limited, Moi Avenue Branch",
+    "client_address": "P.O. Box 48400 - 00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KARAI/GIKAMBURA/6448"
+    },
+    "location": {
+      "description": "The property is located in the outskirts of Kikuyu Township, approximately 3.5 kilometres due Southwest of Kikuyu Township, 1.2 kilometres to the Southwest of Ondiri Catholic Church and 1.1 kilometres to the South of St. Paul’s Ondiri Church, within Ondiri area of Kiambu County.",
+      "coordinates": "1°15'28.7\"S 36°38'02.6\"E",
+      "county": "Kiambu County",
+      "area": "Ondiri Area"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "John Argwings Otieno Ogeta",
+      "Lilian Khayaga Mukweyi"
+    ],
+    "ownership_type": "Freehold",
+    "encumbrances": "Nil."
+  },
+  "property_description": {
+    "plot_area": "zero point zero five four (0.066) of a hectare or zero point one six three (0.163) of an acre approximately.",
+    "plot_shape": "rectangular-shaped",
+    "plot_soil_type": "red soils",
+    "plot_slope": "gentle westwatd slope",
+    "boundaries": "stonewall",
+    "access": "metal plate gate mounted on concrete pillars granting access into the property.",
+    "services": "Mains electricity is connected to the property. Piped water is supplied from local vendors. Foul drainage is into a septic tank. Immediate access road is earth surfaced.",
+    "improvements_summary": "ongoing construction of a 4-bedroom all-ensuite town house with an existing staff quarter.",
+    "main_house": {
+      "construction_level": "approximately 85% complete",
+      "outstanding_works": [
+        "Fixing of internal doors",
+        "External and internal wall finishes",
+        "Floor finishes",
+        "Painting and decoration",
+        "Fixtures and fittings",
+        "Ceiling finishing to first floor"
+      ],
+      "built_up_area": "3,720 sq. ft. approx",
+      "accommodation": {
+        "ground_floor": [
+          "Entrance porch",
+          "Passageway",
+          "Lounge",
+          "Dining room",
+          "Kitchen",
+          "Pantry",
+          "Washroom with a WC and a WHB",
+          "Guest bedroom en-suite with built-in wardrobes and a washroom containing a WHB and an overhead shower. The WC is yet to be fixed",
+          "Laundry"
+        ],
+        "first_floor": [
+          "2No. bedrooms all en-suite",
+          "Study room with access to a balcony",
+          "Master bedroom en-suite with a walk-in closet, a washroom and access to a balcony"
+        ]
+      },
+      "construction_details": {
+        "roof": "Fascia boarded timber trusses overlaid in factory-painted roofing tiles yet to be fitted with gutters and downpipes.",
+        "ceilings": "Plastered and painted concrete slab to the ground floor and yet to be covered on the first floor.",
+        "walls": "Reinforced concrete framework of beams and columns in filled with natural stone walls plastered and yet to be colour washed externally, plastered and painted internally. Wet rooms have walls partially lined with ceramic tiles to dado level.",
+        "doors": "The external doors ate metal panel types while the internal ones ate yet to be fixed.",
+        "windows": "These are glazed steel casements fitted with steel grilles for burglar protection.",
+        "floors": "Mass or reinforced concrete slabs yet to be finished.",
+        "staircase": "Access to the upper floor is via a reinforced concrete staircase yet to be finished and provided with steel balustrades and railings.",
+        "fittings": "Installed fittings include stainless-steel sink unit to the kitchen. Other fittings including wardrobes, cupboards, shelves and sanitary wares ate yet to be fixed."
+      }
+    },
+    "servant_quarters": {
+      "plinth_area": "300 sq. ft. approximately.",
+      "accommodation": [
+        "2No. rooms",
+        "Washroom"
+      ],
+      "construction_details": {
+        "roof": "Fascia boarded timber trusses overlaid in box profile roofing sheets.",
+        "ceilings": "Open.",
+        "walls": "Natural stone walls keyed, rendered and color-washed externally, plastered and painted internally.",
+        "doors": "The external doors are metal panel types.",
+        "windows": "These are glazed steel casements fitted with steel grilles for burglar protection.",
+        "floors": "Mass or reinforced concrete slabs finished in cement screed."
+      }
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "The main house was unoccupied as it was still under construction. The servant quarter was occupied by the caretaker.",
+  "condition": "As at the date of our valuation, the main house was under construction while the servant quarters was in a good state of repair and decoration.",
+  "market_assessment": {
+    "general_remarks": "This is a double-storey 4 bedroom all en-suite town house under construction with a detached domestic staff quarter in Ondiri area of Kiambu County. We estimate the overall level of completion of the main house at 85%. The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. Infrastructural facilities are available in the neighbourhood. The property market is subdued due to local and global economic downtowns adversely affecting the demand for ptoperty across board. We however anticipate a continued but measured growth in the sector going forward into the foreseeable future due to improving macroeconomic factors such as falling interest and stable exchange rates which might positively influence demand for real estate, especially for first-time home buyers."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment atea. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}
