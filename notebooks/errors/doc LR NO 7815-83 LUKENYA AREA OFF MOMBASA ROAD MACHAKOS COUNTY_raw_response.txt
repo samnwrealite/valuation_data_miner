@@ -1,0 +1,19 @@
+Raw LLM Response:
+{
+  "property_id": "L.R Number: 7815/83 (I.R Number: 237281)",
+  "valuation_report": {
+    "date": "18 April 2021",
+    "valuer": "Simon Oruka Orwa",
+    "market_value": "KShs. 60,000,000.00 (Kenya Shillings Sixty Million)"
+  },
+  "property_details": {
+    "location": "Lukenya Area, Off Mombasa Road-Machakos County",
+    "size": "2.024 Ha (Approx.)"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "valuations": [],
+  "valuation_methodology": ["Comparative Sales Method"]
+}
+
+Length: 491 chars
