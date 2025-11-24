@@ -1,0 +1,61 @@
+{
+  "property_id": "23153/53, 23153/54",
+  "valuation_report": {
+    "report_reference": "CSU/ LAMU 2852000",
+    "valuer": "Nw realite valuers",
+    "valuers": ["Nw realite valuers"],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "KCB Towers, Upper Hill. P. O. Box 48400 - 00100 Nairobi, Kenya",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "LR.CR. 52890, LR.CR. 52889",
+      "land_reference_number": "23153/53, 23153/54",
+      "deed_plan_number": "327243, 327074",
+      "original_number": "",
+      "survey_plan_number": "327053, 327054",
+      "date_of_issue": "2011-08-08"
+    },
+    "location": {
+      "district": "Lamu District",
+      "locality": "North of Hindi Town",
+      "county": "Lamu County"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 Years",
+      "start_date": "2011-06-01",
+      "unexpired_term": "",
+      "annual_rent": 1250
+    },
+    "registered_proprietors": ["MAALIMS RANCHING COMPANY LIMITED"],
+    "ownership_type": "Lessee",
+    "encumbrances": "CHARGE DATED 11 NOVEMBER, 2022 TO KCB BANK KENYA LIMITED FOR KSHS. 10,320,000/= (WITH OTHER LANDS)"
+  },
+  "property_description": {
+    "area_hectares": 20.24,
+    "area_acres": "",
+    "gradient": "",
+    "description": "ALL that piece of land situate North of Hindi Town in the Lamu District containing by measurement 20.24 hectares"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

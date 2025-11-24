@@ -1,0 +1,49 @@
+{
+  "property_id": "KJD/ KITENGELA / 36559",
+  "valuation_report": {
+    "report_reference": "28/05/2025-02",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "2025-05-28",
+    "client": "JACKSON K KIMEU",
+    "client_address": "",
+    "purpose": "valuation purpose"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KJD/ KITENGELA / 36559",
+      "registry_map_sheet_no": "148/34",
+      "approximate_area": "0.0048 Ha.",
+      "nature_of_title": "ABSOLUTE",
+      "subdivision_of_no": "35235",
+      "opened_date": "2010-11-10",
+      "edition": "1"
+    },
+    "location": {},
+    "tenure": "ABSOLUTE",
+    "registered_proprietors": ["JACKSON KIIO KINEU"],
+    "ownership_type": "",
+    "encumbrances": "Charge to The Co-operative Bank of Kenya Limited to secure KES 200,000"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "summary": "The prices of residential plots within this neighborhood range from 1.2M-2M with parcels closer to Old Namanga road commanding higher prices. The residential areas further from the road command lower prices."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 1500000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": ["Sales Comparison Approach"],
+  "lease_details": {},
+  "compliance": {}
+}

@@ -1,0 +1,79 @@
+{
+  "property_id": "1944",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "5035121",
+      "edition_opened": "1981-12-22",
+      "registry_map_sheet_no": "7 23 & 16",
+      "parcel_number": "1944",
+      "approximate_area": "",
+      "nature_of_title": "ABSOLUTE"
+    },
+    "location": {
+      "town": "Maragua",
+      "county": "Murang\u2019a",
+      "coordinates": "0\u00b047'27.2\"S 37\u00b007'49.4\"E",
+      "description": "within Maragua town in Murang\u2019a County, approximately 300 meters to the Southeast of Maragua Sub-County Hospital, 200 meters to the North of Casids Petrol Station and 500 meters off Kenol-Murang\u2019a Road."
+    },
+    "tenure": {},
+    "registered_proprietors": [
+      "ABSA BANK KENYA PLC"
+    ],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "type": "commercial building",
+    "storeys": "single storey",
+    "construction": "stone walls brick faced externally, plastered and painted internally beneath a reinforced concrete slab to sections, and tiled to others",
+    "ceilings": "soft board panels",
+    "floors": "terrazzo",
+    "doors": "glazed aluminium casement, steel plate and flush timber type",
+    "windows": "glass louvers secured with burglar proofing",
+    "wet_area_walls": "ceramic tiles to dado",
+    "parking": "parking slots at the front side",
+    "accommodation": [
+      "Entrance lobby",
+      "Passage",
+      "2No. rooms glass partitioned",
+      "2No. rooms",
+      "Banking hall",
+      "Tellers lobby",
+      "Filing room",
+      "Strong room",
+      "Kitchen fitted with sink",
+      "Gents with 2No.WC, 2No.urinals and 2No.WHB",
+      "Ladies with 2No.WCs and 2No. WHB"
+    ],
+    "built_up_area_sq_ft": 3650
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "summary": "This is a single storey commercial building situated within Maragua town in Muranga County. The building is characterized as a banking facility, while the neighbourhood is characterized with retail/wholesale shops and other businesses. Its location affords it good access and proximity to the basic infrastructural and social amenities within the town. The property was purposely built for banking purposes, and the ideal tenant would be a financial institution. We note that the property has not been occupied for some time, and a condition survey may be required to determine the extent of disrepair for subsequent renovation works. Maragua town is often described as a \"sleepy\" or \"dormant\" town, with challenges related to lack of infrastructure, social amenities, and economic stagnation. This has contributed to its relatively timid property market that has negatively affected property prices within the town. There are currently no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment would however be required to verify this. There was no evidence to suggest that this was once a public utility plot or was once a road reserve."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

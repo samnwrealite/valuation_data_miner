@@ -1,0 +1,69 @@
+{
+  "property_id": "Mombasa/Block XIII/106 & 109",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": ["Jf Onyango", "Simon Oruka Orwa"],
+    "inspection_date": "",
+    "report_date": "2025-02-10",
+    "client": "DIAMOND INDUSTRIES LIMITED",
+    "client_address": "",
+    "purpose": "Professional valuation report including Open Market Value, Mortgage Value, Forced Sale Value, Insurance Value"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Block XIII/106 & 109"
+    },
+    "location": {
+      "address": "off Lumumba Road - Makupa Area",
+      "county": "Mombasa County",
+      "city": "Mombasa"
+    },
+    "tenure": {
+      "type": "Freehold",
+      "details": "unexpired freehold interest"
+    },
+    "registered_proprietors": [
+      "BHARAT MOHANLAL PATEL",
+      "HIMATLAL DHARAMSHI PATEL",
+      "RAMNIKLAL DHARAMSHI PATEL"
+    ],
+    "ownership_type": "Absolute proprietors in equal shares",
+    "encumbrances": "CHARGE dated 29th October 2008 TO: Agha Khan Commercial Bank"
+  },
+  "property_description": {
+    "approximate_area_plot_106": "0.1059 Ac.",
+    "approximate_area_plot_109": "0.1059 Ac.",
+    "market_value_breakdown": {
+      "Plot No. 106": {"amount": 18000000, "currency": "KShs"},
+      "Plot No. 109": {"amount": 20000000, "currency": "Kshs"},
+      "Improvements": {"amount": 14000000, "currency": "KShs"}
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "income_capitalisation_approach_description": "This method estimates value based on the property’s anticipated income from the perspective of a typical investor in the market place. The net operating income is capitalised by an appropriate capitalization rate based on a reasonable expectation of return on the investment appropriate to the market and the rate of return investors would expect on net operating income in order to invest in similar properties.",
+    "market_value_definition": "The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 52000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fifty-Two Million"
+    }
+  },
+  "valuation_methodology": [
+    "Income Capitalisation Approach",
+    "Market Value (definition)",
+    "Mortgage Value (definition)",
+    "Forced Sale Value (definition)",
+    "Insurance Value (definition)"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

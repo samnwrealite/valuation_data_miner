@@ -1,0 +1,55 @@
+{
+  "property_id": "Mombasa/Block XIII/108",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": ["Danish Onyango", "Simon Oruka Orwa"],
+    "inspection_date": "",
+    "report_date": "2025-02-10",
+    "client": "DIAMOND INDUSTRIES LIMITED",
+    "client_address": "",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "108",
+    "block": "XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Block XIII/108",
+      "nature_of_title": "FREEHOLD",
+      "area": "0.118 Acres"
+    },
+    "location": {
+      "address": "off Lumumba Road - Makupa Area",
+      "city": "Mombasa",
+      "county": "Mombasa County"
+    },
+    "tenure": {
+      "type": "freehold",
+      "unexpired_term": ""
+    },
+    "registered_proprietors": [
+      "THE S.R. BHARAT MADHAVJI",
+      "RASIKLAL DHARAMSHI",
+      "HIMANTLAL DHARAMSHI",
+      "MANSUKHLAL DHARAMSHI"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Ct-02-6: 083 CHARGE DATED 07/08/2008 for AKAYA Commercial Bank Limited; CHARGE DATED 07/08/2008 for KCB Bank Limited"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 38000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Thirty-Eight Million"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

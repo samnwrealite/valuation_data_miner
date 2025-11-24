@@ -1,0 +1,101 @@
+{
+  "property_id": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+  "valuation_report": {
+    "report_reference": "QONASACCO/ 075499",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      {
+        "name": "Simon Oruka Orwa",
+        "designation": "BA (Land Economics) Hons (UoN), MISK, RV Registered & Practising Valuer"
+      }
+    ],
+    "inspection_date": "",
+    "report_date": "2025-09-12",
+    "client": "QONA DT Sacco Limited",
+    "client_address": "P.O BOX 2392-00606, Sarit Center, Goodman Plaza, 1st Floor, Waiyaki Way - Westlands",
+    "purpose": "The report should indicate the current Open Market Value (OMV), Mortgage Value (MV), and Estimated Forced Sale Value (FSV). Estimate of insurable amount over the property."
+  },
+  "property_details": {
+    "apartment_number": "33",
+    "block": "2/2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+      "registered_proprietors": "HOMELAND EXPRESS LTD P.O BOX 69-80122, Mombasa",
+      "tenure": "Leasehold Interest for a term of 99 years with effect from 1st November 2024 at an annual ground rent of KShs. 780/=",
+      "lease_commencement_date": "2024-11-01",
+      "lease_term": "99 years",
+      "ground_rent": {
+        "amount": 780,
+        "currency": "KShs"
+      },
+      "sectional_plan_number": "F/R NO. 619/34 - 40",
+      "serial_number": "0030271",
+      "approximate_area": "116.6 M\u00b2.",
+      "term": "99 YEARS",
+      "from_date": "2024-11-01",
+      "rent": 780,
+      "opened_date": "2024-11-29"
+    },
+    "location": {
+      "address": "Caitlin Heights Apartments, Shanzu area, Mombasa County",
+      "gps_coordinates": "3\u00b058'27.34\"S, 39\u00b044'44.20\"E",
+      "county": "Mombasa County",
+      "area": "Shanzu"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "lessor": "THE NATIONAL GOVERNMENT OF KENYA"
+    },
+    "registered_proprietors": [
+      {
+        "name": "HOMELAND EXPRESS LTD",
+        "address": "PO BOX 69 - 80122 MOMBASA CT"
+      }
+    ],
+    "ownership_type": "unit owner(s) of the leasehold interest",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {
+    "unit_area": "116.6 m2",
+    "number_of_bedrooms": "two (2)",
+    "accommodation": [
+      "LOUNGE",
+      "DINING RECESS with a door to BALCONY",
+      "OPEN PLAN KITCHEN with door to Dobbie area",
+      "WALKWAY",
+      "COMMON SHOWERROOM with WC, shower cubicle and wash basin",
+      "BEDROOM with door to BALCONY",
+      "MASTER BEDROOM ensuite with door to BALCONY and showerroom having WC, shower cubicle and wash basin",
+      "STAFF QUARTER with door to BALCONY"
+    ]
+  },
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "rental_value": {
+      "amount": 60000,
+      "currency": "KShs",
+      "period": "per month"
+    },
+    "neighbourhood_description": "The immediate neighbourhood is characterised by beach resorts and apartments along the sea frontage and a mixture of standalone residences, blocks of apartments and gated estates off the sea frontage.",
+    "demand": "Demand for properties both for rental and sale is strong within the neighbourhood due its proximity to Mombasa City Centre."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 9500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Nine Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Income Capitalisation Approach"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "The properties have not been set aside for public use/water catchment area, are not government land, not reserved for public utility user, not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3, and not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "environmental_issues_status": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "property_id": "Portion Number 1362 - MALINDI",
+  "valuation_report": {
+    "report_reference": "SOO/5324/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-06-11",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited, Mortgage Division",
+    "client_address": "Lonrho House, P.O. Box 45129-00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "tenure": "Freehold Interest",
+      "registered_proprietors": "KICHUNA PROPERTIES LIMITED",
+      "encumbrances": "Nil."
+    },
+    "location": {
+      "address": "off Marine Park Road, approximately 570 metres east of its junction with Casuarina Road, Casuarina area, Malindi, Kilifi County. The property fronts Marine Park Road to the west and Casuarina Beach to the east. It is easily identified on the ground as Elizaphan House.",
+      "gps_coordinates": "3°15'4.57\"S, 40° 7'43.98\"E"
+    },
+    "tenure": "Freehold Interest",
+    "registered_proprietors": [
+      "KICHUNA PROPERTIES LIMITED"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Nil."
+  },
+  "property_description": {
+    "description": "The plot is developed with a residential cottage provided with a staff quarter, gate house and a water stand. This is an approximately 1.36-acre beach plot developed with an imposing four (4) bedroom (all ensuite) holiday cottage in the serene surroundings of Casuarina residential area of Malindi Town, Kilifi County. The property has frontage to both Marine Park Road and Casuarina Beach."
+  },
+  "apartment_details": {},
+  "occupancy": "owner occupied as a holiday home",
+  "condition": "good state of repair and maintenance",
+  "market_assessment": {
+    "description": "Casuarina is a classy neighbourhood characterized by villas, cottages, holiday homes and beach resorts. Nearby notable properties include Billionaire Resort and Retreat, Malindi Marine Park, Lion in the Sand, among others. Demand for properties with the neighbourhood is steady with the area commanding premium prices. We anticipate continued growth in property prices in the area."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Market Value approach based on willing buyer willing seller basis at an arm’s length transaction, after proper marketing"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland.",
+    "planning_highway_statutory": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There ate currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "property_id": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+  "valuation_report": {
+    "report_reference": "SOO /5348/1/25",
+    "valuer": "NW Realite",
+    "valuers": [],
+    "inspection_date": "2025-09-10",
+    "report_date": "",
+    "client": "Qona DT Sacco Society Limited",
+    "client_address": "Goodman Plaza, P.O Box 2392-00606, Westlands, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "C 62",
+    "block": "Block 2/2",
+    "floor": "6th",
+    "title_details": {
+      "title_number": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+      "lease_term": "99 years",
+      "lease_start_date": "2024-11-01",
+      "annual_ground_rent": 780,
+      "ground_rent_currency": "KES"
+    },
+    "location": {
+      "address": "Caitlin Heights Apartments, Shanzu area, Mombasa County",
+      "gps_coordinates": "3°58'27.34\"S, 39°44'44.20\"E"
+    },
+    "tenure": {
+      "type": "Leasehold Interest",
+      "term": "99 years",
+      "start_date": "2024-11-01",
+      "ground_rent": 780,
+      "ground_rent_currency": "KES"
+    },
+    "registered_proprietors": [
+      {
+        "name": "HOMELAND EXPRESS LTD",
+        "address": "P.O BOX 69-80122, Mombasa"
+      }
+    ],
+    "ownership_type": "",
+    "encumbrances": "None are registered against the title."
+  },
+  "property_description": "The development on the plot comprises a nine-storey building with underground parking, gym area and swimming pool at the roof top. The apartment block comprises of two wings with mixed two (2) and three (3) bedroom units. Parking is provided on the road side, ground floor and basement. The subject of this valuation is Unit No. 33 situated on the 6th floor of the western wing of the block together with ten thousandth shares in the common property therein. The block of flats is constructed of reinforced concrete framework infilled with coral/concrete stone blocks rendered and colour washed externally, plastered and painted internally. The roof is flat reinforced concrete slab lined with quarry tiles set behind a parapet wall. Floors are reinforced concrete slab finished in marble tiles all through. Windows are glazed in sliding UPVC casements. Doors are solid timber panels. Doors to balcony are sliding glazed UPVC casements. Ceilings are plastered and painted.",
+  "apartment_details": {
+    "unit_area_sqm": 116.6,
+    "unit_area_sqft": 1252,
+    "number_of_bedrooms": 2,
+    "number_of_bathrooms": 2,
+    "accommodation_layout": [
+      "LOUNGE",
+      "DINING RECESS with a door to BALCONY",
+      "OPEN PLAN KITCHEN with door to Dobbie area",
+      "WALKWAY",
+      "COMMON SHOWERROOM with WC, shower cubicle and wash basin",
+      "BEDROOM with door to BALCONY",
+      "MASTER BEDROOM ensuite with door to BALCONY and showerroom having WC, shower cubicle and wash basin",
+      "STAFF QUARTER with door to BALCONY"
+    ],
+    "fittings_and_finishes": "Fittings include veneered wardrobes to all bedrooms, cupboards, cabinets and granitic worktop with double drain sink unit to the kitchen. Wet area walls are lined in marble tiles to 1/2 height."
+  },
+  "occupancy": "vacant",
+  "condition": "The building is newly constructed and in good state of repair and maintenance with standard fittings and finishes.",
+  "market_assessment": {
+    "rental_value_per_month": 60000,
+    "rental_currency": "KES",
+    "demand_assessment": "Demand for properties both for rental and sale is strong within the neighbourhood due its proximity to Mombasa City Centre.",
+    "neighbourhood_description": "The immediate neighbourhood is characterised by beach resorts and apartments along the sea frontage and a mixture of standalone residences, blocks of apartments and gated estates off the sea frontage."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    {
+      "type": "Market Value",
+      "description": "The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction, after proper marketing and where the parties had acted knowledgeably, prudently and without compulsion"
+    },
+    {
+      "type": "Mortgage Value",
+      "description": "The mortgage value returned is on the basis of a percentage of the market value. We have adopted 80% as the recommended standard percentage in accordance to regular practice"
+    },
+    {
+      "type": "Forced Sale Value",
+      "description": "The forced sale value is usually derived on similar principles as those of the current market value but anticipating a willing buyer-unwilling seller situation that most often lead to the attainment of lower values/prices upon a property’s liquidation. However, we have adopted a value based on 75% of the market value being the reserve price as recommended by Kenyan Law upon sale of properties for recovery purposes."
+    },
+    {
+      "type": "Insurance Value",
+      "description": "In arriving at the insurance value of the structural improvements, we usually consider the current replacement cost of the building including professional fees."
+    }
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said properties have not been set aside for public use/water catchment area. To the best of our knowledge, the subject properties are not government land and has not been reserved for public utility user. We confirm that the properties are not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the parcels of land are not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

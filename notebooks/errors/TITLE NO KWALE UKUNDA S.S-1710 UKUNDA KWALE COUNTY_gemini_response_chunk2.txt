@@ -1,0 +1,75 @@
+{
+  "property_id": "Kwale/Ukunda S.S/1710",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": ["NW Realite Limited"],
+    "inspection_date": "2025-05-23",
+    "report_date": "2025-05-26",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "",
+    "purpose": "Professional valuation for market, forced sale, and insurance purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "One",
+    "title_details": {
+      "title_number": "Kwale/Ukunda S.S/1710",
+      "area": "0.1668 Acres",
+      "map_sheet_no": "1",
+      "nature_of_title": "ABSOLUTE",
+      "date_opened": "2018-11-05",
+      "date_registered": "2018-12-09",
+      "proprietor": "Solomon Mathenge Muya"
+    },
+    "location": {
+      "county": "Kwale County",
+      "town": "Ukunda",
+      "coordinates": "4°18'25.69\"S, 39°32'43.69\"E",
+      "landmark": "Ukunda Youth Polytechnic"
+    },
+    "tenure": {
+      "type": "Freehold",
+      "unexpired_term": ""
+    },
+    "registered_proprietors": [
+      {
+        "name": "Solomon Mathenge Muya",
+        "id_number": "25681167"
+      }
+    ],
+    "ownership_type": "Individual",
+    "encumbrances": "None"
+  },
+  "property_description": {
+    "type_of_house": "Bungalow",
+    "user": "Residential",
+    "year_of_construction": "2020",
+    "plinth_area_sqm": 162.6,
+    "number_of_bedrooms": 3,
+    "number_of_bathrooms": 4,
+    "living_room_size_sqm": 31.8,
+    "features": ["Master ensuite", "separate dining room"]
+  },
+  "apartment_details": {},
+  "occupancy": "Owner Occupied",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 6500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Six Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "survey_map_verified": "Confirmation that you have examined relevant survey maps and that the property described is the one inspected.",
+    "land_use_compliance": "Confirmation that the land is not on river riparian/marsh land, road reserve, railway reserve or for any public amenity, nor set aside for any public use AND that the property or its predecessor (if a resultant title) is not specifically mentioned in the Ndungu Land Report and any other Title Revocation Notices issued by the National Land Commission, (Including Gazette Notice No 6862 dated 17\u2018 July 2017), Land Registrar or any other Government institution."
+  }
+}

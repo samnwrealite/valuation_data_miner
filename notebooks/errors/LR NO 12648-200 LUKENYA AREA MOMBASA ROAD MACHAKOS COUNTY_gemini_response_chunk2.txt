@@ -2,13 +2,16 @@
   "property_id": "12648/200",
   "valuation_report": {
     "report_reference": "B/856/Vol-1/AKM",
-    "valuer": "NW Realite",
-    "valuers": [],
+    "valuer": "A.K. Mululu",
+    "valuers": [
+      "ARCH. -R &WILCOCK",
+      "A.K. Mululu"
+    ],
     "inspection_date": "",
     "report_date": "2025-07-18",
-    "client": "ARCH. -R &WILCOCK",
-    "client_address": "",
-    "purpose": "CONDUCT VALUATION ON LAND REFERENCE NUMBER 12648/200"
+    "client": "NW Realite",
+    "client_address": "Jumuia Place, 1st Floor\nLenana Road,Kilimani\nNairobi",
+    "purpose": "Conduct retrospective valuation as at 30th April 2013"
   },
   "property_details": {
     "apartment_number": "",

@@ -1,0 +1,56 @@
+{
+  "property_id": "MAVOKO MUNICIPALITY BLOCK 46/175/192 Apartment NO. 5-D2-1",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5341/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [],
+    "inspection_date": "2025-08-23",
+    "report_date": "",
+    "client": "Qona DT Sacco Society Limited",
+    "client_address": "Goodman Plaza, First Floor, Waiyaki Way, Westlands, P.O. Box 2392-00606, Sarit Centre, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "5-D2-1",
+    "block": "5",
+    "floor": "5th floor",
+    "title_details": {},
+    "location": {
+      "address": "New Rise Gardens, Mwananchi Road, Syokimau Area",
+      "city": "Machakos County",
+      "coordinates": "1°21'42.1\"S 36°55'21.1\"E"
+    },
+    "tenure": {
+      "type": "leasehold",
+      "term": "96 years",
+      "start_date": "2023-12-01",
+      "ground_rent": {
+        "amount": 1450,
+        "currency": "KShs"
+      }
+    },
+    "registered_proprietors": [
+      "New Rise House Development Limited"
+    ],
+    "ownership_type": "sectional title",
+    "encumbrances": "Nil"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "The apartment was vacant at the time of our inspection. The gtoss monthly rental income is estimated at KShs. 40,000.00 unfurnished.",
+  "condition": "The apartment block was newly constructed in a good state of repair and decoration. There were no obvious defects to the ptoperty as at the time of our inspection.",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Market Value",
+    "Forced Sale Value"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

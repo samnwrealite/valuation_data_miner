@@ -1,0 +1,66 @@
+{
+  "property_id": "KAJIADO/KAPUTIEI NORTH/43881",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5321/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-05-26",
+    "report_date": "2025-06-18",
+    "client": "Kenya Airline Pilots Investments Limited",
+    "client_address": "Nairobi",
+    "purpose": "To advise on the Market Value of the property for book purposes."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/KAPUTIEI NORTH/43881",
+      "parcel_area": "20.235 hectares or 50.0 acres",
+      "registered_owner": "Kenya Airline Pilots Investment Limited"
+    },
+    "location": {
+      "county": "Kajiado County",
+      "area": "Naserian Area",
+      "coordinates": "1°38'54.11\"S 37° 1'39.87\"E",
+      "description": "The property is situated approximately three kilometres to the North of Naserian Primary School, approximately 22 Kilometers off Namanga Road branching eastwards at KAG University within Naserian area, Kajiado County."
+    },
+    "tenure": {
+      "type": "Freehold"
+    },
+    "registered_proprietors": [
+      "Kenya Airline Pilots Investment Limited"
+    ],
+    "ownership_type": "Freehold",
+    "encumbrances": "Valued free from any encumbrances; the valuation does not take into account any encumbrances that may be registered against the title."
+  },
+  "property_description": "This is a flat rectangular shaped parcel of rocky black soils with natural grass and shrubs vegetation. The parcel extends to approximately 20.235 hectares or 50.0 acres. There were no physical boundaries marking its extent and no structural developments had been erected on the land at the time of inspection. The property was covered with natural grass and shrub vegetation.",
+  "apartment_details": {},
+  "occupancy": "Unoccupied",
+  "condition": "No physical boundaries marking the extent of the parcel and no structural developments had been erected on the land. No visible environmental issues including contaminated land on the subject property.",
+  "market_assessment": {
+    "user": "Agricultural with potential for residential development.",
+    "services": "Mains electricity is available for connection in the neighborhood. Water supply would be from boreholes. Drainage would be to septic tanks/soak pits. Access roads from Namanga Road are either murram or earth surfaced.",
+    "general_remarks": "The area is characterized with sparse and scattered physical developments. There is however a potential for development, especially if the road networks were to be improved. Large parcels such as the subject are being subdivided into disposable units. The land market in the neighborhood is sluggish, the area is common with organized groups which hold large tracts of land for market speculations or land banking. The property is within the vicinity of the Kapiti Railway station. There was no evidence to suggest that the subject parcel has been set aside for public use such as a road bypass or reserve. Neither is the property on a wetland nor appears in the Ndung’u Report as irregularly acquired or allocated. We did not witness any signs of a possible encroachment on the land or squatters."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 50000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fifty Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value approach, defined as the estimated realization price on a willing buyer willing seller basis at an arm’s length transaction."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_use_status": "No evidence to suggest the parcel has been set aside for public use (e.g., road bypass or reserve).",
+    "environmental_status": "Not on a wetland. No visible environmental issues including contaminated land.",
+    "legal_status": "Does not appear in the Ndung’u Report as irregularly acquired or allocated. No signs of possible encroachment or squatters were witnessed."
+  }
+}

@@ -12,19 +12,21 @@
     "report_date": "2025-07-25",
     "client": "Archer & Wilcock Advocates",
     "client_address": "Elgeyo Marakwet Close, Off Elgeyo Marakwet Road, P.O. Box 10201-00400, Nairobi",
-    "purpose": "retrospective valuation of the above referenced property with a view to advising on its would-be market value as of 30th April 2013 for capital gains tax purposes."
+    "purpose": "retrospective valuation for capital gains tax purposes, advising on market value as of 30th April 2013"
   },
   "property_details": {
     "apartment_number": "",
     "block": "",
     "floor": "",
     "title_details": {
-      "title_number": "IR.272210 (L.R. 12648/200)",
-      "original_title_number": "12648/72/3 (subdivision of L.R. 12648/72)",
-      "survey_plan_number": "F/R No. 575/76",
+      "title_number": "IR.272210",
+      "lr_number": "12648/200",
       "deed_plan_number": "47/611",
-      "plot_area": "2.000 hectares (4.942 acres)",
-      "land_use": "Agricultural"
+      "survey_plan_number": "F/R No. 575/76",
+      "area_hectares": 2.000,
+      "area_acres": 4.942,
+      "original_lr_number": "12648/72",
+      "original_title_number_specific": "12648/72/3"
     },
     "location": {
       "area": "Lukenya Area",
@@ -35,31 +37,41 @@
     },
     "tenure": {
       "type": "leasehold interest",
-      "term": "999 years",
-      "start_date": "1920-01-01",
-      "ground_rent": 12200
+      "term_years": 999,
+      "term_start_date": "1920-01-01",
+      "annual_ground_rent": 12200,
+      "ground_rent_currency": "KES"
     },
     "registered_proprietors": [
       "George Stuart Lawrence Brown (as a personal representative of the estate of Peter Francis Lawrence Brown, deceased)"
     ],
-    "ownership_type": "",
+    "ownership_type": "Personal Representative of Estate",
     "encumbrances": "NIL (as per the copy of certificate of title)"
   },
   "property_description": {
-    "summary": "This is a vacant parcel of land situated along Mombasa Road, within Lukenya Area of Machakos County. The parcel is near level and rectangular in shape with mixed soils whose boundaries are marked by corner beacons. The parcel fronts Mombasa Road. The property is accessible and in proximity to major road networks and other social activities able to sustain any economic activities undertaken within the plot. The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to both commercial and industrial use along Mombasa Road with properties off this road opening up for residential use. Some industrial establishments within the vicinity of the properties include Brava Foods, Simba Cement, Golden Africa and Kenplastic Limited."
+    "land_use": "Agricultural",
+    "parcel_shape": "near level and rectangular in shape",
+    "soil_type": "mixed soils",
+    "boundaries": "marked by corner beacons",
+    "frontage": "The parcel fronts Mombasa Road.",
+    "services_available": "Mains electricity and water are available for connection to the property. Foul drainage would be into septic tank.",
+    "access": "The immediate access to the subject property is the tar-sutfaced, Mombasa Road.",
+    "improvements": "There were no structural improvements on the parcel as on the date of our inspection.",
+    "general_remarks": "This a vacant parcel of land situated along Mombasa Road, within Lukenya Area of Machakos County. The property is accessible and in proximity to major toad networks and other social activities able to sustain any economic activities undertaken within the plot. The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to both commercial and industrial use along Mombasa Road with properties off this road opening up for residential use. Some industrial establishments within the vicinity of the properties include Brava Foods, Simba Cement, Golden Africa and Kenplastic Limited. Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy."
   },
   "apartment_details": {},
   "occupancy": "Vacant",
-  "condition": "Vacant land, no structural improvements on the parcel as on the date of our inspection.",
+  "condition": "Vacant land, no structural improvements.",
   "market_assessment": {
-    "summary": "Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy."
+    "prevailing_market_conditions": "Demand for similar properties in the area is stable. We anticipate a lukewarm property market in the short and medium term due to the depressed economy.",
+    "neighbourhood_description": "The neighbourhood within which the subject property is located was hitherto agricultural. However, this is changing giving way to both commercial and industrial use along Mombasa Road with properties off this road opening up for residential use. Some industrial establishments within the vicinity of the properties include Brava Foods, Simba Cement, Golden Africa and Kenplastic Limited.",
+    "retrospective_date": "2013-04-30"
   },
   "valuations": {
     "current_market_value": {
       "amount": 57000000,
       "currency": "KES",
-      "amount_words": "Kenya Shillings Fifty Seven Million",
-      "valuation_date": "2013-04-30"
+      "amount_words": "Kenya Shillings Fifty Seven Million"
     }
   },
   "valuation_methodology": [
@@ -67,13 +79,9 @@
   ],
   "lease_details": {},
   "compliance": {
-    "statements": [
-      "The property was not and has not been set aside for public use/water catchment area.",
-      "The subject property is not government land and has not at any given time been reserved for public utility user.",
-      "The property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3.",
-      "The parcel of land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019.",
-      "The land is not on riparian reserve / wetland.",
-      "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
-    ]
+    "public_utility_user": "it is our considered opinion that the property was not and has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not at any given time been reserved for public utility user.",
+    "ndungu_report": "We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3.",
+    "nlc_gazette_notice": "We further confirm that the parcel of land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. It has been assumed that the status quo existed as of 30° April 2013."
   }
 }

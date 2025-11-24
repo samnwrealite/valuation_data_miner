@@ -19,29 +19,33 @@
     "floor": "",
     "title_details": {
       "title_number": "NJORO/NGATA BLOCK 2/5138 (KIROBON 'A')",
-      "title_deed_number": "2646936",
-      "approximate_area": "0.065 Ha",
+      "area": "0.065 Ha",
       "registry_map_sheet_no": "",
       "edition": "1",
-      "opened_date": "2016-04-06"
+      "opened_date": "2016-04-06",
+      "nature_of_title": "ABSOLUTE"
     },
     "location": {
       "county": "Nakuru County",
-      "area": "RVIST area",
-      "district_land_registry": ""
+      "district": "NJORO",
+      "sub_county": "NGATA",
+      "area_description": "RVIST area"
     },
     "tenure": {
-      "nature_of_title": "ABSOLUTE"
+      "type": "ABSOLUTE",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
     },
     "registered_proprietors": [
       {
         "name": "JOASH NAMAN OCHIENG",
-        "date_registered": "2019-05-16",
-        "address": "P.O. BOX 68771, NAIROBI"
+        "address": "P.O. BOX 68771, NAIR",
+        "registration_date": "2019-05-16"
       }
     ],
-    "ownership_type": "",
-    "encumbrances": "CHARGE To KCB BANK KENYA LTD FOR KSHS. 3,500,000/="
+    "ownership_type": "Absolute",
+    "encumbrances": "free from any encumbrances"
   },
   "property_description": {},
   "apartment_details": {},

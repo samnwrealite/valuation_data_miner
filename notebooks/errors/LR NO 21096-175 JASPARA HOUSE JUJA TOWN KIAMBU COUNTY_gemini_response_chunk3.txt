@@ -1,0 +1,60 @@
+{
+  "property_id": "2/22/75",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "LR-022",
+      "deed_plan_number": "242/77",
+      "registration_date": "",
+      "area": 0.0310,
+      "area_unit": "hectares"
+    },
+    "location": {
+      "district": "Kiambu",
+      "locality": "South West of Thika Municipality",
+      "county": "",
+      "town": "Thika",
+      "street_address": "",
+      "plot_number": "2/22/75"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "lease_term": "99 YEARS",
+      "lease_start_date": "1995-11-01",
+      "lease_end_date": "2094-11-01",
+      "ground_rent": "peppercorn (if demanded)"
+    },
+    "registered_proprietors": [
+      "CECILIA WAMBUT NJOROGE"
+    ],
+    "ownership_type": "Private",
+    "encumbrances": "Multiple charges registered against the title, including charges to The Co-operative Bank and Nieano laza Lunt. Specific charges mentioned include KES 1,000,000 and KES 2,000,000."
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

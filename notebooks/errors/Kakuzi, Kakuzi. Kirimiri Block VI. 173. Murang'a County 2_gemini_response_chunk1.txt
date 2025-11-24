@@ -2,48 +2,70 @@
   "property_id": "KAKUZI/KIRIMIRI BLOCK VI1/173",
   "valuation_report": {
     "report_reference": "SOO/DOO/5296/1/25",
-    "valuer": "Simon Oruka Orwa",
+    "valuer": "NW Realite Limited",
     "valuers": [
-      "Ken Wathome",
-      "Nahashon Kuria",
       "Danish Onyango Orech",
       "Simon Oruka Orwa"
     ],
     "inspection_date": "2025-02-21",
     "report_date": "2025-02-25",
-    "client": "Recovery Managet, KCB Bank Kenya Limited",
+    "client": "KCB Bank Kenya Limited",
     "client_address": "KCB Towers, Upper Hill, P.O. Box 48400 – 00100, Nairobi",
-    "purpose": "recovery purposes"
+    "purpose": "recovery purposes; to advice on its current market, mortgage, and forced sale values"
   },
   "property_details": {
     "apartment_number": "",
     "block": "VI1",
     "floor": "",
-    "title_details": {},
-    "location": {},
-    "tenure": {},
+    "title_details": {
+      "title_number": "KAKUZI/KIRIMIRI BLOCK VI1/173",
+      "approximate_area": "1.22 hectares (3.015 acres)",
+      "registry_map_sheet_no": ""
+    },
+    "location": {
+      "area": "Kakuzi Area",
+      "county": "Murang’a County",
+      "description": "The property is situated approximately 3.8 kilometers Northeast of Makuyu Boys High School, 2.5 kilometers Northeast of Kakuzi Magunas, 1 kilometer to the Southwest of Kihara Primary School and 1kilometet to the West of Kakuzi Horticulture East Office within Kakuzi Area in Murang’a County.",
+      "google_coordinates": "0°53'44.7\"S 37°14'15.4\"E"
+    },
+    "tenure": {
+      "type": "Freehold"
+    },
     "registered_proprietors": [
       "Samuel Kamande Muchoki"
     ],
-    "ownership_type": "absolute proprietor(s)",
+    "ownership_type": "Absolute proprietor",
     "encumbrances": "Registered against the title is a charge dated 17/11/2021 in favour of KCB Bank Kenya Limited to secure a sum of KShs. 3,900,000.00."
   },
-  "property_description": {},
+  "property_description": {
+    "land_use": "Agricultural",
+    "plot_and_site_works": "This is a trapezoidal-shaped, red soils plot with a southwards slope whose boundaries are open or fronting a seasonal river. Access into the property is open.",
+    "services": "Mains electricity and water are available for connection to the property. Fowl drainage would be into a septic tank. The immediate access road to the property is earth surfaced.",
+    "improvements": "There were temporary structures on the parcel, which have been ignored for the purposes of this valuation."
+  },
   "apartment_details": {},
   "occupancy": "Vacant",
   "condition": "",
-  "market_assessment": {},
+  "market_assessment": {
+    "general_remarks": "This is a vacant agricultural parcel located within Kakuzi area of Murang’a County. The property is located in the Kakuzi area, which is predominantly characterized by crop farming and single-family homesteads. There is adequate infrastructure within the neighborhood to support agricultural activities within the area.",
+    "demand": "The demand for agricultural land in this sub-market is average. The demand is fueled by proximity to water sources for agriculture as well as the soil types, which supports the cultivation of different varieties of crops.",
+    "challenges": "However, the topography of the subject plot, being slightly steep, could discourage potential buyers due to difficulties in cultivating the land."
+  },
   "valuations": {
     "current_market_value": {
       "amount": 7500000,
       "currency": "KES",
-      "amount_words": "Seven Million Five Hundred Thousand"
+      "amount_words": "Kenya Shillings Seven Million Five Hundred Thousand"
     }
   },
   "valuation_methodology": [
     "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
-    "Forced Sale Value: The forced sale value is also derived on similar principles as those of the current market value but anticipates a wzling buyer—unnilkng seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
+    "Forced Sale Value: The forced sale value is also derived on similar principles as those of the current market value but anticipates a willing buyer—unwilling seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
   ],
   "lease_details": {},
-  "compliance": {}
+  "compliance": {
+    "public_utility_user": "We have petused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current uset of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  }
 }

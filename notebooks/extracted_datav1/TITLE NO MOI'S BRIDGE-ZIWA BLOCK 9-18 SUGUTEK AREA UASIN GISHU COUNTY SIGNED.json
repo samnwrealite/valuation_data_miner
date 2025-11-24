@@ -1,0 +1,96 @@
+{
+  "property_id": "Moi\u2019s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+  "valuation_report": {
+    "report_reference": "12/06/2025-02",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "The Co-operative Bank of Kenya Limited",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "Valuation of property for Paul Kiplangat Yegon for Open Market Value, Forced Sale Value and Insurance Value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9",
+    "floor": "",
+    "title_details": {
+      "title_no": "Moi\u2019s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+      "area_hectares": 1.49,
+      "area_acres": 3.6818,
+      "registration_section": "MOI'S BRIDGE/ZIWA BLOCK 9(LEMOURUNGENY )",
+      "registry_map_sheet_no": "",
+      "date_opened": "1992-12-15",
+      "nature_of_title": "ABSOLUTE",
+      "approximate_area": "3.70 Acres"
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "area": "Sugutek Area",
+      "coordinates": "0\u00b052'09.5\"N 35\u00b018'16.7\"E",
+      "constituency": "",
+      "ward": "",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "Freehold",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
+    },
+    "registered_proprietors": [
+      {
+        "name": "ELIJAH KEIPROTICH LELACHET",
+        "address": "P.O, BOX 707,ELDORET,"
+      }
+    ],
+    "ownership_type": "Individual",
+    "encumbrances": "CHARGE to CO-OPERATIVE BANK OF KENYA LIMITED dated 2019-04-03"
+  },
+  "property_description": {
+    "plot_shape": "irregular-shaped",
+    "plot_terrain": "relatively flat",
+    "soil_type": "red soils",
+    "boundaries": "marked partly by hedges or left open",
+    "access_to_plot": "not defined/ open to the road frontage",
+    "services": {
+      "electricity": "Mains electricity is connected",
+      "piped_water": "could not ascertain the availability of piped water",
+      "drainage": "into a pit latrine"
+    },
+    "roads": "immediate access road is earth surfaced; main feeder road is murtram surfaced while the tarmac Kitale- Cherangani Road is about 7 kilometres away",
+    "improvements": "three homesteads on the parcel with most of the developments appearing to be of semi-permanent construction and hence considered temporary and subsequently ignored for purposes of this valuation.",
+    "general_description": "The subject property is an agricultural parcel located in the Sugutek area of Uasin Gishu County. It features a relatively flat terrain with red soil that is well-suited for crop cultivation. It is partly used for settlement hosting homesteads.",
+    "summary": "Agricultural land situated in a developing agricultural area with reasonable accessibility. Size: 3.70 Acres."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "neighbourhood_description": "The surrounding neighbourhood is predominantly agricultural, with both crop farming and livestock rearing being the primary economic activities.",
+    "infrastructure_development": "modest, with most access roads being earth-surfaced. The tarmac road is approximately 7 kilometers away. Other basic social facilities such as schools are within the locality.",
+    "demand": "modest as the property market is locally driven by the needs of the local population.",
+    "challenges_at_disposal": "The parcel hosts about three homesteads, evidence of occupation, a factor that may pose legal or logistical challenges at disposal. Disposing of the property under forced sale conditions may therefore be prolonged and potentially yield lower-than-expected proceeds.",
+    "summary": "The subject property is situated in a developing agricultural area with reasonable accessibility. Due to a relatively inactive market, actual sales within the immediate neighborhood were difficult to obtain. The valuation has therefore relied on comparable data from neighboring areas and opinions of value gathered from local market agents. Comparable 1 offers KShs 600,000 per acre. Comparables 2, 3, and 4 indicate KShs 1,300,000 to 1,600,000 per acre. An adjusted value may fall in the range of KShs 800,000-1,100,000 per acre."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 2960000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Sales Comparison Approach / Market Approach (relied on comparable data from neighboring areas and opinions of value gathered from local market agents)",
+    "Adopted Rate: KShs 800,000.00 per Acte"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. The property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. The land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory": "We don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "The property is solely registered in the name of Elijah Kiprotich Lelachei. We were unable to confirm whether this is a matrimonial property."
+  }
+}

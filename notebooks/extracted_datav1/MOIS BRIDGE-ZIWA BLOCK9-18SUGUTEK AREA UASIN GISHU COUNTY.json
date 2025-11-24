@@ -1,0 +1,117 @@
+{
+  "property_id": "Moi\u2019s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+  "valuation_report": {
+    "report_reference": "12/06/2025-02",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "Co-operative Bank of Kenya",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "Valuation of property for Paul Kiplangat Yegon, to determine Open Market Value, Forced Sale Value and Insurance Value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9 (Lemorungeny)",
+    "floor": "",
+    "title_details": {
+      "title_number": "MOI\u2019S BRIDGE/ZIWA BLOCK 9 (LEMORUNGENY)/18",
+      "area": "one point four zero nine zero (1.490) of hectares or three point six eight one eight (3.6818) acres approximately.",
+      "title_no": "Moi\u2019s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+      "registration_section": "MOL'S BRIDGE/ZIWA BLOCK 9(LEMORUNGENY )",
+      "parcel_number": "18",
+      "approximate_area": "3.70 Acres",
+      "nature_of_title": "ABSOLUTE",
+      "registry_map_sheet_no": "",
+      "date_opened": "1992-12-15",
+      "registered_proprietor_name": "ELIJAH KIPROTICH LELACHET",
+      "registered_proprietor_address": "P.O, BOX 707,ELDORET,.",
+      "date_of_registration": "1992-12-22"
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "area_name": "Sugutek Area",
+      "coordinates": "0\u00b052'09.5\"N 35\u00b018'16.7\"E",
+      "description": "situated in a developing agricultural area with reasonable accessibility.",
+      "constituency": "",
+      "ward": "",
+      "area": "Sugutek Area",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "ABSOLUTE"
+    },
+    "registered_proprietors": [
+      {
+        "name": "ELIJAH KIPROTICH LELACHET",
+        "address": "P.O, BOX 707,ELDORET,."
+      }
+    ],
+    "ownership_type": "Absolute Proprietor",
+    "encumbrances": "NO INHIBITIONS, NO CHARGES, NO NOTICES"
+  },
+  "property_description": {
+    "plot_description": "An irregular-shaped relatively flat red soils plot whose boundaries are marked partly by hedges or left open. Access is not defined/ open to the road frontage.",
+    "improvements": "there were three homesteads on the parcel with most of the developments appearing to be of semi-permanent construction and hence considered temporary and subsequently ignored for purposes of this valuation.",
+    "services": "Mains electricity is connected to the property. We could not ascertain the availability of piped water as at the date of our inspection. Foul drainage is into a pit latrine. The immediate access road is earth surfaced; main feeder road is murram surfaced while the tarmac Kitale- Cherangani Road is about 7 kilometres away.",
+    "type": "Agricultural Land",
+    "size": "3.70 Acres",
+    "general_description": "The subject property is situated in a developing agricultural area with reasonable accessibility."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_remarks": "The subject property is an agricultural parcel located in the Sugutek area of Uasin Gishu County. It features a relatively flat terrain with red soil that is well-suited for crop cultivation. It is partly used for settlement hosting homesteads. The surrounding neighbourhood is predominantly agricultural, with both crop farming and livestock rearing being the primary economic activities. Infrastructure development in the area is modest, with most access roads being earth-surfaced. The tarmac road is approximately 7 kilometers away. Other basic social facilities such as schools are within the locality. The parcel hosts about three homesteads, evidence of occupation, a factor that may pose legal or logistical challenges at disposal. Disposing of the property under forced sale conditions may therefore be prolonged and potentially yield lower-than-expected proceeds. Demand for similar properties in the neighbourhood is modest as the property market is locally driven by the needs of the local population.",
+    "market_activity": "Due to a relatively inactive market, actual sales within the immediate neighborhood were difficult to obtain.",
+    "comparable_data_source": "compatable data from neighboring areas and opinions of value gathered from local market agents familiar with transactions in the broader region.",
+    "comparables": [
+      {
+        "name": "Comparable 1",
+        "description": "closest proximity in terms of location",
+        "value_per_acre": {
+          "amount": 600000,
+          "currency": "KShs"
+        }
+      },
+      {
+        "name": "Comparables 2, 3, and 4",
+        "description": "higher market expectations in superior locations",
+        "value_range_per_acre": {
+          "min_amount": 1300000,
+          "max_amount": 1600000,
+          "currency": "KShs"
+        }
+      }
+    ],
+    "adjusted_value_range_per_acre": {
+      "min_amount": 800000,
+      "max_amount": 1100000,
+      "currency": "KShs",
+      "reason": "Given that the subject is slightly less prime than these high-end comparables but mote accessible than Comparable 1, a reasonable adjusted value may fall in the range of KShs 800,000-1,100,000 per acre, depending on its topography, soil quality, and development potential."
+    },
+    "adopted_rate_per_acre": {
+      "amount": 800000,
+      "currency": "KShs"
+    }
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 2960000,
+      "currency": "KES",
+      "amount_words": "KShs 3,000,000.00"
+    }
+  },
+  "valuation_methodology": [
+    "Market Approach (Sales Comparison)"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "The property is solely registered in the name of Elijah Kiprotich Lelachei. We were unable to confirm whether this is a matrimonial property."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "property_id": "182/36",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "parcel_numbers": [
+        "182/16",
+        "182/17",
+        "182/18",
+        "182/19",
+        "182/20",
+        "182/35",
+        "182/36",
+        "182/37"
+      ],
+      "title_number": "LR. 54189",
+      "original_number": "182/15/3",
+      "survey_plan_number": "155463",
+      "registration_date": "1991-10-11",
+      "presentation_number": ""
+    },
+    "location": {
+      "address": "Ondiri Area-Kikuyu, Kiambu County (outskirts of Kikuyu Township, approximately 1.5 kilometres to the West of Kikuyu Township, along Kikuyu-Kamangu Road and 350 meters to the Southeast of Ondiri Police Post)",
+      "coordinates": "1\u00b014'28.5\"S 36\u00b039'01.1\"E",
+      "district": "Kiambu District",
+      "town": "Kikuyu Town",
+      "area_description": "west of Kikuyu Town",
+      "area_measurement": 1.62,
+      "measurement_unit": "hectares"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "999 Years From 1.1.1904",
+      "start_date": "1904-01-01",
+      "ground_rent_details": "Varying revisable ground rent (KShs. 730, KShs. 1,940, KShs. 1,945, KShs. 2,970, KShs. 9,720)",
+      "annual_rent": 1945,
+      "rent_currency": "KES",
+      "rent_revisable": "Revisable"
+    },
+    "registered_proprietors": [
+      {
+        "name": "MICHAEL MWENDWA NGILY",
+        "address": "Nairobi (Post Office Box Number 51498)",
+        "role": "Lessee(s)"
+      }
+    ],
+    "ownership_type": "Lessee(s) from the Government of the Republic of Kenya",
+    "encumbrances": "1) The Government Lands Act (Chapter 280).; 2) The Special Conditions contained in a Grant registered as Number LR. 51540/1; 3) Caveat by the East African Power and Lighting Company Limited, registered GPK (L) -in Vol. N49 folio 69/7."
+  },
+  "property_description": {
+    "property_type": "A MIXED-USE PARCEL",
+    "plot_area_combined_hectares": 19.274,
+    "plot_area_combined_acres": 47.626,
+    "plot_area_subject_hectares": 14.596,
+    "plot_area_subject_acres": 36.067,
+    "land_use": "Agricultural user. Potential for residential user.",
+    "plot_site_works": "Irregular-shaped, red soils plot with a gentle westward slope whose boundaries are marked by barbed wire reinforced with hedges. Access into the property is via a metal plate gate mounted on concrete pillars granting access into the property.",
+    "services": "Mains electricity is connected to the property. Water is supplied from a borehole within the property. Foul drainage is into a septic tank. Immediate access road is tarmacked.",
+    "improvements": "2 No. similar 5-bedroomed townhouses, an ablution block, cowshed and a temporary storage cabin (temporary improvements ignored for valuation purposes).",
+    "buildings_description": {
+      "townhouses": {
+        "number_of_units": 2,
+        "bedrooms_per_unit": 5,
+        "construction": "Reinforced concrete framework of beams and columns in filled with natural stone walls plastered and colour washed externally, plastered and painted internally. Wet rooms have walls partially lined with ceramic tiles to dado level.",
+        "roof": "Fascia boarded timber trusses overlaid in factory-painted roofing sheets fitted with gutters and downpipes.",
+        "ceilings": "Plastered and painted concrete slab to the ground floor and soft board panels to the first floor.",
+        "doors": "External doors are metal panel types while the internal ones are timber flush types.",
+        "windows": "Glazed steel casements fitted with steel grilles for burglar protection.",
+        "floors": "Mass or reinforced concrete slabs finished in cement screed or ceramic tiles.",
+        "staircase": "Access to the upper floor is via a reinforced concrete staircase provided with steel balustrades and railings.",
+        "fittings": "Stainless-steel sink unit to the kitchen, wardrobes, cupboards, shelves and sanitary wares.",
+        "accommodation_per_unit": {
+          "ground_floor": [
+            "Entrance porch",
+            "Lounge",
+            "Kitchen",
+            "Dining",
+            "Washroom with a WC, shower and a WHB",
+            "1 No. bedroom en-suite with built-in wardrobes and a washroom containing a WC, WHB and an overhead shower",
+            "2 No. bedrooms"
+          ],
+          "first_floor": [
+            "Landing to: 2 No. bedrooms",
+            "Washroom with a WC, WHB and an overhead shower"
+          ]
+        },
+        "total_built_up_area_sq_ft": 5960
+      }
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_remarks": "Expansive property located in the outskirts of Kikuyu Township, Kiambu County. Immediate neighbourhood characterised mainly with stand-alone residential developments and complementary social amenities. For optimum use, the proposed sub-plot could be further subdivided into smaller portions to be utilised for residential developments. Infrastructural and social facilities are available in the neighbourhood to support medium density residential user.",
+    "market_outlook": "Property market has remained subdued due to local economic challenges that have adversely affected the demand for property across board. Anticipate a continued but measured growth in the foreseeable future due to improving macroeconomic factors such as falling interest and stable exchange rates.",
+    "public_utility_user_status": "Property has not been set aside for public use/water catchment area. Not government land and has not been reserved for public utility user. Not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. Not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. Not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "No significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "No other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

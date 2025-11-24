@@ -1,0 +1,67 @@
+{
+  "property_id": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+  "valuation_report": {
+    "report_reference": "QONASACCO/ 075499",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      {
+        "name": "Simon Oruka Orwa",
+        "designation": "BA (Land Economics) Hons (UoN), MISK, RV Registered & Practising Valuer"
+      }
+    ],
+    "inspection_date": "",
+    "report_date": "2025-09-12",
+    "client": "QONA DT Sacco Limited",
+    "client_address": "P.O BOX 2392-00606, Sarit Center, Goodman Plaza, 1st Floor, Waiyaki Way - Westlands",
+    "purpose": "The report should indicate the current Open Market Value (OMV), Mortgage Value (MV), and Estimated Forced Sale Value (FSV). Estimate of insurable amount over the property."
+  },
+  "property_details": {
+    "apartment_number": "33",
+    "block": "2/2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+      "sectional_plan_number": "F/R NO. 619/34 - 40",
+      "serial_number": "0030271",
+      "approximate_area": "116.6 M².",
+      "term": "99 YEARS",
+      "from_date": "2024-11-01",
+      "rent": 780,
+      "opened_date": "2024-11-29"
+    },
+    "location": {
+      "county": "Mombasa County",
+      "area": "Shanzu"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "lessor": "THE NATIONAL GOVERNMENT OF KENYA"
+    },
+    "registered_proprietors": [
+      {
+        "name": "HOMELAND EXPRESS LTD",
+        "address": "PO BOX 69 - 80122 MOMBASA CT"
+      }
+    ],
+    "ownership_type": "unit owner(s) of the leasehold interest",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 9500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Nine Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Income Capitalisation Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

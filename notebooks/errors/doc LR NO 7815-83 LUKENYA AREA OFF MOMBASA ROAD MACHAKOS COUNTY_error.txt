@@ -1,2 +1,9 @@
 Stage: gemini
-Error: Gemini error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+Error: Invalid format specifier ' "",
+    "file_size_kb": 0,
+    "processing_time_seconds": 0,
+    "ocr_used": true,
+    "pages_processed": 0,
+    "model_name": "gemini-2.5-pro",
+    "timestamp": ""
+  ' for object of type 'str'

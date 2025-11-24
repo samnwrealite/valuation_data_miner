@@ -1,0 +1,71 @@
+{
+  "property_id": "IRONG/ITEN/984",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5309 /1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "To advice on its current market value for court purposes."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "IRONG/ITEN/984"
+    },
+    "location": {
+      "township": "Iten Township",
+      "county": "Elgeyo Marakwet County",
+      "description": "The property is situated approximately 160 meters off Kerio Valley Road, 480 meters South of St. Patrick High School Iten, 420 meters Southwest of Elgeyo Marakwet County Assembly and 300 meters to the Southwest of Mosop Plaza within Iten Township in Elgeyo Marakwet County.",
+      "google_coordinates": "0\u00b040'09.8\"N 35\u00b030'15.2\"E"
+    },
+    "tenure": {
+      "type": "Freehold (Absolute proprietorship)"
+    },
+    "registered_proprietors": [],
+    "ownership_type": "Freehold",
+    "encumbrances": "Unascertained",
+    "plot_area_acres": 6.9682,
+    "plot_area_hectares": 2.82
+  },
+  "property_description": {
+    "plot_and_site_works": "This is an irregular-shaped red soils parcel with a fairly level terrain whose boundaries are left open. Access into the property is open.",
+    "services": "Mains electricity is available for connection to the property. Water would be from boreholes while drainage would be to septic tanks. The immediate access road to the subject properties is tar-surfaced.",
+    "improvements": "There were no permanent structural improvements on the property at the date of our inspection.",
+    "general_remarks": "This is a 7-acre parcel of land located within Iten Township in Elgeyo Marakwet County. The property is located in proximity to a myriad infrastructural and social amenities within the township. Iten is the headquarters and largest town of Elgeyo Marakwet County. It primarily serves as an administrative center, hosting various government offices, and the main commercial center of the County. The town boasts essential services such as Iten County Referral Hospital, which serves as the main healthcare facility in the region, and St. Patrick's High School Iten. The demand for plots within the town is mainly driven by the continuous growth in population especially for residential purposes. There is also a notable level of speculative investment in land, as buyers anticipate future growth and infrastructure development in the area. Given its size and location, the subject parcel can be subdivided into smaller parcels for commercial/ residential use."
+  },
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "Irregular-shaped red soils parcel with a fairly level terrain whose boundaries are left open. No permanent structural improvements.",
+  "market_assessment": {
+    "demand_drivers": "The demand for plots within the town is mainly driven by the continuous growth in population especially for residential purposes. There is also a notable level of speculative investment in land, as buyers anticipate future growth and infrastructure development in the area.",
+    "potential_use": "Given its size and location, the subject parcel can be subdivided into smaller parcels for commercial/ residential use."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 88500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Eighty-Eight Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    {
+      "method": "Comparative Sales Method",
+      "description": "This method is based on sales and/or properties for sale, which are similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property."
+    }
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "The property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues_summary": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  }
+}

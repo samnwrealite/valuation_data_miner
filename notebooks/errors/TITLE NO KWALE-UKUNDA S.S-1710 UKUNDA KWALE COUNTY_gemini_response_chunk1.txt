@@ -1,0 +1,94 @@
+{
+  "property_id": "KWALE/UKUNDA S.S/1710",
+  "valuation_report": {
+    "report_reference": "SOO/5316/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Simon Oruka Orwa - BA Land Econ. (Hons), MISK, RV, REA"
+    ],
+    "inspection_date": "2025-05-21",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited, Ukunda Branch",
+    "client_address": "P.O Box 685-80400, Ukunda",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "Kwale/Ukunda S. S/1710",
+      "plot_area": {
+        "hectares": 0.0675,
+        "acres": 0.1668
+      }
+    },
+    "location": {
+      "description": "The property is situated 1.5 kilometres off Ukunda/Lunga Lunga Road, turning west 3 kilomettes south east from its junction with Ukunda/Diani Road, at Ibiza shops, Ukunda, Kwale County.",
+      "gps_coordinates": "4°18'25.69\"S, 39°32'43.69\"E",
+      "county": "Kwale County",
+      "town": "Ukunda"
+    },
+    "tenure": "Freehold Interest",
+    "registered_proprietors": [
+      "SOLOMON MATHENGE MUYA ID 25681167"
+    ],
+    "ownership_type": "Individual",
+    "encumbrances": "Nil."
+  },
+  "property_description": {
+    "general_description": "The plot is developed with a three (3) bedroom bungalow, a store and a water tank stand.",
+    "user": "Residential",
+    "plot_description": "This is a level trapezoidal shaped mixed sandy soil plot whose boundaries ate marked by strands of barbed wire on timber posts. Access into the property is open.",
+    "services": "Mains electricity is connected and is supplemented by a generator. Water is obtained from a borehole. Water is stored in a raised plastic water tank on a reinforced concrete framework. Foul drainage is into septic tank and soak pit.",
+    "improvements": {
+      "bungalow": {
+        "construction": "coral stone walls partly rendered and colour washed and partly dressed and keyed externally, plastered and painted internally beneath a IT4 sheets toof on timber trusses. Ceiling is false gypsum panels to the lounge and dining and soft boards panels to other areas. The floor is mass concrete finished in ceramic tiles. Windows are glazed UPVC casements provided with metal grilles burglar proofs. Doots ate timber panels with external doors provided with metal sheet reinforcements. Wet atea walls are lined with ceramic tiles to lintel level. Fittings include wardrobes to bedrooms and ceramic worktop, cabinets, cup boards and single drain stainless steel sink to kitchen.",
+        "accommodation": "Entrance VERANDA; LOUNGE; DINING fitted with wash basin; CORRIDOR; KITCHEN; SHOWERROOM with WC, overhead shower and wash basin; Two (2) BEDROOMS each ensuite with showerroom have WC, overhead shower and wash basin; Lobby, Master BEDROOM with office and showerroom having WC, overhead shower and wash basin.",
+        "plinth_areas_sq_ft": {
+          "main_areas": 1532,
+          "verandas": 139
+        }
+      },
+      "store": {
+        "construction": "ditto to the Main house above save for the floor which is cement screed and the window which is metal sheet. Ceiling is unlined.",
+        "accommodation": "One Room.",
+        "plinth_area_sq_ft": 75
+      },
+      "water_stand": {
+        "construction": "reinforced concrete framework comprising of three levels."
+      }
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "The property is owner occupied.",
+  "condition": "The improvements are in good state of repair and maintenance.",
+  "market_assessment": {
+    "neighborhood_description": "This is a three bedroom all ensuite bungalow situated in the out skirts of Ukunda Township, Ukunda, Kwale County. The immediate neighborhood was previously an agricultural but currently turning into residential area with bigger agricultural parcels being subdivided into smaller plots of 1/8, 4 and 2 acre sizes to cater for increase demand for residential properties within the area. The area is currently characterized by undeveloped plots and a blend of Swahili type residential houses, modern bungalows and maisonettes mainly for owner occupier purposes. Ukunda township is largely propelled by the tourism sector and particularly Diani tourist circuit that host renowned beach hotels and villas. The economy of the town and its greater hinterland therefore depend on the performance of the tourism sector. The improvement of infrastructure in the area especially Dongo Kundu bypass has further opened the area. The typical residential sector within the town is stable. The local economy is generally vibrant and demand for land for residential development is anticipated to remain stable in the short and medium term. Demand for similar type of developments is modest as the subject market is predominantly build-to-own residential sector.",
+    "estimated_monthly_rent": {
+      "amount": 25000,
+      "currency": "KShs"
+    }
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction, after proper marketing and where the parties had acted knowledgeably, prudently and without compulsion.",
+    "Mortgage Value: The mortgage returned is on the basis of a percentage of the market value. We have adopted 80% as the standard recommended percentage in accordance with regular practice.",
+    "Forced Sale Value: The forced sale value is usually derived on similar principles as those of the current market value but anticipating a wiling buyer—unwilling seller situation that most often lead to the attainment of lower values/prices upon a property’s liquidation. However, we have adopted a value based on 75% of the market value being the reserve price as recommended by Kenyan Law upon sale/liquidation of any collateral for recovery purposes."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of out knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Ilegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland. We were unable to confirm the allotment date or if the ptoper procedures were followed as we were not privy to this information.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "Thete are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "According to the Matrimonial Property Act 2013, Section 6 (1) ©, Matrimonial Property means ‘any other immoveable or moveable property owned by both or either spouse and acquired during the subsistence of the mattiage’. The property is solely registered in the name of Solomon Mathenge Muya; we were unable to confirm whether this is a matrimonial property."
+  }
+}

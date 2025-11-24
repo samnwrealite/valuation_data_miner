@@ -1,0 +1,74 @@
+{
+  "property_id": "NYERI/LUSOI/4049",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5323/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-06-16",
+    "report_date": "2025-06-26",
+    "client": "Lusoi Estate Limited",
+    "client_address": "P.O BOX 53457 -00200 NAIROBI",
+    "purpose": "Advising on Current Open Market Value and Forced Sale Value for submission to the Agricultural Finance Corporation."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "NYERI/LUSOI/4049",
+      "approximate_area": "50.9 hectares (127.30 acres)",
+      "registry_map_sheet_no": "414.2"
+    },
+    "location": {
+      "area": "Karicheni-Lusoi area",
+      "county": "Nyeri County",
+      "coordinates": "0°17'12.3\"S 36°59'52.8\"E",
+      "description": "The property is situated in Karicheni - Lusoi area of Kieni, Nyeri County. It lies about two kilometers off and to the West of Nyeri-Nanyuki Road, 7.5 kilometers North of Chaka Town, 2.3 kilometers West of Kieni Technical and Professional College and 1.7 kilometers Southeast of Lusoi Resort."
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Lusoi Estate Limited"
+    ],
+    "ownership_type": "absolute proprietor(s)",
+    "encumbrances": "NIL."
+  },
+  "property_description": {
+    "land_use": "Agricultural.",
+    "parcel_and_siteworks": "This is an almost-trapezoidal shaped mixed black and brown soil parcel with gentle gradient whose boundaries ate partially marked with corner beacons. Access into the property is open.",
+    "services": "Piped water and electricity are available in the neighbourhood for connection. There is a dam within the property to augment water supply. Waste disposal would be to a septic tank/pit latrines.",
+    "improvements": "There was a temporary farm house and a permanent ablution block on the parcel which are of insignificant value. The dam on the parcel occupies about eight acres of land.",
+    "general_remarks": "This is a one hundred and twenty-seven-acre parcel of land located in Karicheni — Lusoi area of Kieni, Nyeri County. It is situated about 7.5 kilometers north of Chaka Town. The property is situated at the foothills of Mt Kenya thus receives adequate rain to sustain rainfed farming. The dam within the property stores rainwater. Besides farming, other real estate development options would include setting up holiday homes, a resort, or a recreational facility. Lusoi Resort is within the neighborhood of the property. Generally, demand for land for farming, development or speculation has been strong in the area. We however note that with the recent challenges in the wider economy the ptoperty market has been experiencing a slowdown with properties taking longer to dispose."
+  },
+  "apartment_details": {},
+  "occupancy": "The property was unoccupied at the time of our inspection but under the custody of the registered owner.",
+  "condition": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty.",
+  "market_assessment": {
+    "demand": "Generally, demand for land for farming, development or speculation has been strong in the area.",
+    "market_slowdown": "We however note that with the recent challenges in the wider economy the ptoperty market has been experiencing a slowdown with properties taking longer to dispose.",
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd Match 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_considerations": "In our opinion we don’t foresee any significant prospect of ot potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 190000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Hundred and Ninety Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Forced Sale Value: The forced sale value is also derived on similar principles as those of the current market value but anticipates a willing buyer-unwilling seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd Match 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_and_statutory_considerations": "In our opinion we don’t foresee any significant prospect of ot potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use."
+  }
+}

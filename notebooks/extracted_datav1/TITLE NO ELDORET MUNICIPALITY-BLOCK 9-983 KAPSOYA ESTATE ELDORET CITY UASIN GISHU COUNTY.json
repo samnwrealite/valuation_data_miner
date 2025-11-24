@@ -1,0 +1,96 @@
+{
+  "property_id": "Eldoret Municipality/Block 9/983",
+  "valuation_report": {
+    "report_reference": "7876911",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-04-30",
+    "client": "The Co-operative Bank of Kenya",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "VALUATION OF PROPERTY FOR KENNEDY KIPCHIRCHIR KOECH TAS BULLION VAULT"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9",
+    "floor": "",
+    "title_details": {
+      "title_number": "ELDORET MUNICIPALITY/BLOCK 9/983",
+      "plot_area": "0.0294 hectares",
+      "annual_ground_rent": 200,
+      "lease_term": "99 years",
+      "lease_start_date": "1989-01-01",
+      "nature_of_title": "LEASEHOLD",
+      "approximate_area_hectares": 0.0294
+    },
+    "location": {
+      "estate": "Kapsoya Estate",
+      "city": "Eldoret City",
+      "county": "Uasin Gishu County",
+      "ward": "Kapsoya Ward",
+      "sub_county": "Ainabkoi Sub-County",
+      "coordinates": "0\u00b031'00.9\"N 35\u00b018'00.5\"E",
+      "description": "The property is situated approximately 350 meters off Elgeyo Road, 220 meters to the West of Kapsoya AIC Church, 1.2 kilometres due Northeast of Rupa\u2019s Mall and 4 kilometres to the East of Eldoret CBD within Kapsoya Estate in Eldoret, Kapsoya Ward, Ainabkoi Sub- County, Uasin Gishu County.",
+      "municipality": "Eldoret Municipality"
+    },
+    "tenure": "Leasehold",
+    "registered_proprietors": [
+      "JOHNSON MWANGI MUIGA",
+      "JANE WAITHIRA MWANGI"
+    ],
+    "ownership_type": "Leasehold interest",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {
+    "general_description": "The property is developed with a 3-bedroom bungalow and an extension consisting of 2 No. 1-bedroom units.",
+    "plot_and_site_works": "The plot is a rectangular shaped of red soils with a fairly level gradient whose boundaries are marked with a masonry stone wall topped with razor wire. Access into the property is via a double-leaf metal plate gate opening into the compound.",
+    "services": "Mains electricity, water and sewer are connected to the property. The immediate access road to the property is earth surfaced.",
+    "bungalow_construction": {
+      "roof": "Fascia boarded timber trusses overlaid in box profile iron sheets.",
+      "ceilings": "Wooden strips and soft board panels.",
+      "walls": "Dressed natural stones keyed and master tendered externally, plastered and painted internally. Wet rooms have walls lined with ceramic tiles to dado level.",
+      "doors": "External doors are glazed steel type. Internal doors are timber flush types.",
+      "windows": "These are glazed steel casements types.",
+      "floors": "Mass concrete slabs finished in ceramic tiles.",
+      "fittings": "Fittings include cement stainless steel sink to the kitchen, ceramic worktops and wardrobe to the bedrooms."
+    },
+    "bungalow_accommodation": "Entrance; Lounge; Dining area; Kitchen; Pantry; Passageway with a WHB; 2 No. bedrooms; Cloakroom with an overhead shower; Cloakroom with a WC; Master bedroom en-suite with a WC, WHB, overhead shower and a bathtub.",
+    "bungalow_plinth_area": "1,280 sq. ft. approx.",
+    "extension_construction_note": "Similarly constructed as the bungalow",
+    "extension_accommodation": "2 No. One bedroom units each with: Entrance; Lounge; Kitchen; 1 No. bedroom; Cloakroom with a WC, WHB and an overhead shower;",
+    "extension_plinth_area": "415 sq. ft. approx.",
+    "type": "Main House with Staff Quarters"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": "Plots of similar size within Kapsoya go for KES 3,000,000 - KES 4,000,000. Comparable house listings range from KES 7,800,000 - KES 8,500,000.",
+  "valuations": {
+    "current_market_value": {
+      "amount": 8500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Eight Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {
+    "term": "99 YEARS FROM 1.1.89",
+    "start_date": "1989-01-01",
+    "annual_ground_rent": 200,
+    "ground_rent_currency": "KES",
+    "lessor": "ELDORET MUNICIPAL COUNCIL",
+    "lessee": "JOHNSON MWANGI MUIGA and JANE WAITHIRA MWANGI",
+    "rent_amount": 200,
+    "rent_currency": "KES",
+    "restriction": "NO DISPOSITION BY THE PROPRIETOR SHALL BE REGISTERED WITHOUT THE WRITTEN CONSENT OF THE LESSOR (S. 48)"
+  },
+  "compliance": {
+    "matrimonial_property_act_2013": "The property is registered in the names of Johnson Mwangi Muiga and Jane Waithira Mwangi, hence it is a matrimonial home."
+  }
+}

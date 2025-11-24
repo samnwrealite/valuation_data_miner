@@ -1,0 +1,70 @@
+{
+  "property_id": "SERGOIT/KOIWOPTAOI/BLOCK 8/18",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5307/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Simon Oruka Orwa BA (Land Economics) Hons (UoN), MISK, Registered & Practicing Valuer"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "advice on its current market value; for court purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "8",
+    "floor": "",
+    "title_details": {
+      "title_number": "SERGOIT/KOIWOPTAOI/BLOCK 8/18",
+      "plot_area_hectares": 39.97,
+      "plot_area_acres": 98.77,
+      "survey_map_reference": "Block 8 of Sergoit/Koiwoptaoi registration section"
+    },
+    "location": {
+      "address": "along Eldoret-Iten Road, approximately 12 kilometres to the Northeast of Eldoret City Centre, 3 kilometres to the East of University of Eldoret and 400 meters to the West of Chepkanga Health Centre within Chepkanga Area in Uasin Gishu County.",
+      "county": "Uasin Gishu County",
+      "coordinates": "0\u00b034'42.3\"N 35\u00b020'24.2\"E"
+    },
+    "tenure": {
+      "type": "freehold (Absolute proprietorship)"
+    },
+    "registered_proprietors": [
+      "Unascertained"
+    ],
+    "ownership_type": "Freehold",
+    "encumbrances": "Unascertained."
+  },
+  "property_description": {
+    "plot_description": "A trapezoidal-shaped red loam soils plot with a fairly level terrain whose boundaries are marked with barbed wire on timber posts.",
+    "access": "Access into the subject property is via frontage to the various road frontages to the property. The immediate access roads to the subject consist of the tar-sutfaced Eldoret-Iten Road and 2 No. murram-surfaced roads.",
+    "services": "Mains electricity is connected to the property. We opine that water is obtained from boreholes and drainage to septic tanks /latrines.",
+    "improvements": "Erected on the plot are various permanent and temporary structures. The developments have been ignored in our valuation.",
+    "general_remarks": "This is a 98-acre agricultural property located within Chepkanga area of Uasin Gishu County. Access to the property is granted by Eldoret-Iten Road and additional murram-surfaced roads. The parcel is characterised by ted soils and a fairly flat topography allowing for a range of agricultural activities. The area has extensive agricultural practises due to its proximity to good transport network, fertile soils and adequate rainfall. The parcel therefore has great potential for large scale commercial farming given its size that easily allow for mechanization."
+  },
+  "apartment_details": {},
+  "occupancy": "We could not verify the occupancy status of the property as at the date of our valuation.",
+  "condition": "",
+  "market_assessment": {
+    "market_trends": "We however note that the subject area is within the prescinds of Eldoret City and hence transitioning from agricultural to residential cum commercial use. Large parcels are therefore being subdivided into small plots that are more valuable and relatively easy to dispose of.",
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been resetved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Ilegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty. A detailed environmental impact assessment report would verify this in greater details.",
+    "market_value_definition": "The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm\u2019s length transaction."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 450000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Hundred and Fifty Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

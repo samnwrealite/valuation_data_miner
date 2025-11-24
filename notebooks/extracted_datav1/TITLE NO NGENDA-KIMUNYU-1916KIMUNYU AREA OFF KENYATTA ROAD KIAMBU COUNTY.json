@@ -1,0 +1,76 @@
+{
+  "property_id": "NGENDA/KIMUNYU/1916",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5319/1/25",
+    "valuer": "",
+    "valuers": [
+      "Danish Onyango",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-06-10",
+    "report_date": "2025-06-12",
+    "client": "Nairobi Consumers Cooperative Savings & Credit Society Limited",
+    "client_address": "Popo Road, New Nafuu Classic Bld, 1st Floor P.O. Box 36 00300 Nairobi, Kenya",
+    "purpose": "loan purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "NGENDA/KIMUNYU/1916",
+      "approximate_area": "0.261 HA",
+      "registry_map_sheet_no": "16",
+      "registered_proprietor_id": "12524871",
+      "registered_proprietor_address": "P O BOX 11854 NATROBI"
+    },
+    "location": {
+      "area": "Kimunyu Area-off Kenyatta Road, Kiambu County",
+      "coordinates": "1\u00b003'06.5\"S 36\u00b056'36.6\"E"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Paul Kamura Babu"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_shape": "rectangular-shaped",
+    "soil_type": "red soils",
+    "slope": "slight southward slope",
+    "boundaries": "marked by corner beacons",
+    "access": "open",
+    "improvements": "no structural improvements on the plot as at the date of our inspection",
+    "status": "vacant plot",
+    "neighbourhood_character": "single-family dwelling units mainly set within gated community estates",
+    "potential_use": "could be subdivided and utilized in a similar manner"
+  },
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "",
+  "market_assessment": {
+    "land_use": "Residential user",
+    "available_services": "Mains electricity and water are available for connection",
+    "road_condition": "Kenyatta Road, which is the main road in the neighbourhood is tat-surfaced",
+    "market_trends": "marginal growth in prices of land due to an increasing demand by prospective homeowners, fuelled by an ever-increasing middle-income demographic"
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 10000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Ten Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm\u2019s length transaction."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The property has not been set aside for public use/water catchment area, is not government land, has not been reserved for public utility user, is not listed in the Report of the Commission of Inquiry into the IIllegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. The land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_statutory_considerations": "No significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "No other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  }
+}

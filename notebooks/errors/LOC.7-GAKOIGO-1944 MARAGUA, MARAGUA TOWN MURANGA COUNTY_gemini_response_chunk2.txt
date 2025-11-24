@@ -15,22 +15,19 @@
     "block": "",
     "floor": "",
     "title_details": {
-      "title_number": "106, 7/G4KOIGO",
-      "title_deed_number": "5035121",
+      "title_number": "5035121",
       "edition_opened": "1981-12-22",
       "registry_map_sheet_no": "7 23 & 16",
+      "parcel_number": "1944",
       "approximate_area": "",
       "nature_of_title": "ABSOLUTE"
     },
     "location": {},
     "tenure": {},
     "registered_proprietors": [
-      {
-        "name": "ABSA BANK KENYA PLC",
-        "registration_date": "2024-03-26"
-      }
+      "ABSA BANK KENYA PLC"
     ],
-    "ownership_type": "Absolute",
+    "ownership_type": "",
     "encumbrances": ""
   },
   "property_description": {},

@@ -1,0 +1,103 @@
+{
+  "property_id": "ELDORET MUNICIPALITY/BLOCK 9/983",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5315/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harv yard)",
+      "Simon Oruka Orwa - BA Land Econ. (Hons), MISK, RV, REA",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN"
+    ],
+    "inspection_date": "2025-04-28",
+    "report_date": "",
+    "client": "Co-operative Bank Kenya Limited",
+    "client_address": "P.O. Box 48231-00100, GPO, Nairobi",
+    "purpose": "loan purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "9",
+    "floor": "",
+    "title_details": {
+      "title_number": "ELDORET MUNICIPALITY/BLOCK 9/983",
+      "plot_area": "0.0294 hectares",
+      "annual_ground_rent": 200,
+      "lease_term": "99 years",
+      "lease_start_date": "1989-01-01"
+    },
+    "location": {
+      "estate": "Kapsoya Estate",
+      "city": "Eldoret City",
+      "county": "Uasin Gishu County",
+      "ward": "Kapsoya Ward",
+      "sub_county": "Ainabkoi Sub-County",
+      "coordinates": "0°31'00.9\"N 35°18'00.5\"E",
+      "description": "The property is situated approximately 350 meters off Elgeyo Road, 220 meters to the West of Kapsoya AIC Church, 1.2 kilometres due Northeast of Rupa’s Mall and 4 kilometres to the East of Eldoret CBD within Kapsoya Estate in Eldoret, Kapsoya Ward, Ainabkoi Sub- County, Uasin Gishu County."
+    },
+    "tenure": {
+      "type": "leasehold interest",
+      "term": "99 years",
+      "start_date": "1989-01-01"
+    },
+    "registered_proprietors": [
+      "Johnson Mwangi Muiga",
+      "Jane Waithira Mwangi"
+    ],
+    "ownership_type": "matrimonial home",
+    "encumbrances": "Nil"
+  },
+  "property_description": {
+    "general_description": "The property is developed with a 3-bedroom bungalow and an extension consisting of 2 No. 1-bedroom units.",
+    "plot_and_site_works": "The plot is a rectangular shaped of red soils with a fairly level gradient whose boundaries are marked with a masonry stone wall topped with razor wire. Access into the property is via a double-leaf metal plate gate opening into the compound.",
+    "services": "Mains electricity, water and sewer are connected to the property. The immediate access road to the property is earth surfaced.",
+    "bungalow_construction": {
+      "roof": "Fascia boarded timber trusses overlaid in box profile iron sheets.",
+      "ceilings": "Wooden strips and soft board panels.",
+      "walls": "Dressed natural stones keyed and master tendered externally, plastered and painted internally. Wet rooms have walls lined with ceramic tiles to dado level.",
+      "doors": "External doors are glazed steel type. Internal doors are timber flush types.",
+      "windows": "These are glazed steel casements types.",
+      "floors": "Mass concrete slabs finished in ceramic tiles.",
+      "fittings": "Fittings include cement stainless steel sink to the kitchen, ceramic worktops and wardrobe to the bedrooms."
+    },
+    "bungalow_accommodation": "Entrance; Lounge; Dining area; Kitchen; Pantry; Passageway with a WHB; 2 No. bedrooms; Cloakroom with an overhead shower; Cloakroom with a WC; Master bedroom en-suite with a WC, WHB, overhead shower and a bathtub.",
+    "bungalow_plinth_area": "1,280 sq. ft. approx.",
+    "extension_construction_note": "Similarly constructed as the bungalow",
+    "extension_accommodation": "2 No. One bedroom units each with: Entrance; Lounge; Kitchen; 1 No. bedroom; Cloakroom with a WC, WHB and an overhead shower;",
+    "extension_plinth_area": "415 sq. ft. approx."
+  },
+  "apartment_details": {},
+  "occupancy": "Occupied by a tenant",
+  "condition": "Good state of repair and decoration",
+  "market_assessment": {
+    "general_remarks": "This is 3-bedroom master en-suite bungalow with a detached extension having 2 No. one-bedroom units in Kapsoya Estate, about 4 kilometres from Eldoret CBD, Uasin Gishu county. The buildings are adequately finished and in a good state of repair and maintenance. Kapsoya Estate is a fully serviced estate with all the mains services available. While the immediate access road to the property is earth-surfaced, the property enjoys close proximity to all-weather roads within the neighbourhood such as the nearby Elgeyo Road. Other social amenities within the proximity include shopping malls, like Rupa’s Mall, schools and religious establishments. The residential market within Eldoret remains stable and continues to experience steady growth owing to the infrastructural improvements and a growing middle-income demographic. This has led to a sustained demand both rental and purchase, especially within established estates like Kapsoya.",
+    "public_utility_user_status": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    {
+      "type": "Market Value",
+      "description": "The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction."
+    },
+    {
+      "type": "Forced Sale Value",
+      "description": "The forced sale value is usually derived on similar principles as those of the current market value but anticipating a willing buyer-unwilling seller situation that most often lead to the attainment of lower values/prices upon a property’s liquidation. However, we have adopted a value based on 75% of the market value being the reserve price as recommended by Land Act upon sale (auction) of property for recovery purposes."
+    }
+  ],
+  "lease_details": {
+    "term": "99 years",
+    "start_date": "1989-01-01",
+    "annual_ground_rent": 200,
+    "ground_rent_currency": "KES"
+  },
+  "compliance": {
+    "matrimonial_property_act_2013": "The property is registered in the names of Johnson Mwangi Muiga and Jane Waithira Mwangi, hence it is a matrimonial home."
+  }
+}

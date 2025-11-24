@@ -1,0 +1,87 @@
+{
+  "property_id": "MOMBASA/BLOCK XIII/80",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5293/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": ["Ken Wathome", "Nahashon Kuria"],
+    "inspection_date": "2025-01-30",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "Kencom House, Moi Avenue, P.O. Box 48400 - 00100, Nairobi",
+    "purpose": "to advice on its current market, mortgage, forced sale and insurance values respectively. The valuation is required for recovery purposes."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "MOMBASA/BLOCK XIII/80",
+      "area_hectares": 0.212,
+      "area_acres": 0.525
+    },
+    "location": {
+      "address": "Mwangeka Road - Makupa Area, Mombasa County",
+      "description": "The property is situated along Mwangeka Road, approximately 500 meters due Southwest of Makupa Roundabout, 150 meters to the Northwest of Makupa Primary School and to the immediate Northwest of Makupa Catholic Church, within Makupa Area of Mombasa City, Mombasa County.",
+      "coordinates": "4°02'41.6\"S 39°39'15.9\"E"
+    },
+    "tenure": {
+      "type": "Freehold interest"
+    },
+    "registered_proprietors": [
+      "Himatlal Dharamshi Patel",
+      "Ramniklal Dharamshi Patel",
+      "Mansukhlal Dharamshi Patel"
+    ],
+    "ownership_type": "Tenants in common in equal shares",
+    "encumbrances": "Registered against the title are the following charges in favout of Kenya Commercial Bank Limited: - i) Charge dated 19 June 2008 to secure a sum of Kshs. 21,000,000.00. ii) Charge dated 4 October 2011 to secure a sum of Kshs. 34,000,000.00"
+  },
+  "property_description": {
+    "land_use": "Light Industrial.",
+    "plot_and_site_works": "This is a rectangular/trapezoidal-shaped, fairly level sandy/coral soil plot whose boundaries are marked by building lines or stonewall. Access into the property is via a double-leaf metal plate gate mounted on concrete pillars opening into the compound. An additional single-leaf metal gate is provided for pedestrian access.",
+    "services": "Mains water and electricity are connected to the property. Drainage is to a septic tank. Immediate access road is tar-surfaced.",
+    "improvements_summary": "The plot is developed with a three-storey office block, 2 No. go-downs, a changing room’s block and a workshop block.",
+    "office_block": {
+      "built_up_area_sq_ft": 4100,
+      "accommodation": "Ground Floor: Storage area; Office; Washroom with a WC; First Floor: Landing to: - Waiting room; Kitchen; 4No. offices; Washroom with a WHB and 2 No. WCs. Second Floor: Landing to: - 3No. file storage rooms; Boardroom; Washroom with a WHB and 2 No. WCs."
+    },
+    "godown_1": {
+      "warehouse_area_sq_ft": 7970,
+      "mezzanine_area_sq_ft": 2770,
+      "accommodation": "Washtoom with a WC and a WHB; Storage atea with a mezzanine floor; Old machine area."
+    },
+    "godown_2": {
+      "warehouse_area_sq_ft": 6200,
+      "mezzanine_area_sq_ft": 3825,
+      "accommodation": "Administration/sales area with 6 No. offices; Warehouse storage area; Workshop with a mezzanine floor; Old candle manufacturing area with a mezzanine floor;"
+    },
+    "changing_room_block": {
+      "plinth_area_sq_ft": 300,
+      "accommodation": "2No. bathrooms; Changing room; 3 No. cloakrooms each with a WC; WHB."
+    },
+    "workshop_block": {
+      "plinth_area_sq_ft": 110,
+      "accommodation": "Mechanic office; Workshop"
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "Unoccupied",
+  "condition": "As at the date of our inspection, the buildings were in a relatively fair condition of repair and maintenance. In their current states the buildings will require renovation works including dislodging the defunct machinery in Godown 2, for them to be functional.",
+  "market_assessment": {
+    "neighbourhood_character": "The neighbourhood is characterised by a combination of light industrial and commercial properties.",
+    "demand": "The demand for similar properties in this neighbourhood is moderate either for use as light industrial/warehouse facilities and offices.",
+    "environmental_issues_summary": "There are currently no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property.",
+    "planning_highway_statutory_considerations_summary": "In our opinion we don’t foresee any significant prospect of ot potential for change of use of the subject properties or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": ["Comparative Sales Method"],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "We have petused relevant survey plans; it is our considered opinion that the said properties have not been set aside for public use/water catchment area. To the best of our knowledge, the subject properties are not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on tipatian reserve /wetland."
+  }
+}

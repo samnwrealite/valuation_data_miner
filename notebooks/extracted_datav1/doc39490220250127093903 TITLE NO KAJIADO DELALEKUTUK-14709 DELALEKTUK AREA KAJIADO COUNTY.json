@@ -1,0 +1,69 @@
+{
+  "property_id": "KAJIADO/DALALEKUTUK/14709",
+  "valuation_report": {
+    "report_reference": "CM/2025/SP/Reddys Pharma Limited-PC VAR RB Pe] Nn k",
+    "valuer": "N.W. Realite Limited",
+    "valuers": [
+      "N.W. Realite Limited"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-01-20",
+    "client": "I&M Bank Limited",
+    "client_address": "1 Park Avenue, First Parklands Avenue P.O Box 30238 - 00100, GPO, Nairobi Kenya",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/DALALEKUTUK/14709",
+      "plot_area_hectares": 8.31,
+      "plot_area_acres": 20.53,
+      "survey_map_reference": "Sheet No.161/3, 4, 162/3, 172/2 & 173/1 of Kajiado/Dalalekutuk registration section together with Inset Sheet No. 2"
+    },
+    "location": {
+      "area": "Dalalekutuk area",
+      "county": "Kajiado County",
+      "coordinates": "1\u00b046'49.62\"S, 36\u00b046'4.75\"E",
+      "proximity_to_highway": "6.5 kilometers off Namanga Highway",
+      "proximity_to_landmark": "6 Kilometer West of Umma University"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "land_use": "Agricultural with potential for mixed use purposes.",
+    "plot_shape": "Almost L-shaped black cotton soil parcel with gentle southward slope",
+    "boundaries": "Open, delineated by survey beacons",
+    "access": "Open",
+    "vegetation": "Natural grass vegetation and thorny shrubs",
+    "improvements": "No structural developments"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "neighbourhood_character": "Similar vacant parcels of land with sparse and scattered physical developments, mostly used as grazing fields, with future development potential for subdivision.",
+    "infrastructure_availability": "Not connected with basic infrastructural services (water, electricity). Rudimentary road network.",
+    "land_market_trend": "Modest, common with large land holdings for market speculation and land banking.",
+    "economic_impact": "Subdued due to depressed economy, high interest rates, and low capital inflows.",
+    "environmental_issues": "No developments or environmental issues including contaminated land affecting value.",
+    "public_use_status": "Not set aside for public use, not in Ndung\u2019u report as irregularly acquired or allocated.",
+    "matrimonial_property_status": "Unable to determine if matrimonial."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

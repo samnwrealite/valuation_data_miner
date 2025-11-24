@@ -1,11 +1,11 @@
 {
-  "property_id": "182/35",
+  "property_id": "182/36",
   "valuation_report": {
     "report_reference": "",
     "valuer": "",
     "valuers": [],
     "inspection_date": "",
-    "report_date": "1991-10-11",
+    "report_date": "",
     "client": "",
     "client_address": "",
     "purpose": ""
@@ -15,29 +15,34 @@
     "block": "",
     "floor": "",
     "title_details": {
-      "title_number": "182/35",
-      "original_number": "182/15/2",
-      "land_survey_plan_number": "232 = 155462",
-      "grant_registered_as": "I.R. 51540/1",
-      "term": "",
-      "annual_rent": 2970,
-      "annual_rent_currency": "KES",
-      "annual_rent_revisable": true
+      "title_number": "LR. 54189",
+      "original_number": "182/15/3",
+      "survey_plan_number": "155463",
+      "registration_date": "1991-10-11",
+      "presentation_number": ""
     },
     "location": {
-      "district": "",
-      "town": "",
-      "area_description": "",
-      "area_measurement": 0,
-      "measurement_unit": ""
+      "district": "Kiambu District",
+      "town": "Kikuyu Town",
+      "area_description": "west of Kikuyu Town",
+      "area_measurement": 1.620,
+      "measurement_unit": "hectares"
     },
     "tenure": {
-      "type": "",
-      "from": ""
+      "term": "999 Years From 1.1.1904",
+      "annual_rent": 1945,
+      "rent_currency": "KES",
+      "rent_revisable": "Revisable"
     },
-    "registered_proprietors": [],
-    "ownership_type": "",
-    "encumbrances": "Caveat by the East African Power and Lighting Company Limited exit() - Registered in Yol. N49 folio 89/7."
+    "registered_proprietors": [
+      {
+        "name": "MICHAEL MWENDWA NGILY",
+        "address": "Nairobi (Post Office Box Number 51498)",
+        "role": "Lessee(s)"
+      }
+    ],
+    "ownership_type": "Lessee(s) from the Government of the Republic of Kenya",
+    "encumbrances": "1) The Government Lands Act (Chapter 280).; 2) The Special Conditions contained in a Grant registered as Number LR. 51540/1; 3) Caveat by the East African Power and Lighting Company Limited, registered GPK (L) -in Vol. N49 folio 69/7."
   },
   "property_description": {},
   "apartment_details": {},

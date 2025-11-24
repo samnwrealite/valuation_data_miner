@@ -1,0 +1,67 @@
+{
+  "property_id": "SHAWA/GICHEHA BLOCK 4/697 & 698 (KANGAKINGA)",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Nw Realite Ltd",
+    "valuers": ["Nw Realite Ltd"],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "NYAGAKI BUILDERS HARDWARE LIMITED",
+    "client_address": "",
+    "purpose": "Valuation for Open Market Value, Forced Sale Value and Insurance Value"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "4",
+    "floor": "",
+    "title_details": {
+      "title_number": ["SHAWA/GICHEHA BLOCK 4/697 (KANGAKINGA)", "SHAWA/GICHEHA BLOCK 4/698 (KANGAKINGA)"],
+      "approximate_area": "",
+      "registry_map_sheet_no": "",
+      "nature_of_title": "ABSOLUTE",
+      "registration_section": "SHAWA/GICHEHA BLOCK 4 (KANGAKINGA)",
+      "parcel_numbers": ["697", "698"]
+    },
+    "location": {
+      "area": "KANGAKINGA",
+      "county": "",
+      "constituency": "",
+      "ward": "",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "Absolute",
+      "details": "Absolute Proprietorship"
+    },
+    "registered_proprietors": [
+      {
+        "name": "PETER MWARANGU MWANGT",
+        "address": ""
+      }
+    ],
+    "ownership_type": "Absolute Proprietorship",
+    "encumbrances": "None recorded in official search certificates."
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "checks_requested": [
+      "Confirm whether property is on road reserve/by-pass, riparian, animal migration corridor&/or set aside for public use.",
+      "Confirm whether property is in the Ndungu Land Report.",
+      "Confirm if National Land Commission has revoked the property.",
+      "Confirm whether property is a matrimonial home or matrimonial property."
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "property_id": "L.R. NUMBER: 7815/83 (I.R NUMBER: 237281)",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5296/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2021-10-14",
+    "report_date": "2021-10-20",
+    "client": "Mr. Kenneth Wathome",
+    "client_address": "Nairobi",
+    "purpose": "advisory purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_no": "IR.237281",
+      "land_reference_no": "7815/83",
+      "original_number": "7815/26/5",
+      "survey_plan_number": "453369"
+    },
+    "location": {
+      "area": "Lukenya Area",
+      "road": "Off Mombasa Road",
+      "county": "Machakos County",
+      "description": "approximately 700 meters off Mombasa Road, 2.3 kilometres to the East of Greenpark Estate and 2.5 kilometres due South of Lukenya Gateway within Lukenya Area of Machakos County.",
+      "coordinates": "1°28'12.2\"S 37°02'21.7\"E"
+    },
+    "tenure": {
+      "type": "leasehold interest",
+      "term_years": 999,
+      "term_start_date": "1948-08-01",
+      "annual_ground_rent": {
+        "amount": 30258,
+        "currency": "KES",
+        "amount_words": "KShs. 30,258.00"
+      }
+    },
+    "registered_proprietors": [
+      "Kenneth Wathome Mwatu"
+    ],
+    "ownership_type": "Leasehold",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_area_hectares": 2.024,
+    "plot_area_acres": 5.001,
+    "land_use": "Mixed use",
+    "parcel_shape": "rectangular",
+    "soil_type": "black cotton soils",
+    "slope": "fairly level",
+    "boundaries": "marked by corner beacons",
+    "services": "Mains electricity and water are available for connection to the property. Foul drainage would be into a septic tank.",
+    "access_road": "earth surfaced branching off the tar-surfaced Mombasa Road",
+    "improvements": "no structural improvements",
+    "general_remarks": "This is a vacant parcel of land situated off Mombasa Road, within Lukenya Area of Machakos County. The property is accessible and in proximity to major road networks and other social activities to support any developments on the plot."
+  },
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "Vacant land with black cotton soils and fairly level slope.",
+  "market_assessment": {
+    "neighbourhood_trend": "hitherto agricultural, changing to a myriad of mixed-use developments comprising residential, commercial and industrial users, pushing property prices upwards.",
+    "property_demand": "stable",
+    "market_outlook": "lukewarm in the short and medium term due to the depressed economy that has been precipitated by the Covid 19 pandemic.",
+    "planning_considerations": "no significant prospect of or potential for change of use; current user conforms to stipulated use.",
+    "environmental_issues": "no obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 60000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Sixty Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {
+    "type": "leasehold interest",
+    "term_years": 999,
+    "term_start_date": "1948-08-01",
+    "annual_ground_rent": {
+      "amount": 30258,
+      "currency": "KES",
+      "amount_words": "KShs. 30,258.00"
+    }
+  },
+  "compliance": {
+    "public_utility_user_status": "not set aside for public use/water catchment area; not government land and not reserved for public utility user.",
+    "ndungu_report_status": "not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3.",
+    "nlc_gazette_status": "not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019.",
+    "riparian_wetland_status": "not on riparian reserve /wetland.",
+    "planning_conformity": "current user of the property conforms to its stipulated use.",
+    "environmental_issues_assessment": "no obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

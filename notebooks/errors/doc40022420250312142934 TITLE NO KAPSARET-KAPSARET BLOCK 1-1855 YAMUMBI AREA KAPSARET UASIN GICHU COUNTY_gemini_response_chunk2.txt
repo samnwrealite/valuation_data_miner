@@ -2,13 +2,16 @@
   "property_id": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855",
   "valuation_report": {
     "report_reference": "",
-    "valuer": "Simon Oruka Orwa",
-    "valuers": ["Danish Onyango Orech", "Simon Oruka Orwa"],
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
     "inspection_date": "",
     "report_date": "2025-03-11",
-    "client": "MILCAH W MBUGUA",
+    "client": "MILCAH WANGUI MBUGUA",
     "client_address": "",
-    "purpose": "To determine Open Market Value, Forced Sale Value, and Insurance Value for financing and insurance purposes."
+    "purpose": "Valuation for Open Market Value, Forced Sale Value, and Insurance Value for financing purposes."
   },
   "property_details": {
     "apartment_number": "",
@@ -17,38 +20,90 @@
     "title_details": {
       "title_number": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855",
       "area": "0.043HA",
-      "tenure_type": "ABSOLUTE",
-      "registry_map_sheet_no": ""
+      "registry_map_sheet_no": "",
+      "registered_proprietor_name": "MILCAH WANGUI MBUGUA",
+      "registered_proprietor_id": "EDI9575999.0",
+      "date_of_registration": "",
+      "consideration_and_remarks": ""
     },
     "location": {
-      "area": "Yamumbi Area",
       "county": "Uasin Gishu County",
       "constituency": "",
       "ward": "",
-      "gps_coordinates": "",
-      "address": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1855-Yamumbi Area, Eldoret, Uasin Gishu County"
+      "area": "Yamumbi Area, Eldoret",
+      "gps_coordinates": ""
     },
     "tenure": {
-      "type": "freehold interest",
-      "details": "free from any encumbrances"
+      "type": "Absolute Freehold",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
     },
-    "registered_proprietors": ["MILCAH WANGUI MBUGUA - EDI9575999.0"],
-    "ownership_type": "",
+    "registered_proprietors": [
+      {
+        "name": "MILCAH WANGUI MBUGUA",
+        "id_number": "EDI9575999.0"
+      }
+    ],
+    "ownership_type": "Absolute proprietor(s)",
     "encumbrances": "free from any encumbrances"
   },
   "property_description": {},
   "apartment_details": {},
   "occupancy": "",
   "condition": "",
-  "market_assessment": {},
+  "market_assessment": {
+    "adopted_land_value": 1000000,
+    "land_comparables": [
+      {
+        "title_no": "Kapsaret/Kapsaret Block 1 (Yamumbi)/2464",
+        "area": "Yamumbi Area",
+        "size": "0.055Ha/0.1360 of an acre",
+        "sale_price": 800000,
+        "date": "2020-12-01",
+        "adjusted_price": 960000
+      },
+      {
+        "title_no": "Kapsaret/Kapsaret Block 1 (Yamumbi)/1715",
+        "area": "Yamumbi Area",
+        "size": "0.04 Ha/0.111 of an acre",
+        "value": 1000000,
+        "date": "2022-04-01"
+      },
+      {
+        "description": "Plot for Sale in Yamumbi",
+        "size": "0.04 Ha/0.111 of an acre",
+        "asking_price": 1130000
+      },
+      {
+        "description": "Plot for Sale in Yamumbi Near Corner Bus Stage",
+        "location_relative": "500 meters NE of subject",
+        "size": "0.04 Ha/0.111 of an acre",
+        "asking_price": 950000
+      }
+    ]
+  },
   "valuations": {
     "current_market_value": {
       "amount": 5600000,
       "currency": "KES",
       "amount_words": "Kenya Shillings Five Million Six Hundred Thousand"
+    },
+    "forced_sale_value": {
+      "amount": 4200000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million Two Hundred Thousand"
+    },
+    "insurance_value": {
+      "amount": 5300000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Five Million Three Hundred Thousand"
     }
   },
-  "valuation_methodology": ["Market Approach", "Depreciated Replacement Cost Approach"],
+  "valuation_methodology": [
+    "Market Approach (Sales Comparison Approach)",
+    "Depreciated Replacement Cost Approach"
+  ],
   "lease_details": {},
   "compliance": {}
 }

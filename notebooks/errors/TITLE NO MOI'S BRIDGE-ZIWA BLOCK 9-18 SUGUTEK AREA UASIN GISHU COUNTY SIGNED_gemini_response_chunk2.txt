@@ -1,0 +1,71 @@
+{
+  "property_id": "Moi’s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+  "valuation_report": {
+    "report_reference": "12/06/2025-02",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "The Co-operative Bank of Kenya Limited",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "Valuation of property for Paul Kiplangat Yegon for Open Market Value, Forced Sale Value and Insurance Value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9",
+    "floor": "",
+    "title_details": {
+      "title_no": "Moi’s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+      "registration_section": "MOI'S BRIDGE/ZIWA BLOCK 9(LEMOURUNGENY )",
+      "registry_map_sheet_no": "",
+      "date_opened": "1992-12-15",
+      "nature_of_title": "ABSOLUTE",
+      "approximate_area": "3.70 Acres"
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "constituency": "",
+      "ward": "",
+      "area": "Sugutek Area",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "Freehold",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
+    },
+    "registered_proprietors": [
+      {
+        "name": "ELIJAH KEIPROTICH LELACHET",
+        "address": "P.O, BOX 707,ELDORET,"
+      }
+    ],
+    "ownership_type": "Individual",
+    "encumbrances": "CHARGE to CO-OPERATIVE BANK OF KENYA LIMITED dated 2019-04-03"
+  },
+  "property_description": {
+    "summary": "Agricultural land situated in a developing agricultural area with reasonable accessibility. Size: 3.70 Acres."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "summary": "The subject property is situated in a developing agricultural area with reasonable accessibility. Due to a relatively inactive market, actual sales within the immediate neighborhood were difficult to obtain. The valuation has therefore relied on comparable data from neighboring areas and opinions of value gathered from local market agents. Comparable 1 offers KShs 600,000 per acre. Comparables 2, 3, and 4 indicate KShs 1,300,000 to 1,600,000 per acre. An adjusted value may fall in the range of KShs 800,000-1,100,000 per acre."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 2960000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Sales Comparison Approach / Market Approach (relied on comparable data from neighboring areas and opinions of value gathered from local market agents)",
+    "Adopted Rate: KShs 800,000.00 per Acte"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

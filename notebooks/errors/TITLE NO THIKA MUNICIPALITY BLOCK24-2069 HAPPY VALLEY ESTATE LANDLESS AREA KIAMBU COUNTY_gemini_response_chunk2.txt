@@ -1,0 +1,56 @@
+{
+  "property_id": "KAJIADO / DALALEKUTUK / 16262 & 16265 ; THIKA MUNICIPALITY BLOCK 24 / 2069",
+  "valuation_report": {
+    "report_reference": "1",
+    "valuer": "Nw Realite Ltd",
+    "valuers": ["Nw Realite Ltd"],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "ROBERT LESHAU GITAU",
+    "client_address": "",
+    "purpose": "VALUATION OF PROPERTY FOR ROBERT LESHAU GITAU TAS REDOX METAL ALLOY"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "BLOCK 24",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO / DALALEKUTUK / 16262 & 16265 ; THIKA MUNICIPALITY BLOCK 24 / 2069",
+      "approximate_area": "0.0806 HA",
+      "registry_map_sheet_no": "6",
+      "edition": "7",
+      "opened_date": "1996-10-15",
+      "registration_section": "THIKA MUNICIPALITY",
+      "parcel_number": "2069",
+      "nature_of_title": "ABSOLUTE",
+      "title_deed_number": "MLS/TD/02/A2/02 No. 2874403"
+    },
+    "location": {
+      "county": "KAJIADO",
+      "constituency": "DALALEKUTUK",
+      "ward": "",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "ABSOLUTE"
+    },
+    "registered_proprietors": ["ROBERT LESHAU GITAU"],
+    "ownership_type": "",
+    "encumbrances": "None"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

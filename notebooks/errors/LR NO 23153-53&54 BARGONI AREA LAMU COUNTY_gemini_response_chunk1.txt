@@ -1,0 +1,94 @@
+{
+  "property_id": "L.R NUMBERS 23153/53 & 54 (I.R NUMBERS: 52890 & 52889 RESPECTIVELY)",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5304/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-04-26",
+    "report_date": "2025-05-05",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "KCB Towers, Upper Hill, P.O. Box 48400 - 00100, Nairobi",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "land_reference_numbers": [
+        "23153/53",
+        "23153/54"
+      ],
+      "ir_numbers": [
+        "52890",
+        "52889"
+      ],
+      "title_numbers": [
+        "CR. 52890",
+        "CR. 52889"
+      ],
+      "area_hectares": 20.24,
+      "area_acres": 50.012
+    },
+    "location": {
+      "area": "Bargoni Area",
+      "county": "Lamu County",
+      "coordinates": [
+        "2°06'03.5\"S 40°45'45.2\"E",
+        "2°06'05.2\"S 40°45'31.2\"E"
+      ],
+      "description": "approximately 4 kilometres off Hindi-Bargoni Road, about 8 kilometres to the Southwest of Bargoni Shopping Centre and 10 kilometres to the Northwest of Hindi Township"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 years",
+      "start_date": "2011-06-01",
+      "annual_ground_rent": {
+        "amount": 1250,
+        "currency": "KSHS",
+        "revisable": true
+      }
+    },
+    "registered_proprietors": [
+      "Maalims Ranching Company Limited"
+    ],
+    "ownership_type": "Leasehold",
+    "encumbrances": "CHARGE DATED 2022-11-11 TO KCB BANK KENYA LIMITED FOR KSHS.10320000 (WITH OTHER LANDS)"
+  },
+  "property_description": {
+    "plot_type": "rectangular-shaped sandy soils plots",
+    "gradient": "fairly level",
+    "boundaries": "marked corner beacons",
+    "access": "open",
+    "improvements": "no permanent structural improvements",
+    "general_remarks": "These are two 50-acre parcels of land located within the larger Bargoni Area of Lamu County. The properties are accessible via an earth road branching off the main Hindi-Bargoni murram road. Bargoni is a semi-rural area characterized by expansive parcels of land, limited infrastructure, and sparse settlement. While the region has faced security incidents in the past, the situation has significantly improved due to increased government presence and security apparatus, with further improvements anticipated."
+  },
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "No permanent structural improvements",
+  "market_assessment": {
+    "market_condition": "relatively slow",
+    "demand_drivers": "speculative holdings and agricultural use",
+    "price_stability": "stable",
+    "investor_activity": "minimal",
+    "future_outlook": "expected to improve as the LAPSSET Corridor project stimulates growth",
+    "transactional_volumes": "modest",
+    "rental_demand_vacant_land": "negligible",
+    "property_specific_issues": "The subject parcels are speculative holdings within a slow-moving market with modest demand. Their appeal lies in their prospects for future growth driven by improving infrastructure. Under forced sale circumstances, a significant discount is expected on the market value due to liquidity issues, delayed development prospects and locational challenges. Any attempts at sale is expected to experience extended marketing and a prolonged sale period."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 28000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Twenty-Eight Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market approach (Sales comparison) method. This method is based on sales and/or properties for sale, which are similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

@@ -1,0 +1,65 @@
+{
+  "property_id": "Eldoret Municipality/Block 9/983",
+  "valuation_report": {
+    "report_reference": "7876911",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-04-30",
+    "client": "The Co-operative Bank of Kenya",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "VALUATION OF PROPERTY FOR KENNEDY KIPCHIRCHIR KOECH TAS BULLION VAULT"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9",
+    "floor": "",
+    "title_details": {
+      "nature_of_title": "LEASEHOLD",
+      "approximate_area_hectares": 0.0294
+    },
+    "location": {
+      "city": "Eldoret City",
+      "county": "Uasin Gishu County",
+      "estate": "Kapsoya Estate",
+      "municipality": "Eldoret Municipality"
+    },
+    "tenure": "Leasehold",
+    "registered_proprietors": [
+      "JOHNSON MWANGI MUIGA",
+      "JANE WAITHIRA MWANGI"
+    ],
+    "ownership_type": "Leasehold interest",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {
+    "type": "Main House with Staff Quarters"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": "Plots of similar size within Kapsoya go for KES 3,000,000 - KES 4,000,000. Comparable house listings range from KES 7,800,000 - KES 8,500,000.",
+  "valuations": {
+    "current_market_value": {
+      "amount": 8500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Eight Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {
+    "lessor": "ELDORET MUNICIPAL COUNCIL",
+    "term": "99 YEARS FROM 1.1.89",
+    "lessee": "JOHNSON MWANGI MUIGA and JANE WAITHIRA MWANGI",
+    "rent_amount": 200,
+    "rent_currency": "KES",
+    "restriction": "NO DISPOSITION BY THE PROPRIETOR SHALL BE REGISTERED WITHOUT THE WRITTEN CONSENT OF THE LESSOR (S. 48)"
+  },
+  "compliance": {}
+}

@@ -1,0 +1,82 @@
+{
+  "property_id": "SHAWA/GICHEHA BLOCK 4/697 & 698 (KANGAKINGA)",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "NYAGAKI BUILDERS HARDWARE LIMITED",
+    "client_address": "",
+    "purpose": "Valuation for Open Market Value, Forced Sale Value and Insurance Value"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "4",
+    "floor": "",
+    "title_details": {
+      "full_title": "Shawa/ Gicheha Block 4/697 & 698 (Kangakinga)",
+      "title_number": [
+        "SHAWA/GICHEHA BLOCK 4/697 (KANGAKINGA)",
+        "SHAWA/GICHEHA BLOCK 4/698 (KANGAKINGA)"
+      ],
+      "approximate_area": "",
+      "registry_map_sheet_no": "",
+      "nature_of_title": "ABSOLUTE",
+      "registration_section": "SHAWA/GICHEHA BLOCK 4 (KANGAKINGA)",
+      "parcel_numbers": [
+        "697",
+        "698"
+      ]
+    },
+    "location": {
+      "description": "The properties ate situated along Nakuru- Eldoret Highway, in Sobea, within Sobea\u2019s expansion zone; lying at about 15.5 kilometres from Nakuru town Centre due north-west. They lie approximately 400 metres west of the Nakuru-Eldoret/Kabarak/Njoro T-junction. The properties are within Rongai Ward, Rongai Sub-County, Nakuru County. The Google Map co-ordinates 0\u00b014'42.6\"S 35\u00b056'18.7\"E fall on the property.",
+      "area": "KANGAKINGA",
+      "county": "",
+      "constituency": "",
+      "ward": "",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "Absolute",
+      "details": "Absolute Proprietorship"
+    },
+    "registered_proprietors": [
+      {
+        "name": "PETER MWARANGU MWANGT",
+        "address": ""
+      }
+    ],
+    "ownership_type": "Absolute Proprietorship",
+    "encumbrances": "None recorded in official search certificates."
+  },
+  "property_description": {
+    "details": "Two rectangular shaped and contiguous flat grey volcanic soils plots whose boundaries are marked variously by GCI sheets, barbed wire on timber posts or are left open. Access is not defined/ open to the road frontage. These are two prime residential plots located on the north-western sprawl of Sobea shopping centre, that is 15.5 kilometres from Nakuru town and within Nakuru\u2019s commuter zone. The area is suitable for both commercial and residential users and is accessible to all basic infrastructural, social and economic amenities. The area is mainly an owner occupier residential area wile plots fronting the highway portend a commercial nature."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "details": "The area is suitable for both commercial and residential users and is accessible to all basic infrastructural, social and economic amenities. The area is mainly an owner occupier residential area wile plots fronting the highway portend a commercial nature. We ate not aware of any factors that could negatively affect the saleability of the property both in an open market and forced sale situations."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "details": "We further confirm that to the best of our knowledge; the ptoperty does not lie on a road reserve and has no public user claims upon its title. There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Ilegal/Irregular Allocation of Public Land). At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way. As per the Gazzette Notice No. 6862 of July 2017, the title of the subject property has not been revoked by the National Land Commission.",
+    "checks_requested": [
+      "Confirm whether property is on road reserve/by-pass, riparian, animal migration corridor&/or set aside for public use.",
+      "Confirm whether property is in the Ndungu Land Report.",
+      "Confirm if National Land Commission has revoked the property.",
+      "Confirm whether property is a matrimonial home or matrimonial property."
+    ]
+  }
+}

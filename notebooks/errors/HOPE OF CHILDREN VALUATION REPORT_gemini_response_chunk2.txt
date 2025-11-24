@@ -1,14 +1,17 @@
 {
-  "property_id": "Sub-Plot B of Proposed Amalgamation & Subdivision of L.R No: 182/16-20, 35-37, Kikuyu, Kiambu County",
+  "property_id": "Sub-Plot B of Proposed Amalgamation & Subdivision of L.R Numbers: 182/16-20, 35-37, Kikuyu, Kiambu County",
   "valuation_report": {
     "report_reference": "",
-    "valuer": "NW Realite Limited",
-    "valuers": ["Danish Onyango", "Simon Oruka Orwa"],
-    "inspection_date": "",
+    "valuer": "Danish Onyango",
+    "valuers": [
+      "Danish Onyango",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-06-18",
     "report_date": "2025-06-18",
     "client": "",
     "client_address": "",
-    "purpose": "Market Valuation"
+    "purpose": "Current Market Value"
   },
   "property_details": {
     "apartment_number": "",
@@ -17,9 +20,11 @@
     "title_details": {},
     "location": {},
     "tenure": {},
-    "registered_proprietors": ["TUMAINI MINISTRIES INC."],
-    "ownership_type": "Corporate Leasehold",
-    "encumbrances": "free from any encumbrances"
+    "registered_proprietors": [
+      "MICHAEL MWENDWA NGILU"
+    ],
+    "ownership_type": "Lessee",
+    "encumbrances": "The Government Lands Act (Chapter 280); The Special Conditions contained in a Grant registered as Number LR. 51540/1; Caveat by the East African Power and Lighting Company Limited (Registered in Vol. N. 49 folio 69/7)"
   },
   "property_description": {},
   "apartment_details": {},

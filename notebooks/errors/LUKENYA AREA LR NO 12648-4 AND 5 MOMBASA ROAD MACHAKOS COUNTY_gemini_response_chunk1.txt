@@ -1,0 +1,85 @@
+{
+  "property_id": "12648/204 & 205",
+  "valuation_report": {
+    "report_reference": "SOO/5347/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": ["Simon Oruka Orwa"],
+    "inspection_date": "2025-09-08",
+    "report_date": "2025-09-11",
+    "client": "Archer & Wilcock Advocates",
+    "client_address": "Elgeyo Marakwet Close, Off Elgeyo Marakwet Road, P.O. Box 10201-00400, Nairobi",
+    "purpose": "capital gains tax purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "IR.272214 & IR.272215",
+      "original_title_number": "12648/72",
+      "survey_plan_number": "F/R No. 575/76",
+      "deed_plan_number": "DEED PLAN No.-47/6%S",
+      "annual_rent": 12200,
+      "annual_rent_currency": "KES",
+      "annual_rent_words": "Twelve Thousand Two Hundred Only",
+      "title_issue_date": "2024-04-03"
+    },
+    "location": {
+      "area": "Lukenya Area",
+      "road": "Mombasa Road",
+      "county": "Machakos County",
+      "coordinates": "1°29'8.65\"S, 37° 3'10.43\"E",
+      "description": "about 900 meters due Southeast of Daystar University junction past Brava Foods and adjacent to Masai K Limited to the northwest of Maisha Mabati Mills and Simba Cement."
+    },
+    "tenure": {
+      "type": "leasehold interest",
+      "term": "999 years",
+      "term_start_date": "1920-01-01"
+    },
+    "registered_proprietors": ["George Stuart Lawrence Brown (as a personal representative of the estate of Peter Francis Lawrence Brown, deceased)"],
+    "ownership_type": "",
+    "encumbrances": "NIL"
+  },
+  "property_description": {
+    "plot_areas": {
+      "parcel_204_area_hectares": 2.000,
+      "parcel_204_area_acres": 4.942,
+      "parcel_205_area_hectares": 2.000,
+      "parcel_205_area_acres": 4.942,
+      "combined_area_hectares": 4.000,
+      "combined_area_acres": 9.884
+    },
+    "land_use": "Agricultural.",
+    "parcel_shape": "Parcel 204 is rectangular in shape while Parcel 205 is trapezoidal in shape",
+    "soil_type": "mixed soils",
+    "slope": "gently sloping towards Mombasa Road",
+    "boundaries": "marked by corner beacons",
+    "frontage": "Mombasa Road",
+    "services": "Mains electricity and water are available for connection to the properties. Foul drainage would be into septic tanks.",
+    "access": "The immediate access to the subject properties is the tar-surfaced, Mombasa Road.",
+    "improvements": "There were no structural improvements on the parcels as on the date of our inspection.",
+    "general_remarks": "These ate vacant parcels of land situated along Mombasa Road, within Lukenya Area of Machakos County. The properties are accessible and in proximity to major toad networks and other social activities able to sustain any economic activities undertaken within the plots."
+  },
+  "apartment_details": {},
+  "occupancy": "vacant parcels of land",
+  "condition": "no structural improvements",
+  "market_assessment": {
+    "neighbourhood_change": "The neighbourhood within which the subject properties are located was hitherto agricultural. However, this has changed giving way to both commercial and industrial use along Mombasa Road with properties off this road opening up for residential use.",
+    "industrial_establishments_vicinity": ["Brava Foods", "Simba Cement", "Maisha Mabati Mills", "Golden Africa", "Kenplastic Limited"],
+    "demand": "Demand for similar properties in the area is stable.",
+    "market_outlook": "We anticipate a lukewarm property market in the short and medium term due to the depressed economy.",
+    "public_utility_user_check": "it is our considered opinion that the said properties have not been set aside for public use/water catchment area. To the best of our knowledge, the subject properties are not government land and has not been reserved for public utility user. We confirm that the properties are not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3, We further confirm that the parcels of land are not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland.",
+    "environmental_issues": "There ate currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties. A detailed environmental impact assessment report would verify this in greater details.",
+    "valuation_date_consideration": "We note that this is a retrospective valuation with the date of valuation being 30th April 2013. We have therefore taken into consideration the market factors and conditions that were prevailing as at the date of valuation in the determination of the market values."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 112000000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": ["Comparative Sales Method"],
+  "lease_details": {},
+  "compliance": {}
+}

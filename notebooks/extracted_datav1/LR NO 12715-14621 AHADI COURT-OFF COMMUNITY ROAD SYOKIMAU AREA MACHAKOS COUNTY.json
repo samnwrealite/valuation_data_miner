@@ -1,0 +1,162 @@
+{
+  "property_id": "LR NO 12715-14621 AHADI COURT-OFF COMMUNITY ROAD SYOKIMAU AREA MACHAKOS COUNTY",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "lr_number": "12715/14621",
+      "ir_number": "217740",
+      "certificate_of_title_number": ""
+    },
+    "location": {
+      "area": "Syokimau Area",
+      "county": "Machakos County",
+      "coordinates": "1\u00b021'50.1\"S 36\u00b056'05.2\"E",
+      "description": "approximately 270 meters off Community Road, 2.5 kilometres to the West of Gateway Mall and 420 meters Southwest of St. Veronica Catholic Church within Syokimau Area of Machakos County",
+      "geolocation_address": "1\u00b021'50.1\"S 36\u00b056'05.2\"E",
+      "nearest_landmark": "Gateway Mall"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term_years": 99,
+      "commencement_date": "1983-11-01",
+      "annual_ground_rent": {
+        "amount": 1334,
+        "currency": "KES"
+      }
+    },
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "type": "four bedroom all-ensuite townhouse with a domestic staff quarters",
+    "plot_area": {
+      "hectares": 0.0389,
+      "acres": 0.0961
+    },
+    "plot_characteristics": {
+      "shape": "rectangular-shaped",
+      "soil_type": "black cotton soils",
+      "slope": "fairly level slope",
+      "boundaries": "perimeter stone wall",
+      "access": "sliding metal plates gate mounted on concrete pillars opening into the compound"
+    },
+    "services": {
+      "electricity": "Mains electricity is connected to the property",
+      "water": "Water is supplied from a borehole in a nearby property",
+      "drainage": "Foul drainage is into a septic tank",
+      "road_access": "The immediate access road to the subject property is mutram-surfaced"
+    },
+    "construction_details": {
+      "roof": "Fascia boarded timber trusses overlaid in asphalt shingles roofing tiles fitted with steel gutters and downpipes",
+      "ceilings": "Plastered and painted concrete slab to the ground floor and lined with soft board panels or PVC strips to the upper floors",
+      "walls": "Reinforced concrete framework of beams and columns in filled with natural stone walls keyed and partly cladded with mazeras tiles externally, plastered and painted internally. Wet rooms, including kitchen, have walls lined with ceramic tiles to dado level",
+      "doors": "The external doors are metal plate types while the internal ones are solid timber types",
+      "windows": "These are mainly glazed timber casements internally fitted with steel grilles for burglar protection",
+      "floors": "Mass or reinforced concrete slabs finished in wooden strips ot ceramic tiles",
+      "staircase": "Access to the upper floor is via a reinforced concrete staircase finished in ceramic tiles and provided with metallic balustrades and wooden railings",
+      "fittings": "Fittings include tiled worktops, cupboards, built-in wardrobes and stainless-steel sink unit to the kitchen"
+    },
+    "accommodation": {
+      "main_house": {
+        "built_up_area_sq_ft": 3360,
+        "ground_floor": [
+          "Entrance",
+          "Lounge",
+          "Dining",
+          "Kitchen with access to the backyard and DSQ",
+          "Pantry",
+          "Laundry room",
+          "Washroom having a WC and a WHB",
+          "1 No. bedroom en-suite with a washroom having a WC, WHB and an overhead shower"
+        ],
+        "first_floor": [
+          "Landing",
+          "Lobby",
+          "2No. bedrooms all en-suite each with a washroom having a WC, WHB and an overhead shower",
+          "Home office with an access to a Balcony",
+          "Master Bedroom en-suite with a washroom containing a WC, WHB an overhead shower, bathtub and access to a Balcony"
+        ],
+        "attic_floor": [
+          "Family room",
+          "Access to a terrace"
+        ]
+      },
+      "domestic_staff_quarters": {
+        "built_up_area_sq_ft": 260,
+        "description": [
+          "Bedroom cum sitting room",
+          "Washtoom with a WC, WHB and an overhead shower",
+          "Store"
+        ]
+      }
+    },
+    "type_of_house": "Townhouse",
+    "user": "Residential",
+    "age_year_of_construction": "",
+    "number_of_bedrooms": "",
+    "number_of_bathrooms": "",
+    "size_of_living_room_sqm": "",
+    "total_area_covered_plinth_area_sqm": "",
+    "features": "All en-suite"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_remarks": "This is a four-bedroom all-ensuite maisonette located within Ahadi Court in Syokimau Area of Machakos County. The property is attractively finished both internally and externally. It is situated in a neighbourhood that is dominated by residential developments, with gated community concept being a popular feature within the area and its immediate environs.",
+    "market_trend": "The increasing demand for residential land and propetties has sparked a trend that has seen an influx of buyers to peripheral areas of the larger Nairobi Metropolitan area due to the relatively affordable prices. Currently, the local property market is lukewarm due to local economic challenges adversely affecting the demand for ptoperty across board. We however anticipate a continued but measured growth in the sector going forward into the foreseeable future.",
+    "market_demand_supply": "convenient location that is increasingly becoming popular with the middle class demographic."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    },
+    "mortgage_value": {
+      "amount": 15200000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fifteen Million Two Hundred Thousand"
+    },
+    "forced_sale_value": {
+      "amount": 14250000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fourteen Million Two Hundred Fifty Thousand"
+    },
+    "insurance_value": {
+      "amount": 16000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Sixteen Million"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {
+    "term": "99 Years",
+    "term_from": "1983-11-01",
+    "annual_rent": {
+      "amount": 1334,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings one thousand three hundred thirty four only"
+    },
+    "lessee": "UBQRA HOUSING CO-OPERATIVE SOCIETY LIMITED",
+    "lessor": "Government of the Republic of Kenya"
+  },
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the va"
+  }
+}

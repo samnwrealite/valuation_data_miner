@@ -1,0 +1,100 @@
+{
+  "property_id": "12715/14621 (I.R No.:217740)",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      {
+        "name": "Onyango Orech",
+        "qualifications": "Bachelor of Real Estate Hons UoN, GMISK"
+      },
+      {
+        "name": "Simon Oruka Orwa",
+        "qualifications": "BA (Land Economics) Hons (UoN), MISK, Registered & Practicing Valuer"
+      }
+    ],
+    "inspection_date": "",
+    "report_date": "2025-04-10",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "Kencom House, Moi Avenue, P.O. Box 48400 - 00100, Nairobi, Kenya.",
+    "purpose": "mortgage financing purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "3",
+    "title_details": {
+      "lr_number": "12715/14621",
+      "ir_number": "217740",
+      "certificate_of_title_number": ""
+    },
+    "location": {
+      "area": "Syokimau Area",
+      "county": "Machakos County",
+      "geolocation_address": "1°21'50.1\"S 36°56'05.2\"E",
+      "nearest_landmark": "Gateway Mall"
+    },
+    "tenure": {
+      "type": "Leasehold"
+    },
+    "registered_proprietors": [
+      "Meshack Akoko Otieno"
+    ],
+    "ownership_type": "solely registered",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {
+    "type_of_house": "Townhouse",
+    "user": "Residential",
+    "age_year_of_construction": "",
+    "number_of_bedrooms": "",
+    "number_of_bathrooms": "",
+    "size_of_living_room_sqm": "",
+    "total_area_covered_plinth_area_sqm": "",
+    "features": "All en-suite"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "market_demand_supply": "convenient location that is increasingly becoming popular with the middle class demographic."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 19000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Nineteen Million"
+    },
+    "mortgage_value": {
+      "amount": 15200000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fifteen Million Two Hundred Thousand"
+    },
+    "forced_sale_value": {
+      "amount": 14250000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Fourteen Million Two Hundred Fifty Thousand"
+    },
+    "insurance_value": {
+      "amount": 16000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Sixteen Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {
+    "term": "99 Years",
+    "term_from": "1983-11-01",
+    "annual_rent": {
+      "amount": 1334,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings one thousand three hundred thirty four only"
+    },
+    "lessee": "UBQRA HOUSING CO-OPERATIVE SOCIETY LIMITED",
+    "lessor": "Government of the Republic of Kenya"
+  },
+  "compliance": {}
+}

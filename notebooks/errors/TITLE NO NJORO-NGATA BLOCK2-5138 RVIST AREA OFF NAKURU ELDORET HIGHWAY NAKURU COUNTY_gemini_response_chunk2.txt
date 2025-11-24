@@ -1,0 +1,62 @@
+{
+  "property_id": "",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "NJORO/NGAT& BLOCK 2.",
+    "floor": "",
+    "title_details": {
+      "nature_of_title": "ABSOLUTE",
+      "registration_section": "NJORO/NGAT& BLOCK 2.",
+      "parcel_number": "3138",
+      "approximate_area": "0.0465",
+      "area_unit": "Ha.",
+      "registry_map_sheet_no": "",
+      "edition": "4",
+      "opened_date": "",
+      "subdivision_of": "PLCP 2216"
+    },
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [
+      {
+        "date": "2014-05-09",
+        "name": "KENNEDY OWUOR SIRA",
+        "id_number": "22215783",
+        "description": "Reaistekii Prope tor"
+      },
+      {
+        "date": "2014-05-09",
+        "name": "FLORENCE. ANINDO. omeate",
+        "id_number": "22339349",
+        "description": "ReGiip Rio Prorky ror"
+      }
+    ],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

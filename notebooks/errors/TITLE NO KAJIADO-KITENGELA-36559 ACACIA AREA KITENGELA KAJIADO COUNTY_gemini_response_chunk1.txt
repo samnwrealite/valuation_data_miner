@@ -1,0 +1,76 @@
+{
+  "property_id": "KAJIADO/KITENGELA/36559",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5318 /1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Onyango Orech - Bachelor of Real Estate Hons UoN, GMISK",
+      "Simon Oruka Orwa - BA (Land Economics) Hons (UoN), MISK, Registered & Practicing Valuer"
+    ],
+    "inspection_date": "2025-06-10",
+    "report_date": "2025-06-12",
+    "client": "Valuations Unit, Credit Management Division, Co-operative Bank of Kenya Limited",
+    "client_address": "P.O. Box 48231-00100, GPO, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/KITENGELA/36559",
+      "plot_area": "0.048 Hectare (0.1186 Acre)",
+      "survey_map_reference": "Map Sheet No. 148/III, 148/IV & 161/TII of Kajiado/Kitengela registration section together with Inset 21 of the same sheet and the relevant mutation form"
+    },
+    "location": {
+      "address": "approximately 2.5 kilomters off Old Namanga Road within Acacia area in Kitengela Ward, Kajiado East Constituency, Kajiado County.",
+      "county": "Kajiado County",
+      "coordinates": "1°30'28.3\"S 36°54'34.1\"E"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      {
+        "name": "Jackson Kiio Kimeu"
+      }
+    ],
+    "ownership_type": "",
+    "encumbrances": "Registered against the title is a charge dated 16/6/2011 in favour of Cooperative Bank of Kenya Limited to secure a sum of KShs. 1,200,000.00."
+  },
+  "property_description": {
+    "plot_description": "The plot is rectangular shaped of black cotton soils with a gentle eastward slope whose boundaries are marked with barbed wire. Access into the property is open.",
+    "services": "Mains electricity is available for connection to the ptoperty. Water would be from a borehole Foul drainage would be into a septic tank or a soak pit. The immediate access road to the estate is earth-surfaced.",
+    "improvements": "There were no structural improvements on the plot as at the date of our valuation.",
+    "general_remarks": "This is a residential property located within Acacia Area of Kitengela in Kajiado County. The plot has mixed brown and black cotton soils with a fairly level terrain suitable for residential development. The property is situated in a neighbourhood with access to major infrastructure including a good network of roads and other social amenities. The area is predominately residential with pockets of commercial and institutional properties."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "demand": "Demand for similar properties within this neighbourhood is steady amongst the middle-class demographic looking to build single family dwellings.",
+    "neighborhood_description": "The area is predominately residential with pockets of commercial and institutional properties."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 1500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    {
+      "method": "Comparative Sales Method",
+      "description": "This method is based on sales and/or properties for sale, which ate similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property."
+    }
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_highway_statutory": "In out opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "The property is solely registered in the name of Jackson Kiio Kimeu; hence it is not a matrimonial property."
+  }
+}

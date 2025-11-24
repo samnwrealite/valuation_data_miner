@@ -1,0 +1,65 @@
+{
+  "property_id": "SERGOIT/KOIWOPTAOI/BLOCK 8/22",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5305/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "court purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "8",
+    "floor": "",
+    "title_details": {
+      "title_number": "SERGOIT/KOIWOPTAOI/BLOCK 8/22",
+      "plot_area_hectares": 0.4064,
+      "plot_area_acres": 1.0042
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "area": "Chepkanga Area",
+      "coordinates": "0°34'26.9\"N 35°19'17.0\"E",
+      "description": "The property is situated approximately 1.8 kilometers Eldoret-Iten Raod, approximately 13 kilomrters to the Northeast of Eldoret City Centre and 1.1 kilometers to the East of University of Eldoret High School within Chepkanga Area in Uasin Gishu County."
+    },
+    "tenure": {
+      "type": "Freehold (Absolute proprietorship)"
+    },
+    "registered_proprietors": [],
+    "ownership_type": "Freehold",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_and_site_works": "A tectangular-shaped red loam soils plot with a fairly level terrain whose boundaries ate marked with barbed wite on timber posts. Access into the subject property is open.",
+    "services": "Mains electricity is connected to the property. We were unable to confirm the connectivity of water and sewer lines to the property. The immediate access toads to the subject is murram-sutfaced.",
+    "improvements": "Erected on the plot is a structure previously utilized as a cattle dip. This has not been considered for this valuation.",
+    "general_remarks": "This is a one-acre agricultural property located within Chepkanga area of Uasin Gishu County. Access to the property is granted by an unnamed murram toad branching off Eldoret-Iten Road. The parcel is characterised by ted soils and a fairly flat topography allowing for a range of agricultural activities. The property is located in an area characterised by extensive agticultural practises due to its proximity to good transport network, fertile soils and adequate rain fall. However, the subject area is within the prescinds of Eldoret City and hence transitioning from agricultural to residential cum commercial use. University of Eldoret is in the vicinity of the property."
+  },
+  "apartment_details": {},
+  "occupancy": "We could not verify the occupancy status of the property as at the date of our valuation.",
+  "condition": "",
+  "market_assessment": {
+    "basis_of_valuation": "The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Ilegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian resetve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 6000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Six Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method: This method is based on sales and/or properties for sale, which ate similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

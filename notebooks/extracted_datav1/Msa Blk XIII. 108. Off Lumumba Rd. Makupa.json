@@ -1,0 +1,96 @@
+{
+  "property_id": "Mombasa/Block XIII/108",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-02-10",
+    "client": "DIAMOND INDUSTRIES LIMITED",
+    "client_address": "",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "108",
+    "block": "XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Block XIII/108",
+      "plot_area": "0.0478 of a hectare or 0.118 of an acre approximately",
+      "nature_of_title": "FREEHOLD",
+      "area": "0.118 Acres"
+    },
+    "location": {
+      "address": "off Lumumba Road - Makupa Area",
+      "description": "approximately 120 meters off and to the West of Lumumba Road within Makupa Area of Mombasa County. It lies approximately 500 meters due South of Makupa Roundabout and to the immediate South of Makupa Boys Secondary School.",
+      "coordinates": "4\u00b002'45.2\"S 39\u00b039'23.2\"E",
+      "city": "Mombasa",
+      "county": "Mombasa County"
+    },
+    "tenure": {
+      "type": "freehold",
+      "unexpired_term": ""
+    },
+    "registered_proprietors": [
+      "THE S.R. BHARAT MADHAVJI",
+      "RASIKLAL DHARAMSHI",
+      "HIMANTLAL DHARAMSHI",
+      "MANSUKHLAL DHARAMSHI"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Ct-02-6: 083 CHARGE DATED 07/08/2008 for AKAYA Commercial Bank Limited; CHARGE DATED 07/08/2008 for KCB Bank Limited"
+  },
+  "property_description": {
+    "type": "Industrial Property",
+    "summary": "A double-storey warehouse located in Makupa area of Mombasa County.",
+    "land_use": "Commercial/Light Industrial",
+    "plot_and_site_works": "rectangular-shaped, fairly level sandy/coral soils plot whose boundaries are marked by building lines. Access into the property is via a frontage to the immediate access road.",
+    "services": "Mains water and electricity services are connected to the property. Drainage is to a septic tank. Immediate access road is tar-surfaced.",
+    "improvements": "a double-storey warehouse",
+    "built_up_area": "10145 sq. ft. approximately",
+    "construction_details": {
+      "roof": "Reinforced concrete",
+      "walls": "Reinforced concrete beams and columns in filled with coral stonewalls rendered and colour-washed externally, plastered and painted internally",
+      "ceilings": "Plastered and painted undersides",
+      "floors": "Reinforced concrete slab finished in terrazzo or cement screed",
+      "windows": "Louvre types",
+      "doors": "External door is metal plate type. Internal doors are timber flush types.",
+      "staircase": "Reinforced concrete risers and treads finished in terrazzo and provided with concrete handrails"
+    },
+    "accommodation": {
+      "ground_floor": [
+        "Old manufacturing area",
+        "Washroom"
+      ],
+      "first_floor": [
+        "Landing to: Storage area",
+        "Staircase to roof/terrace"
+      ]
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "neighbourhood_character": "characterised by a combination of light industrial and commercial properties. There is a growing trend around the neighbourhood where industrial/commercial properties are undergoing redevelopment to high-rise apartment buildings.",
+    "demand_for_similar_properties": "moderate either for use as light industrial/warehouse facilities, offices or redevelopment to high-rise apartments.",
+    "environmental_issues_summary": "no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 38000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Thirty-Eight Million"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 2017-07-17, 12526 of 2017-12-22, 2032 and 2033 of 2018-03-02 and 1547 of 2019-02-15. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory": "We don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_impact_assessment": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

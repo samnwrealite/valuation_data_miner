@@ -1,0 +1,45 @@
+{
+  "property_id": "Mombasa/Block XIII/80-Mwangeka Road-Makupa Area-Mombasa County",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": ["Simon Oruka Orwa"],
+    "inspection_date": "",
+    "report_date": "2025-02-10",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "P.O. Box 48400 - 00100, Nairobi, Kenya.",
+    "purpose": "Determination of Open Market Value, Net Sellout Value, Replacement Cost for insurance purposes, Income Value, Land value, Capital Value upon completion, Mortgage value, Insurance Replacement Value, Investment Value, and Forced Sale value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Block XIII/80",
+      "approximate_area": "0.525 Ac.",
+      "registered_proprietors": ["Himatial Doaramsni Patel", "Ramnikiai Dnaramshi Patel", "Mansukhial Dharamshi Patel"],
+      "proprietor_address": "P.O. Box 80877 Mombasa.",
+      "ownership_type": "Tenants in common in equal shares."
+    },
+    "location": "Mwangeka Road-Makupa Area-Mombasa County",
+    "tenure": "freehold",
+    "registered_proprietors": ["Himatial Doaramsni Patel", "Ramnikiai Dnaramshi Patel", "Mansukhial Dharamshi Patel"],
+    "ownership_type": "Tenants in common in equal shares.",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 110000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Hundred Ten Million"
+    }
+  },
+  "valuation_methodology": ["Depreciated Replacement Cost Approach", "Income Capitalisation Approach"],
+  "lease_details": {},
+  "compliance": {}
+}

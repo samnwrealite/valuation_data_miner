@@ -1,0 +1,74 @@
+{
+  "property_id": "L. R. 21096/175",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-03-18",
+    "client": "",
+    "client_address": "",
+    "purpose": "Providing independent professional opinion of the value of the subject property as at the Valuation date for Current Market Value assessment."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "grant_number": "1B. 0025",
+      "actual_rent": "PEPPERCORN (if demanded)",
+      "term": "99 YEARS FROM 1/11/1995",
+      "registered_proprietor_name": "CECILIA WAMBUT KJOROGE",
+      "registered_proprietor_address": "Thika (Post Office Box Number 439)",
+      "land_area": "0.0310 Hectares",
+      "land_survey_plan_number": "198214",
+      "registration_entry_no": "I.R. 65690/9"
+    },
+    "location": {
+      "address": "Jaspara House Juja Town, Kiambu County",
+      "land_reference_number": "21096/175"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "details": "leasehold interest in L.R. Number: 21096/175"
+    },
+    "registered_proprietors": [
+      "CECILIA WAMBUT KJOROGE"
+    ],
+    "ownership_type": "Leasehold",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 95000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Ninety Five Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable building costs currently prevailing in the building industry.",
+    "Land valuation based on comparable method.",
+    "Construction valuation based on the depreciated replacement cost.",
+    "Current construction replacement cost considering age of construction and proper depreciation rate based on economic age and current condition.",
+    "Developer (Owner) profit added to the net depreciated value of the construction."
+  ],
+  "lease_details": {
+    "term": "99 YEARS FROM 1/11/1995",
+    "annual_rent": "PEPPERCORN (if demanded)",
+    "rent_revision_clause": "The Commissioner of Lands reserves the right to revise the annual ground rent payable hereunder on 31st December, 1998 and thereafter at the expiration of every ten years of the term.",
+    "use_restrictions": "The land and the buildings shall only be used for shops offices and/or flats (excluding the sale of petrol or motor oils).",
+    "building_coverage_restrictions": "The buildings shall not cover more than Seventy per centum of the area of land if used for shops and/or office purposes or such lesser area as may be laid down by the Local Authority in its by-laws and not more than Fifty per centum of the area of the land if used for the combined purposes of shops offices and flats or such lesser area as may be laid down by the Local Authority in its by-laws.",
+    "subdivision_restriction": "The Grantee shall not subdivide the land, without prior written consent of the Commissioner of Lands.",
+    "transfer_restriction": "The Grantee shall not sell transfer sublet charge or part with the possession of the land or any part thereof or any buildings thereon except with the prior consent in writing of the Commissioner of Lands."
+  },
+  "compliance": {
+    "standards": "The Valuation has been prepared in accordance with the Kenya Valuation Standards 2021 (the Blue Book) which incorporate the International Valuation Standards."
+  }
+}

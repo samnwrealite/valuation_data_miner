@@ -1,0 +1,107 @@
+{
+  "property_id": "2/22/75",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "LR-022",
+      "grant_number": "1B. 0025",
+      "actual_rent": "PEPPERCORN (if demanded)",
+      "term": "99 YEARS FROM 1/11/1995",
+      "registered_proprietor_name": "CECILIA WAMBUT KJOROGE",
+      "registered_proprietor_address": "Thika (Post Office Box Number 439)",
+      "land_area": "0.0310 Hectares",
+      "land_survey_plan_number": "198214",
+      "registration_entry_no": "I.R. 65690/9",
+      "deed_plan_number": "242/77",
+      "registration_date": "",
+      "area": 0.031,
+      "area_unit": "hectares"
+    },
+    "location": {
+      "address": "Jaspara House Juja Town, Kiambu County",
+      "coordinates": "1\u00b0 6'16.33\"S, 37\u00b0 0'51.85\"E",
+      "town": "Thika",
+      "county": "",
+      "land_reference_number": "21096/175",
+      "district": "Kiambu",
+      "locality": "South West of Thika Municipality",
+      "street_address": "",
+      "plot_number": "2/22/75"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 years",
+      "commencement_date": "1995-11-01",
+      "annual_rent": "peppercorn (if demanded)",
+      "details": "leasehold interest in L.R. Number: 21096/175",
+      "lease_term": "99 YEARS",
+      "lease_start_date": "1995-11-01",
+      "lease_end_date": "2094-11-01",
+      "ground_rent": "peppercorn (if demanded)"
+    },
+    "registered_proprietors": [
+      "CECILIA WAMBUT NJOROGE"
+    ],
+    "ownership_type": "Private",
+    "encumbrances": "Multiple charges registered against the title, including charges to The Co-operative Bank and Nieano laza Lunt. Specific charges mentioned include KES 1,000,000 and KES 2,000,000."
+  },
+  "property_description": {
+    "plot_area": "0.0310 Ha (0.0766 acres)",
+    "user": "Mixed use",
+    "services": "Mains electricity and piped water are connected to the subject ptopetty. Foul drainage is into the town\u2019s main sewer line. The property fronts murram surfaced roads.",
+    "general_description": "The plot is developed with a five-storey residential/commercial block featuring retail shops to the ground floor, one-bedroom units and bedsitters to the upper floors.",
+    "construction_details": {
+      "roof": "Pitched box profile GCI sheets roof on timber trusses fitted with gutters and down pipes.",
+      "ceilings": "Plastered and painted reinforced concrete slabs to the lower floors and soft board panels to the upper floor.",
+      "walls": "Reinforced concrete framework of columns and beams infilled with machine cut stone walls, externally keyed or rendered and colour washed while internally plastered and painted with sanitary areas lined with ceramic tiles to limited heights.",
+      "doors": "External doors are steel plated type while internal ones are T8\u00a2G timber boards or timber flush types.",
+      "windows": "Glazed steel casements provided with burglar proof grilles.",
+      "floor": "The floors are mass concrete slab finished in smooth red oxide cement screed or ceramic tiles.",
+      "access_to_upper_floor": "Access to the upper floor is through a reinforced concrete staircase fitted with steel handrails and balustrades."
+    },
+    "plot_and_siteworks": "This is a flat rectangular shaped plot of mixed soils whose boundaries are marked by building lines and road frontages. Access to the property is via a single plated steel gate that opens onto a passage leading to the staircase.",
+    "built_up_area": "13850 sq. ft."
+  },
+  "apartment_details": {
+    "ground_floor": "8 No. Retail spaces let out to various tenants; Passage leading to staircase",
+    "first_floor": "LANDING area; Circulation VERANDA; 3 No. BEDSITTER units having; Living room; Sanitary room with water closet and overhead shower unit; 3 No. 1 BEDROOM units each comprising; Sitting room; Kitchen; 1No. bedroom; Sanitary room with WC and shower head.",
+    "second_to_fourth_floor": "Each with similar accommodation details as follows; LANDING area; Circulation VERANDA; One (1) No. BEDSITTER having; Living room; Sanitary room with water closet and overhead shower unit; 4No. 1 BEDROOM units each converted into; Sitting room; Kitchen; 1No. bedroom; Sanitary room with WC and shower head."
+  },
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_remarks": "This is a mixed-use property located within Juja Town, Kiambu County. By virtue of its location, the property enjoys easy access to a myriad of infrastructural services and social amenities. The neighborhood is developed with similar mixed-use developments featuring commercial spaces and residential units. There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land). At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {
+    "term": "99 YEARS FROM 1/11/1995",
+    "annual_rent": "PEPPERCORN (if demanded)",
+    "rent_revision_clause": "The Commissioner of Lands reserves the right to revise the annual ground rent payable hereunder on 31st December, 1998 and thereafter at the expiration of every ten years of the term.",
+    "use_restrictions": "The land and the buildings shall only be used for shops offices and/or flats (excluding the sale of petrol or motor oils).",
+    "building_coverage_restrictions": "The buildings shall not cover more than Seventy per centum of the area of land if used for shops and/or office purposes or such lesser area as may be laid down by the Local Authority in its by-laws and not more than Fifty per centum of the area of the land if used for the combined purposes of shops offices and flats or such lesser area as may be laid down by the Local Authority in its by-laws.",
+    "subdivision_restriction": "The Grantee shall not subdivide the land, without prior written consent of the Commissioner of Lands.",
+    "transfer_restriction": "The Grantee shall not sell transfer sublet charge or part with the possession of the land or any part thereof or any buildings thereon except with the prior consent in writing of the Commissioner of Lands."
+  },
+  "compliance": {
+    "standards": "The Valuation has been prepared in accordance with the Kenya Valuation Standards 2021 (the Blue Book) which incorporate the International Valuation Standards."
+  }
+}

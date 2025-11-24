@@ -1,0 +1,56 @@
+{
+  "property_id": "ELDORET MUNICIPALITY BLOCK 4/83",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5308/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "court purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "4",
+    "floor": "",
+    "title_details": {
+      "title_number": "ELDORET MUNICIPALITY BLOCK 4/83",
+      "plot_area": "zero point one zero three four (0.1034) of a hectare or zero point two five five five (0.2555) of an acre"
+    },
+    "location": {
+      "address": "along Kitale-Cherangani Road, about 80 meters off Elgeyo Road, approximately 150 meters to the Northeast of Sirikwa Hotel, 120 meters due Northeast of MUSCO Towers and 100 meters to the East of Eldoret Wagon Hotel",
+      "city": "Eldoret City Centre",
+      "county": "Uasin Gishu County",
+      "google_coordinates": "0\u00b031'17.8\"N 35\u00b016'38.0\"E"
+    },
+    "tenure": {
+      "type": "Freehold (Absolute proprietorship)"
+    },
+    "registered_proprietors": [
+      "Unascertained"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "Utilized as a cart park and a cart wash",
+  "condition": "No permanent structures on the parcel. A trapezoidal-shaped red soils plot with a fairly level terrain whose boundaries are marked by building lines or open.",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 110000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Hundred Ten Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

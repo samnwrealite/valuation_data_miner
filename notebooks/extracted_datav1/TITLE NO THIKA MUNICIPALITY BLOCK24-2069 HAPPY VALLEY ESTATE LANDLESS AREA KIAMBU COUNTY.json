@@ -1,0 +1,124 @@
+{
+  "property_id": "KAJIADO / DALALEKUTUK / 16262 & 16265 ; THIKA MUNICIPALITY BLOCK 24 / 2069",
+  "valuation_report": {
+    "report_reference": "1",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "ROBERT LESHAU GITAU",
+    "client_address": "",
+    "purpose": "VALUATION OF PROPERTY FOR ROBERT LESHAU GITAU TAS REDOX METAL ALLOY"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "BLOCK 24",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO / DALALEKUTUK / 16262 & 16265 ; THIKA MUNICIPALITY BLOCK 24 / 2069",
+      "plot_number": "",
+      "area_hectares": "0.0803",
+      "area_acres": "0.1984",
+      "approximate_area": "0.0806 HA",
+      "registry_map_sheet_no": "6",
+      "edition": "7",
+      "opened_date": "1996-10-15",
+      "registration_section": "THIKA MUNICIPALITY",
+      "parcel_number": "2069",
+      "nature_of_title": "ABSOLUTE",
+      "title_deed_number": "MLS/TD/02/A2/02 No. 2874403"
+    },
+    "location": {
+      "estate": "Happy Valley Estate",
+      "area": "Landless Area",
+      "city_town": "Thika",
+      "county": "KAJIADO",
+      "coordinates": "1\u00b005'09.5\"S 37\u00b008'55.9\"E",
+      "description": "The property is located within Happy Valley Estate in Landless Area of Thika in Gatuanyaga Ward, Thika Town Constituency in Kiambu County. The subject property is located approximately 3.3 kilometers off Garissa Road, 1.5 kilometers Southeast of Thika Barracks Golf Course and 830 meters due Southwest of Christian Church International Wellsprings.",
+      "constituency": "DALALEKUTUK",
+      "ward": "",
+      "gps_coordinates": ""
+    },
+    "tenure": {
+      "type": "ABSOLUTE"
+    },
+    "registered_proprietors": [
+      "ROBERT LESHAU GITAU"
+    ],
+    "ownership_type": "",
+    "encumbrances": "None"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "land_use": "Residential user.",
+    "demand": "Demand for residential land in the area is moderate. The demand is driven by proximity to major infrastructure and the relatively affordable prices of land compared to other areas of Thika with close proximity to the town center.",
+    "services": "Mains electricity and water are available for connection to the property. Fowl drainage would be into a septic tank. The immediate access road to the property is earth surfaced.",
+    "comparables": [
+      {
+        "title_number": "THIKA MUNICIPALITY BLOCK 24/2140",
+        "location": "700 meters Southeast of Subject Property",
+        "sale_price": 1800000,
+        "date": "2023-03",
+        "size_hectares": "",
+        "asking_price": 0,
+        "description": "Slightly inferior to subject due to its further location off Garissa Road relative subject"
+      },
+      {
+        "title_number": "THIKA MUNICIPALITY BLOCK 24/893",
+        "location": "2.4 kilometres Southeast of Subject Property, 550 meters off Garissa Road",
+        "sale_price": 5000000,
+        "date": "2023-07",
+        "size_hectares": "",
+        "asking_price": 0,
+        "description": "Superior to subject property: Red soils, more developed neighbourhood, better access to Garissa Road."
+      },
+      {
+        "title_number": "",
+        "location": "200 meters from Jerusalem Shopping Centre.",
+        "sale_price": 0,
+        "date": "",
+        "size_hectares": "0.08",
+        "asking_price": 2800000,
+        "description": "Comparable to subject Property"
+      },
+      {
+        "title_number": "",
+        "location": "2.5 kilometres from Garissa Road.",
+        "sale_price": 0,
+        "date": "",
+        "size_hectares": "0.08",
+        "asking_price": 2500000,
+        "description": "Comparable to subject Property"
+      }
+    ],
+    "conclusion": "Adopt 2,500,000.00 for subject property."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    },
+    "forced_sale_value": {
+      "amount": 1875000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Million Eight Hundred Seventy-Five Thousand"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "ndungu_report": "We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3.",
+    "nlc_gazette_notice": "We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019.",
+    "riparian_reserve": "The land is not on riparian reserve/wetland.",
+    "public_utility_user": "it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user.",
+    "planning_highway_statutory": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property_act_2013": "According to the Matrimonial Property Act 2013, Section 6 (1) \u00a9, Matrimonial Property means \u2018any other immoveable or moveable property owned by both or either spouse or acquired during the subsistence of the marriage\u2019. The property is solely registered in the name of Robert Leshau Gitau; hence it is not matrimonial property."
+  }
+}

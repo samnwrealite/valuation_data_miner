@@ -4,7 +4,7 @@
     "report_reference": "SOO/DOO/5349/1/25",
     "valuer": "NW Realite Limited",
     "valuers": [
-      "Naa Onyango",
+      "Onyango",
       "Simon Oruka Orwa"
     ],
     "inspection_date": "2025-09-17",
@@ -19,43 +19,30 @@
     "floor": "",
     "title_details": {
       "title_number": "KARAI/GIKAMBURA/9968",
-      "registration_section": "Karai/Gikambura registration section"
+      "area": "0.093 of a hectare or 0.2298 of an acre approximately",
+      "registered_proprietors": [
+        "Jane Wanjiku Maina"
+      ],
+      "tenure": "freehold interest"
     },
     "location": {
       "area": "Gikambura area, Kikuyu",
       "county": "Kiambu County",
       "coordinates": "1°15'58.0\"S 36°38'31.4\"E"
     },
-    "tenure": {
-      "type": "freehold interest",
-      "lease_term": "",
-      "commencement_date": "",
-      "expiry_date": ""
-    },
+    "tenure": "freehold interest",
     "registered_proprietors": [
       "Jane Wanjiku Maina"
     ],
-    "ownership_type": "Individual",
-    "encumbrances": "Nil"
+    "ownership_type": "Freehold",
+    "encumbrances": "Nil."
   },
-  "property_description": {
-    "land_use": "Residential user",
-    "plot_area": "zero point zero nine three (0.093) of a hectare or zero point two two nine eight (0.2298) of an acre approximately",
-    "plot_shape_and_soil": "rectangular-shaped, red soils plot with a gentle slope",
-    "boundaries": "marked by corner beacons and a stonewall of the adjoining property to one side",
-    "access": "open",
-    "services": "Mains electricity is available for connection to the property. Water would be from a borehole. Foul drainage would be into a septic tank. Immediate access road is earth surfaced.",
-    "improvements": "no structural improvements on the parcel",
-    "general_remarks": "This is a vacant residential property located within Gikambuta area of Kiambu County. The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. Infrastructural facilities are available in the neighbourhood. The sustained improvement of infrastructure across board has opened up areas that were hitherto considered fringe areas. Gikambura and the general Kikuyu area has benefited from such hence pushing property values up. However, we note that due to the struggles in the local economy and by extension the global economy has adversely affected the demand for property leading to a dipped property market. We anticipate a continued but measured growth in the sector going forward into the foreseeable future."
-  },
+  "property_description": "The plot extends to zero point zero nine three (0.093) of a hectare or zero point two two nine eight (0.2298) of an acre approximately. This is a rectangular-shaped, red soils plot with a gentle slope whose boundaries are marked by corner beacons and a stonewall of the adjoining property to one side. Access into the property is open. Mains electricity is available for connection to the property. Water would be from a borehole. Foul drainage would be into a septic tank. Immediate access road is earth surfaced. There were no structural improvements on the parcel as at the date of our inspection. This is a vacant residential property located within Gikambura area of Kiambu County. The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. Infrastructural facilities are available in the neighbourhood.",
   "apartment_details": {},
   "occupancy": "Vacant",
-  "condition": "Vacant land, no structural improvements",
+  "condition": "Vacant plot, no structural improvements.",
   "market_assessment": {
-    "neighbourhood_character": "mainly with stand-alone residential developments and complementary social amenities",
-    "infrastructure_impact": "sustained improvement of infrastructure across board has opened up areas that were hitherto considered fringe areas. Gikambura and the general Kikuyu area has benefited from such hence pushing property values up.",
-    "economic_impact": "struggles in the local economy and by extension the global economy has adversely affected the demand for property leading to a dipped property market.",
-    "future_outlook": "anticipated a continued but measured growth in the sector going forward into the foreseeable future."
+    "general_remarks": "The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. Infrastructural facilities are available in the neighbourhood. The sustained improvement of infrastructure across board has opened up areas that were hitherto considered fringe areas. Gikambura and the general Kikuyu area has benefited from such hence pushing property values up. However, due to the struggles in the local economy and by extension the global economy has adversely affected the demand for property leading to a dipped property market. A continued but measured growth in the sector is anticipated going forward into the foreseeable future."
   },
   "valuations": {
     "current_market_value": {
@@ -65,17 +52,14 @@
     }
   },
   "valuation_methodology": [
-    "Public Utility User",
-    "Planning, Highway, and other Statutory Considerations",
-    "Environmental Issues",
-    "Market Value",
-    "Mortgage Value",
-    "Forced Sale Value"
+    "Market Value: The expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Mortgage Value: Based on 80% of the market value, considering the speculative nature of the current property market coupled with the downward pressure that is currently being experienced on property prices.",
+    "Forced Sale Value: Derived on similar principles as the current market value but anticipates a willing buyer-unwilling seller situation, adopted at 75% of the market value as the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
   ],
   "lease_details": {},
   "compliance": {
-    "public_utility_user_status": "not set aside for public use/water catchment area, not government land, not reserved for public utility user, not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3, not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019, not on riparian reserve / wetland.",
-    "planning_highway_statutory_compliance": "current user of the property conforms to its stipulated use.",
-    "environmental_issues_status": "no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+    "public_utility_user": "The property has not been set aside for public use/water catchment area, is not government land, and has not been reserved for public utility user. It is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. The land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve / wetland.",
+    "planning_statutory_considerations": "There is no significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
   }
 }

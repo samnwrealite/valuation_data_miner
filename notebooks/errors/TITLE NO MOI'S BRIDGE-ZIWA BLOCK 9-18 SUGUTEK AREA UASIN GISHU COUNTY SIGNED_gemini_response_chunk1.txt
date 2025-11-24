@@ -1,0 +1,83 @@
+{
+  "property_id": "MOI’S BRIDGE/ZIWA BLOCK 9 (LEMORUNGENY)/18",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5327/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa",
+      "Danish Onyango Orech"
+    ],
+    "inspection_date": "2025-06-25",
+    "report_date": "2025-06-30",
+    "client": "The Co-operative Bank of Kenya Limited",
+    "client_address": "P.O. Box 48231-00100, GPO, Nairobi",
+    "purpose": "For bank purposes, to advise on Current Market Value, Forced Sale Value, and Insurance Value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "9",
+    "floor": "",
+    "title_details": {
+      "title_no": "MOI’S BRIDGE/ZIWA BLOCK 9 (LEMORUNGENY)/18",
+      "area_hectares": 1.490,
+      "area_acres": 3.6818
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "area": "Sugutek Area, Ziwa Ward, Soi Constituency",
+      "coordinates": "0°52'09.5\"N 35°18'16.7\"E"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Elijah Kiprotich Lelachei"
+    ],
+    "ownership_type": "solely registered",
+    "encumbrances": "Registered against the title is a charge dated 21/11/2013 in favour of Cooperative Bank of Kenya Limited to secure a sum of KShs. 1,200,000.00."
+  },
+  "property_description": {
+    "plot_shape": "irregular-shaped",
+    "plot_terrain": "relatively flat",
+    "soil_type": "red soils",
+    "boundaries": "marked partly by hedges or left open",
+    "access_to_plot": "not defined/ open to the road frontage",
+    "services": {
+      "electricity": "Mains electricity is connected",
+      "piped_water": "could not ascertain the availability of piped water",
+      "drainage": "into a pit latrine"
+    },
+    "roads": "immediate access road is earth surfaced; main feeder road is murtram surfaced while the tarmac Kitale- Cherangani Road is about 7 kilometres away",
+    "improvements": "three homesteads on the parcel with most of the developments appearing to be of semi-permanent construction and hence considered temporary and subsequently ignored for purposes of this valuation.",
+    "general_description": "The subject property is an agricultural parcel located in the Sugutek area of Uasin Gishu County. It features a relatively flat terrain with red soil that is well-suited for crop cultivation. It is partly used for settlement hosting homesteads."
+  },
+  "apartment_details": {},
+  "occupancy": "The homesteads appeared to be occupied at the time of our inspection.",
+  "condition": "most of the developments appearing to be of semi-permanent construction and hence considered temporary and subsequently ignored for purposes of this valuation.",
+  "market_assessment": {
+    "neighbourhood_description": "The surrounding neighbourhood is predominantly agricultural, with both crop farming and livestock rearing being the primary economic activities.",
+    "infrastructure_development": "modest, with most access roads being earth-surfaced. The tarmac road is approximately 7 kilometers away. Other basic social facilities such as schools are within the locality.",
+    "demand": "modest as the property market is locally driven by the needs of the local population.",
+    "challenges_at_disposal": "The parcel hosts about three homesteads, evidence of occupation, a factor that may pose legal or logistical challenges at disposal. Disposing of the property under forced sale conditions may therefore be prolonged and potentially yield lower-than-expected proceeds."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 3000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Three Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected /estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Forced Sale Value: The forced sale value is also derived on similar principles as those of the current market value but anticipates a willing buyer-unwilling seller situation. In this report, we have adopted a value equivalent to 75% of the market value being the minimum amount a property can be sold at in an auction as recommended by Land Act No. 6 of 2012."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. The property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. The land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory": "We don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "The property is solely registered in the name of Elijah Kiprotich Lelachei. We were unable to confirm whether this is a matrimonial property."
+  }
+}

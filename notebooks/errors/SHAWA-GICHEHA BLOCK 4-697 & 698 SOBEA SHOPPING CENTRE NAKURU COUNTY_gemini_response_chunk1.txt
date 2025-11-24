@@ -1,0 +1,59 @@
+{
+  "property_id": "SHAWA/ GICHEHA BLOCK 4/697 & 698",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5311/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Simon Oruka Orwa - BA Land Econ. (Hons), MISK, RV, REA",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN"
+    ],
+    "inspection_date": "2025-04-23",
+    "report_date": "2025-05-06",
+    "client": "Valuation Unit, Co-operative Bank of Kenya Limited",
+    "client_address": "Co-operative Bank House, P.O. Box 48231-00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "4",
+    "floor": "",
+    "title_details": {
+      "full_title": "Shawa/ Gicheha Block 4/697 & 698 (Kangakinga)"
+    },
+    "location": {
+      "description": "The properties ate situated along Nakuru- Eldoret Highway, in Sobea, within Sobea’s expansion zone; lying at about 15.5 kilometres from Nakuru town Centre due north-west. They lie approximately 400 metres west of the Nakuru-Eldoret/Kabarak/Njoro T-junction. The properties are within Rongai Ward, Rongai Sub-County, Nakuru County. The Google Map co-ordinates 0°14'42.6\"S 35°56'18.7\"E fall on the property."
+    },
+    "tenure": {
+      "type": "Freehold interest"
+    },
+    "registered_proprietors": [
+      "PETER MWARANGU MWANGI"
+    ],
+    "ownership_type": "Individual",
+    "encumbrances": "Nil"
+  },
+  "property_description": {
+    "details": "Two rectangular shaped and contiguous flat grey volcanic soils plots whose boundaries are marked variously by GCI sheets, barbed wire on timber posts or are left open. Access is not defined/ open to the road frontage. These are two prime residential plots located on the north-western sprawl of Sobea shopping centre, that is 15.5 kilometres from Nakuru town and within Nakuru’s commuter zone. The area is suitable for both commercial and residential users and is accessible to all basic infrastructural, social and economic amenities. The area is mainly an owner occupier residential area wile plots fronting the highway portend a commercial nature."
+  },
+  "apartment_details": {},
+  "occupancy": "Vacant",
+  "condition": "No obvious environmental challenges",
+  "market_assessment": {
+    "details": "The area is suitable for both commercial and residential users and is accessible to all basic infrastructural, social and economic amenities. The area is mainly an owner occupier residential area wile plots fronting the highway portend a commercial nature. We ate not aware of any factors that could negatively affect the saleability of the property both in an open market and forced sale situations."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 4400000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million Four Hundred Thousand Only"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "details": "We further confirm that to the best of our knowledge; the ptoperty does not lie on a road reserve and has no public user claims upon its title. There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Ilegal/Irregular Allocation of Public Land). At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way. As per the Gazzette Notice No. 6862 of July 2017, the title of the subject property has not been revoked by the National Land Commission."
+  }
+}

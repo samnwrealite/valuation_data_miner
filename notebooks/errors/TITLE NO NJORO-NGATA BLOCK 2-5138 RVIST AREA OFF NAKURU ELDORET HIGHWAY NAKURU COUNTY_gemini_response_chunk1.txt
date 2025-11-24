@@ -1,0 +1,107 @@
+{
+  "property_id": "NJORO/ NGATA BLOCK 2/5138",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5282/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa",
+      "Danish a Orech"
+    ],
+    "inspection_date": "2025-01-18",
+    "report_date": "2025-01-23",
+    "client": "Co-operative Bank of Kenya Limited",
+    "client_address": "Co-operative Bank House, P.O. Box 48231-00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "2",
+    "floor": "",
+    "title_details": {
+      "title_number": "NJORO/ NGATA BLOCK 2/5138",
+      "area": "0.0465 of a hectare or 0.1149 of an acre approximately"
+    },
+    "location": {
+      "address": "Approximately 2 kilometres off and to the South of Nakuru-Eldoret Highway, branching off at Ngata Bridge centre within RVIST area, Nakuru County. Approximately 1.4 kilometres south-west of Ngata Bridge centre, about 500 metres south-west of RVIST shopping centre and about 450 metres to the west of Rift Valley Institute of Science and Technology.",
+      "coordinates": "0°16'51.7\"S 35°59'59.1\"E"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Kennedy Owuor Sila",
+      "Florence Anindo Onyango"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "general_description": "The plot is developed with an incomplete three-bedroom bungalow currently at the wall plate level of construction (approximated at about 40% completion) and an outdoor toilet block. Other developments include a GCI sheets site house and a make shift construction tank. These have been ignored for the purposes of this valuation.",
+    "plot_description": "A tectangular shaped northerly sloping grey volcanic soils plot whose boundaries are marked partly by building lines, partly by barbed wire on timber posts but largely left open. Access is not defined/ open to the road frontage.",
+    "services": "Mains water and electricity services are available in the neighbourhood for connection to the property. Foul drainage is into a pit latrine. The immediate access road is earth surfaced; main feeder road is murram surfaced while the tarmac Nakuru- Eldoret Highway is about 2 kilometres away.",
+    "bungalow_construction": {
+      "roof": "Yet to be done.",
+      "ceilings": "Yet to be done.",
+      "walls": "Natural stone walls.",
+      "doors": "Yet to be done.",
+      "windows": "Yet to be done.",
+      "floors": "Mass concrete slab yet to be finished.",
+      "fittings": "Yet to be done."
+    },
+    "bungalow_accommodation": [
+      "Entry VERANDA",
+      "LOUNGE",
+      "DINING RECESS",
+      "Passage",
+      "KITCHEN",
+      "Kitchen BALCONY",
+      "Kitchen STORE",
+      "Common TOILET",
+      "Common BATHROOM",
+      "2No. BEDROOMS",
+      "Master BEDROOM en-suite with toilet"
+    ],
+    "bungalow_plinth_area": "1,491 Square Feet Approx.",
+    "outdoor_toilet_construction": "Constructed in natural stone walls unfinished externally, internally plastered and smoothed beneath a flat concrete slab roof. Ceiling is concrete slab underside. Doors are T&G timber doors. The floor is concreted and unfinished.",
+    "outdoor_toilet_accommodation": [
+      "PASSAGE",
+      "2No. PIT LATRINES",
+      "1No. BATHROOM"
+    ],
+    "outdoor_toilet_plinth_area": "104 Square Feet Approx."
+  },
+  "apartment_details": {},
+  "occupancy": "Not occupied",
+  "condition": "Main building approximately 40% complete. Works done: Setting out and clearance, Excavation of trenches, Concrete foundation, Hardcore fill, Floor slab, Walling super structure up to lintel level. Outstanding works: Roof timbering, Roof covering, Fixing of external and internal doors, Fixing of windows, External and internal wall finishes, Floor finishes, Painting and decoration, Fixtures and fittings.",
+  "market_assessment": {
+    "area_description": "The area is mainly an owner occupier residential area but with vibrant development of hostels to serve the neighbouring RVIST college. Demand for properties in this area is good.",
+    "market_outlook": "The general property market is lukewarm on the background of a dithering economy.",
+    "saleability_factors": "We are not aware of any factors that could negatively affect the saleability of the property both in an open market and forced sale situations.",
+    "zoning": "The property is zoned for residential purposes.",
+    "public_land_status": "There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land).",
+    "environmental_assessment": "At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way.",
+    "title_revocation_status": "As per the Gazzette Notice No. 6862 of July 2017, the title of the subject property has not been revoked by the National Land Commission.",
+    "matrimonial_property_status": "We were not able to ascertain whether the property is a matrimonial property."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 4000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market value is based on a blend of comparable method and Cost (Contractors) method",
+    "Insurance value is based on the re-construction cost in case of peril, exclusive of loss of rent during the reconstruction period"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "road_reserve_status": "Does not lie on a road reserve and has no public user claims upon its title.",
+    "zoning": "Residential purposes",
+    "public_utility_land_status": "No evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land).",
+    "environmental_challenges": "No obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way.",
+    "title_revocation_status": "Title of the subject property has not been revoked by the National Land Commission as per the Gazzette Notice No. 6862 of July 2017."
+  }
+}

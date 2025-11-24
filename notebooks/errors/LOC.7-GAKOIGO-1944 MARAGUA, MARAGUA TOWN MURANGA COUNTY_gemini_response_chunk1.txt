@@ -4,46 +4,44 @@
     "report_reference": "SOO/DOO/5338/1/25",
     "valuer": "NW Realite Limited",
     "valuers": [
-      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
-      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
-      "Simon Oruka Orwa BA (Land Economics) Hons (UoN), MISK, RV Registered & Practising Valuer"
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
     ],
     "inspection_date": "2025-07-04",
     "report_date": "2025-07-10",
-    "client": "Absa Bank Kenya PLC",
-    "client_address": "Corporate Real Estates Solutions, Commercial Services, B/Gate Building 4th Floor, P.O Box 30120-00100, Nairobi",
-    "purpose": "book purposes, Market Value, Forced sale value, Insurance Value"
+    "client": "Absa Bank Kenya PLC, Corporate Real Estates Solutions, Commercial Services",
+    "client_address": "B/Gate Building 4\" Floor, P.O Box 30120-00100, Nairobi",
+    "purpose": "Market Value, Forced sale value, Insurance Value for book purposes."
   },
   "property_details": {
     "apartment_number": "",
     "block": "",
     "floor": "",
-    "title_details": {
-      "title_number": "Loc.7/Gakoigo/1944",
-      "registry_map_sheet_no": "23 & 16"
-    },
+    "title_details": {},
     "location": {
-      "town": "Maragua town",
-      "county": "Murang’a County",
+      "town": "Maragua",
+      "county": "Murang’a",
       "coordinates": "0°47'27.2\"S 37°07'49.4\"E",
-      "description": "The property is situated within Maragua town in Murang’a County. The property lies approximately 300 meters to the Southeast of Maragua Sub-County Hospital, 200 meters to the North of Casids Petrol Station and 500 meters off Kenol-Murang’a Road."
+      "description": "within Maragua town in Murang’a County, approximately 300 meters to the Southeast of Maragua Sub-County Hospital, 200 meters to the North of Casids Petrol Station and 500 meters off Kenol-Murang’a Road."
     },
-    "tenure": {
-      "type": "freehold interest (absolute proprietorship)"
-    },
+    "tenure": "freehold interest (absolute proprietorship)",
     "registered_proprietors": [
       "Absa Bank Kenya PLC"
     ],
-    "ownership_type": "Freehold",
+    "ownership_type": "absolute proprietorship",
     "encumbrances": "Unascertained"
   },
   "property_description": {
-    "plot_area": "0.1 of a hectare or 0.2471 of an acre",
-    "plot_shape": "rectangular shaped red soil plot",
-    "site_works": "open frontage and whose boundaries are marked by perimeter walls and building lines.",
-    "services": "Mains water and electricity are connected. Drainage is to septic tank and soak pit. The property fronts tar surfaced road.",
-    "improvements_general": "The plot is developed with a single storey commercial building having parking slots at the front side.",
-    "improvements_construction": "Construction is in stone walls brick faced externally, plastered and painted internally beneath a reinforced concrete slab to sections, and tiled to others. The ceilings are lined with soft board panels. Floors are finished in terrazzo. Doors are glazed aluminium casement, steel plate and flush timber type. Windows are glass louvers secured with burglar proofing. Walls to wet area are lined with ceramic tiles to dado.",
+    "type": "commercial building",
+    "storeys": "single storey",
+    "construction": "stone walls brick faced externally, plastered and painted internally beneath a reinforced concrete slab to sections, and tiled to others",
+    "ceilings": "soft board panels",
+    "floors": "terrazzo",
+    "doors": "glazed aluminium casement, steel plate and flush timber type",
+    "windows": "glass louvers secured with burglar proofing",
+    "wet_area_walls": "ceramic tiles to dado",
+    "parking": "parking slots at the front side",
     "accommodation": [
       "Entrance lobby",
       "Passage",
@@ -57,13 +55,13 @@
       "Gents with 2No.WC, 2No.urinals and 2No.WHB",
       "Ladies with 2No.WCs and 2No. WHB"
     ],
-    "built_up_area": "3650 sq. ft."
+    "built_up_area_sq_ft": 3650
   },
   "apartment_details": {},
-  "occupancy": "The property was unoccupied at the time of our inspection.",
+  "occupancy": "Unoccupied",
   "condition": "The property is in a fair condition of repair and decoration. It requires refurbishment to give it a facelift.",
   "market_assessment": {
-    "general_remarks": "This is a single storey commercial building situated within Maragua town in Muranga County. The building is characterized as a banking facility, while the neighbourhood is characterized with retail/wholesale shops and other businesses. Its location affords it good access and proximity to the basic infrastructural and social amenities within the town. The property was purposely built for banking purposes, and the ideal tenant would be a financial institution. We note that the property has not been occupied for some time, and a condition survey may be required to determine the extent of disrepair for subsequent renovation works. Maragua town is often described as a \"sleepy\" or \"dormant\" town, with challenges related to lack of infrastructure, social amenities, and economic stagnation. This has contributed to its relatively timid property market that has negatively affected property prices within the town. There are currently no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment would however be required to verify this. There was no evidence to suggest that this was once a public utility plot or was once a road reserve."
+    "summary": "This is a single storey commercial building situated within Maragua town in Muranga County. The building is characterized as a banking facility, while the neighbourhood is characterized with retail/wholesale shops and other businesses. Its location affords it good access and proximity to the basic infrastructural and social amenities within the town. The property was purposely built for banking purposes, and the ideal tenant would be a financial institution. We note that the property has not been occupied for some time, and a condition survey may be required to determine the extent of disrepair for subsequent renovation works. Maragua town is often described as a \"sleepy\" or \"dormant\" town, with challenges related to lack of infrastructure, social amenities, and economic stagnation. This has contributed to its relatively timid property market that has negatively affected property prices within the town. There are currently no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment would however be required to verify this. There was no evidence to suggest that this was once a public utility plot or was once a road reserve."
   },
   "valuations": {
     "current_market_value": {

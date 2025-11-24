@@ -1,0 +1,47 @@
+{
+  "property_id": "LONGONOT/KIJABE BLOCK 9/53",
+  "valuation_report": {
+    "report_reference": "SOO/4703/2/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-03-17",
+    "report_date": "2025-03-18",
+    "client": "Co-op Trust Investment Services Limited",
+    "client_address": "Co-op House, 13 Floor, Haile Selassie Avenue, P.O. Box 48281-00100, Nairobi",
+    "purpose": "Advisory purposes, to advise on Market Value as at 31 December 2024"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "9",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [
+      "Co-operative Bank of Kenya Limited Staff Retirement Benefit Scheme, 2007"
+    ],
+    "ownership_type": "Freehold",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "Temporary structures on-site are used as guard posts for security personnel monitoring the property.",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 420000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Hundred and Twenty Million"
+    }
+  },
+  "valuation_methodology": [
+    "Optimal use potential, assuming planning and subdivision of the parcel into residential parcels",
+    "Market value on optimal use basis, assuming an arm\u2019s length transaction between a willing buyer and a willing seller, in an arm\u2019s length transaction after proper marketing wherein the parties involved each acted knowledgeably, prudently and without compulsion."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

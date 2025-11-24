@@ -1,0 +1,64 @@
+{
+  "property_id": "Njoro/ Ngata Block 2/5138 (Kirobon ‘A’)",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Njoro/ Ngata Block 2/5138 (Kirobon ‘A’)",
+      "registry_map_sheet_no": "0000000 P00",
+      "edition": "4",
+      "opened_date": "2046-04-06",
+      "registration_section": "NJORO/NGAT& BLOCK 2”",
+      "parcel_number": "3138",
+      "approximate_area": "0-0 465 EIR",
+      "nature_of_title": "ABSOLUT:"
+    },
+    "location": {
+      "county": "Nakuru County",
+      "area": "RVIST area"
+    },
+    "tenure": {
+      "type": "Absolute"
+    },
+    "registered_proprietors": [
+      {
+        "name": "KENNEDY OWUOR SIRA",
+        "id_number": "22215783"
+      },
+      {
+        "name": "FLORENCE ANINDO ONYANGO",
+        "id_number": "22339349"
+      }
+    ],
+    "ownership_type": "absolute proprietor(s)",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 7100000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Cost approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

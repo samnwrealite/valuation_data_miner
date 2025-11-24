@@ -1,0 +1,91 @@
+{
+  "property_id": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+  "valuation_report": {
+    "report_reference": "QONASACCO/ 075499",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-09-12",
+    "client": "QONA DT Sacco Ltd",
+    "client_address": "2392-00606, Sarit Center, Goodman Plaza, 1 Floor, Waiyaki Way - Westlands",
+    "purpose": "To determine Market Value, Mortgage Value, Forced Sale Value, and Insurance Value"
+  },
+  "property_details": {
+    "apartment_number": "33",
+    "block": "2/2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+      "lease_term": "99 Years",
+      "lease_start_date": "2024-11-01",
+      "annual_ground_rent": 780,
+      "ground_rent_currency": "KES",
+      "approximate_area": 116.6,
+      "area_unit": "M\u00b2",
+      "annual_rent": 780,
+      "lessor": "THE NATIONAL GOVERNMENT OF KENYA"
+    },
+    "location": {
+      "address": "Caitlin Heights Apartments, Shanzu area, Mombasa County",
+      "gps_coordinates": "3\u00b058'27.34\"S, 39\u00b044'44.20\"E",
+      "area": "Shanzu",
+      "county": "Mombasa County"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 Years",
+      "start_date": "2024-11-01",
+      "ground_rent": 780,
+      "ground_rent_currency": "KES"
+    },
+    "registered_proprietors": [
+      "HOMELAND EXPRESS LTD"
+    ],
+    "ownership_type": "Sectional Property",
+    "encumbrances": "None"
+  },
+  "property_description": {},
+  "apartment_details": {
+    "unit_area_sqm": 116.6,
+    "unit_area_sqft": 1252,
+    "number_of_bedrooms": 2,
+    "number_of_bathrooms": 2,
+    "accommodation_layout": [
+      "LOUNGE",
+      "DINING RECESS with a door to BALCONY",
+      "OPEN PLAN KITCHEN with door to Dobbie area",
+      "WALKWAY",
+      "COMMON SHOWERROOM with WC, shower cubicle and wash basin",
+      "BEDROOM with door to BALCONY",
+      "MASTER BEDROOM ensuite with door to BALCONY and showerroom having WC, shower cubicle and wash basin",
+      "STAFF QUARTER with door to BALCONY"
+    ],
+    "fittings_and_finishes": "Fittings include veneered wardrobes to all bedrooms, cupboards, cabinets and granitic worktop with double drain sink unit to the kitchen. Wet area walls are lined in marble tiles to 1/2 height."
+  },
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "rental_value_per_month": 60000,
+    "rental_currency": "KES",
+    "demand_assessment": "Demand for properties both for rental and sale is strong within the neighbourhood due its proximity to Mombasa City Centre.",
+    "neighbourhood_description": "The immediate neighbourhood is characterised by beach resorts and apartments along the sea frontage and a mixture of standalone residences, blocks of apartments and gated estates off the sea frontage."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 9500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Nine Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Income Capitalisation Approach"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said properties have not been set aside for public use/water catchment area. To the best of our knowledge, the subject properties are not government land and has not been reserved for public utility user. We confirm that the properties are not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the parcels of land are not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the properties. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

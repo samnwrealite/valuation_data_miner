@@ -1,0 +1,85 @@
+{
+  "property_id": "Mavoko Mun Block 46/175/192-Apt No. 5-D2-1-New Rise Gardens -Syokimau Area-Machakos County",
+  "valuation_report": {
+    "report_reference": "QONASACCO/ 002868",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      {
+        "name": "Onyango Orech",
+        "qualification": "Bachelor of Real Estate Hons UoN, GMISK"
+      },
+      {
+        "name": "Simon Oruka Orwa",
+        "qualification": "BA (Land Economics) Hons (UoN), MISK, Registered & Practicing Valuer"
+      }
+    ],
+    "inspection_date": "",
+    "report_date": "2025-08-27",
+    "client": "QONA DT Sacco Limited",
+    "client_address": "P.O. Box 2392-00606, Sarit Center",
+    "purpose": "professional valuations for open market, mortgage, forced sale, and insurance purposes"
+  },
+  "property_details": {
+    "apartment_number": "5-D2-1",
+    "block": "46",
+    "floor": "",
+    "title_details": {
+      "title_no": "Mavoko Mun Block 46/175/192",
+      "sectional_plan_number": "9",
+      "unit_number": "192",
+      "original_parcel_unit_number": "192"
+    },
+    "location": {
+      "area": "Syokimau Area",
+      "county": "Machakos County"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "96",
+      "start_date": "2023-12-01",
+      "annual_rent": 1450.00,
+      "rent_wef": "2025-07-01"
+    },
+    "registered_proprietors": [
+      "IRENE AKHOBE ATSALI"
+    ],
+    "ownership_type": "SECTIONAL PROPERTY",
+    "encumbrances": "None"
+  },
+  "property_description": {},
+  "apartment_details": {
+    "approximate_unit_floor_area_sqm": 142.2,
+    "unit_shares_common_property": "ONE TEN THOUSANDTH SHARES"
+  },
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 10500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Ten Million Five Hundred Thousand"
+    },
+    "mortgage_value": {
+      "amount": 8400000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Eight Million Four Hundred Thousand"
+    },
+    "forced_sale_value": {
+      "amount": 7875000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Seven Million Eight Hundred Seventy-Five Thousand"
+    },
+    "insurance_value": {
+      "amount": 10500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Ten Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method",
+    "Income Capitalization Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

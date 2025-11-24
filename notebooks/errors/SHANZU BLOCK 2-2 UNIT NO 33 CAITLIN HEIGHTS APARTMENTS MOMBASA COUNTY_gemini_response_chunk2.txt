@@ -1,0 +1,61 @@
+{
+  "property_id": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+  "valuation_report": {
+    "report_reference": "QONASACCO/ 075499",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-09-12",
+    "client": "QONA DT Sacco Ltd",
+    "client_address": "2392-00606, Sarit Center, Goodman Plaza, 1 Floor, Waiyaki Way - Westlands",
+    "purpose": "To determine Market Value, Mortgage Value, Forced Sale Value, and Insurance Value"
+  },
+  "property_details": {
+    "apartment_number": "33",
+    "block": "2/2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Mombasa/Bamburi Shanzu Block 2/2 Unit No. 33",
+      "approximate_area": 116.6,
+      "area_unit": "M²",
+      "lease_term": "99 Years",
+      "lease_start_date": "2024-11-01",
+      "annual_rent": 780,
+      "lessor": "THE NATIONAL GOVERNMENT OF KENYA"
+    },
+    "location": {
+      "area": "Shanzu",
+      "county": "Mombasa County"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 Years",
+      "start_date": "2024-11-01"
+    },
+    "registered_proprietors": [
+      "HOMELAND EXPRESS LTD"
+    ],
+    "ownership_type": "Sectional Property",
+    "encumbrances": "None"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 9500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Nine Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Income Capitalisation Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

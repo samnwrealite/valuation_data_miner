@@ -1,0 +1,108 @@
+{
+  "property_id": "MOMBASA/BLOCK XIII/106 & 109",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5292 /1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN"
+    ],
+    "inspection_date": "2025-01-30",
+    "report_date": "",
+    "client": "Corporate Recoveries, KCB Bank Kenya Limited",
+    "client_address": "Kencom House, Moi Avenue, P.O. Box 48400 - 00100, Nairobi",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "XIII",
+    "floor": "",
+    "title_details": {
+      "title_number": "MOMBASA/BLOCK XIII/106 & 109"
+    },
+    "location": {
+      "address": "Off Lumumba Road-Makupa Area, Mombasa County. Situated approximately 100 meters off and to the West of Lumumba Road within Makupa Area of Mombasa County. Approximately 520 meters due South of Makupa Roundabout and 40 meters South of Makupa Boys Secondary School.",
+      "coordinates": "4°02'46.3\"S 39°39'23.5\"E"
+    },
+    "tenure": {
+      "type": "freehold interest"
+    },
+    "registered_proprietors": [
+      "Bharat Mohanlal Patel",
+      "Himatlal Dharamshi Bhanji Patel",
+      "Ramniklal Dharamshi Bhanji Patel"
+    ],
+    "ownership_type": "",
+    "encumbrances": [
+      {
+        "date": "2008-06-19",
+        "amount": 9500000,
+        "currency": "KES",
+        "description": "Charge to secure a sum of Kshs. 9,500,000.00 (with other lands) in favour of Kenya Commercial Bank Limited"
+      },
+      {
+        "date": "2011-10-04",
+        "amount": 16500000,
+        "currency": "KES",
+        "description": "Further charge to secure a sum of Kshs. 16,500,000.00 (with other lands) in favour of Kenya Commercial Bank Limited"
+      }
+    ]
+  },
+  "property_description": {
+    "land_use": "Commercial/Light Industrial",
+    "plot_areas": [
+      {
+        "plot_number": "106",
+        "hectares": 0.0439,
+        "acres": 0.1084
+      },
+      {
+        "plot_number": "109",
+        "hectares": 0.0420,
+        "acres": 0.1039
+      }
+    ],
+    "plot_and_site_works": "These are contiguous rectangular/trapezoidal-shaped, fairly level sandy/coral soil plots whose boundaries are marked by building lines. Access into the properties is via a frontage to the immediate access road.",
+    "services": "Mains water and electricity services are connected to the property. Drainage is to a septic tank. Immediate access road is tar-surfaced. Water supply is augmented by a borehole on Plot No. 106.",
+    "improvements": "The plots are jointly developed with a double-storey go-down, an ablution block and a changing room block.",
+    "buildings_description": {
+      "go_down": {
+        "construction": "Roof: Reinforced concrete or metal-trussed covered with asbestos. Walls: Reinforced concrete beams and columns in filled with coral stonewalls rendered and colour-washed externally, plastered and painted internally. Ceilings: Reinforced concrete plastered and painted undersides. Floors: Reinforced concrete slab finished in ceramic tiles or cement screed. Windows: Glazed wooden frame reinforced with wire mesh or metal grilles. Doors: External doors are metal plate type reinforced with a metal grille and mesh. Internal doors are timber flush types. Staircase: Reinforced concrete risers and treads finished in terrazzo and provided with metal handrails.",
+        "accommodation": "Ground Floor: Office; Washroom with a WHB and a WC; Storage/old manufacturing area; First Floor: Landing to: 2No. storage rooms; Old manufacturing area;",
+        "built_up_area_sq_ft": 9340
+      },
+      "changing_room_block": {
+        "construction": "Similarly constructed as the go-down.",
+        "accommodation": "2No. bathrooms; Changing room; Store.",
+        "plinth_area_sq_ft": 300
+      },
+      "ablution_block": {
+        "construction": "Similarly constructed as the go-down.",
+        "accommodation": "Cloakroom with WC and an overhead shower; Cloakroom with a WC; External WHB.",
+        "plinth_area_sq_ft": 75
+      }
+    }
+  },
+  "apartment_details": {},
+  "occupancy": "The property was unoccupied at the time of our inspection. In its current state the building will require renovation works including dislodging the defunct machinery, for it to be functional.",
+  "condition": "As at the date of our inspection, the building was in a fair condition of repair and maintenance.",
+  "market_assessment": {
+    "general_remarks": "This is a double-storey godown located in Makupa area of Mombasa County. The building is currently unoccupied. The neighbourhood is characterised by a combination of light industrial and commercial properties. There is a growing trend around the neighbourhood where industrial/commercial properties are undergoing redevelopment to high-rise apartment buildings. The demand for similar properties in this neighbourhood is moderate either for use as light industrial/warehouse facilities, offices or redevelopment to high-rise apartments. There are currently no obvious environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property.",
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said properties have not been set aside for public use/water catchment area. To the best of our knowledge, the subject properties are not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject properties or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method: This method is based on sales and/or properties for sale, which are similar to the subject property with due allowance made for value affecting differences between the subject property and the comparable property.",
+    "Depreciated Replacement Cost Approach: This method estimates value based on the value of the land plus the depreciated cost of replacing the existing development. As a basis for the estimate of the replacement cost new, we have relied on comparable building costs currently prevailing in the building industry."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

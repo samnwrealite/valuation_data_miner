@@ -1,0 +1,109 @@
+{
+  "property_id": "Kajiado/Kaputiei-North/139738",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "",
+    "purpose": "Environmental & Social Policy Report"
+  },
+  "property_details": {
+    "apartment_number": "3",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "Kajiado/Kaputiei-North/139738"
+    },
+    "location": {
+      "address": "Namelock Estates Phase 3 Kitengela Area-Kajiado County",
+      "county": "Kajiado County",
+      "area": "Kitengela Area",
+      "estate": "Namelock Estates Phase 3"
+    },
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "Gated Community",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "excluded_list_compliance": {
+      "real_estate_construction_deemed_illegal_or_non_compliant": "No",
+      "properties_or_land_associated_with_illegal_forced_evictions": "No",
+      "properties_built_on_land_from_which_government_agencies_or_builders_have_removed_involuntarily_resettled_local_communities": "No",
+      "properties_involving_outstanding_land_disputes": "No",
+      "properties_built_in_locations_and_or_in_a_manner_that_involves_significant_degradation_or_conversion_of_critical_habitats_and_or_legally_protected_areas": "No",
+      "properties_built_in_locations_and_or_in_a_manner_that_involve_significant_adverse_impacts_on_critical_cultural_heritage": "No"
+    },
+    "es_screening_checklist_compliance": {
+      "eia_iee_exist": "No",
+      "labour_and_working_conditions_related_likely_to_affect_social_elements_for_property_already_in_use": "",
+      "proposed_project_likely_to_negatively_affect_income_levels_or_employment_opportunities_of_vulnerable_groups": ""
+    },
+    "building_safety": {
+      "structural_design_prepared_by_qualified_architect_engineer_and_approved_by_relevant_government_authorities": "Yes",
+      "adequate_firefighting_arrangements_exist_in_the_building": "Yes",
+      "emergency_egress_provisions_exist_in_the_building": "Yes",
+      "construction_involved_use_of_asbestos_and_other_harmful_material_redan_contamination": ""
+    },
+    "locations_prone_to_natural_disasters": {
+      "seismic_zone": "",
+      "last_flooding_or_earthquake_reported_in_the_area": "",
+      "damage_caused_to_the_property_or_the_housing_complex_during_the_last_floods_or_earthquake": ""
+    },
+    "locations_hazardous_to_human_habitation": {
+      "land_on_which_the_property_is_constructed_used_for_earlier": "Cattle grazing",
+      "property_located_in_area_prone_to_landslides": "No",
+      "waste_dumpsite_or_an_industrial_site": "No",
+      "known_incidents_of_gas_leakage_site_contamination_ground_water_contamination": "No"
+    },
+    "solid_waste_management_plan": "",
+    "access_to_basic_services": {
+      "source_of_drinking_water": "Local vendors",
+      "domestic_waste_managed": "Collected by authorities",
+      "source_of_electricity": "Mains",
+      "connected_to_the_citys_sewage_network": "No",
+      "alternate_sewage_arrangements": "Septic tanks",
+      "wastewater_treatment_or_recycling_implemented": ""
+    },
+    "community_health_safety_and_security": {
+      "housing_project_potentially_lead_to_natural_hazards": "No",
+      "adverse_impacts_due_to_the_mass_housing_project_activities_on_soil_water_and_other_natural_resources_in_use_by_the_communities": "No",
+      "project_potential_to_have_adverse_impacts_on_any_marginalized_or_already_vulnerable_groups": "No"
+    },
+    "land_acquisition_involuntary_resettlement_biodiversity_conservation_sustainable_natural_resource_management_indigenous_peoples_and_cultural_heritage": {
+      "property_involved_land_acquisition_of_large_areas_leading_to_involuntary_resettlement_and_displacement": "No",
+      "resettlement_and_livelihood_restoration_support_provided_to_those_displaced": "N/A",
+      "adequate_compensation_given_to_all_including_informal_settlers": "N/A",
+      "construction_of_the_property_and_its_location_cause_any_adverse_impacts_on_biodiversity_or_natural_resource_sustainability": "No",
+      "construction_of_the_property_and_its_location_cause_any_adverse_impacts_on_communities_of_indigenous_peoples": "No",
+      "property_green_building_certified": "Unknown",
+      "construction_of_the_property_and_its_location_cause_any_adverse_impacts_on_culture_heritage": "No",
+      "property_have_renewable_energy_sources": "No",
+      "water_conservation_measures": "Yes",
+      "water_conservation_details": "Rainwater harvesting and low flow fixtures"
+    },
+    "current_use_of_the_property": {
+      "storage_of_hazardous_waste_and_chemicals": "N/A",
+      "carrying_out_illegal_activities": "No",
+      "blocking_emergency_response_measures_and_equipment": "No",
+      "unsustainable_use_of_ground_water_resources": "No"
+    }
+  }
+}

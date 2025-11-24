@@ -1,0 +1,69 @@
+{
+  "property_id": "IRONG/ITEN/991-1003 & 1005",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5310/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa",
+      "Onyango Orech"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "court purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_numbers": "IRONG/ITEN/991-1003 & 1005"
+    },
+    "location": {
+      "description": "The properties are situated approximately 100 meters off Kerio Valley Road, 480 meters South of St. Patrick High School Iten, 420 meters Southwest of Elgeyo Marakwet County Assembly and 300 meters to the Southwest of Mosop Plaza within Iten Township in Elgeyo Marakwet County.",
+      "coordinates": "0°40'09.7\"N 35°30'20.3\"E, 0°40'09.7\"N 35°30'19.2\"E & 0°40'10.0\"N 35°30'17.8\"E"
+    },
+    "tenure": {
+      "type": "freehold (absolute proprietorship)",
+      "status": "Assumed"
+    },
+    "registered_proprietors": [],
+    "ownership_type": "freehold",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_area": "Each parcel measures approximately 0.05 of a hectare or 0.124 of an acre",
+    "plot_characteristics": "mostly rectangular-shaped red soil plots with fairly level terrains",
+    "boundaries": "variously marked by building lines, temporary fences or open",
+    "access": "open",
+    "services": "Mains electricity is connected or available for connection. Source of water and connectivity of sewer lines unascertained. Immediate access roads are tar-surfaced or earth-surfaced.",
+    "improvements": "Various permanent and temporary structures on the parcels, ignored in valuation."
+  },
+  "apartment_details": {},
+  "occupancy": "The developed properties were under various uses. Legality of the occupants/users unascertained.",
+  "condition": "No obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. Not a structural survey; no guarantee given in respect of rot, termite or pest infestation or any other defects.",
+  "market_assessment": {
+    "location_context": "One eighth-acre plots located within Iten Township in Elgeyo Marakwet County, in proximity to a myriad social and infrastructural facilities.",
+    "town_profile": "Iten is the headquarters and largest town of Elgeyo Marakwet County, primarily serving as an administrative and main commercial center. It boasts essential services such as Iten County Referral Hospital and St. Patrick's High School Iten.",
+    "market_drivers": "Demand for plots within the town is mainly driven by continuous population growth (especially for residential purposes) and a notable level of speculative investment in land, as buyers anticipate future growth and infrastructure development."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 35000000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "Not set aside for public use/water catchment area, not government land, not reserved for public utility user, not listed in the Ndungu Report, not adversely mentioned in NLC Kenya Gazette Notices (No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019), and not on riparian reserve/wetland.",
+    "planning_statutory_considerations": "No significant prospect of or potential for change of use of the subject property or those in the vicinity which could materially affect the value. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "No other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  }
+}

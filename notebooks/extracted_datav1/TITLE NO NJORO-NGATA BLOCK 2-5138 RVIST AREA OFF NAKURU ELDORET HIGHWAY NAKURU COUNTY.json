@@ -1,0 +1,116 @@
+{
+  "property_id": "Njoro/ Ngata Block 2/5138 (Kirobon \u2018A\u2019)",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 2",
+    "floor": "",
+    "title_details": {
+      "title_number": "Njoro/ Ngata Block 2/5138 (Kirobon \u2018A\u2019)",
+      "area": "0.0465 of a hectare or 0.1149 of an acre approximately",
+      "registry_map_sheet_no": "0000000 P00",
+      "edition": "4",
+      "opened_date": "2046-04-06",
+      "registration_section": "NJORO/NGAT& BLOCK 2\u201d",
+      "parcel_number": "3138",
+      "approximate_area": "0-0 465 EIR",
+      "nature_of_title": "ABSOLUT:"
+    },
+    "location": {
+      "address": "Approximately 2 kilometres off and to the South of Nakuru-Eldoret Highway, branching off at Ngata Bridge centre within RVIST area, Nakuru County. Approximately 1.4 kilometres south-west of Ngata Bridge centre, about 500 metres south-west of RVIST shopping centre and about 450 metres to the west of Rift Valley Institute of Science and Technology.",
+      "coordinates": "0\u00b016'51.7\"S 35\u00b059'59.1\"E",
+      "county": "Nakuru County",
+      "area": "RVIST area"
+    },
+    "tenure": {
+      "type": "Absolute"
+    },
+    "registered_proprietors": [
+      {
+        "name": "KENNEDY OWUOR SIRA",
+        "id_number": "22215783"
+      },
+      {
+        "name": "FLORENCE ANINDO ONYANGO",
+        "id_number": "22339349"
+      }
+    ],
+    "ownership_type": "absolute proprietor(s)",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "general_description": "The plot is developed with an incomplete three-bedroom bungalow currently at the wall plate level of construction (approximated at about 40% completion) and an outdoor toilet block. Other developments include a GCI sheets site house and a make shift construction tank. These have been ignored for the purposes of this valuation.",
+    "plot_description": "A tectangular shaped northerly sloping grey volcanic soils plot whose boundaries are marked partly by building lines, partly by barbed wire on timber posts but largely left open. Access is not defined/ open to the road frontage.",
+    "services": "Mains water and electricity services are available in the neighbourhood for connection to the property. Foul drainage is into a pit latrine. The immediate access road is earth surfaced; main feeder road is murram surfaced while the tarmac Nakuru- Eldoret Highway is about 2 kilometres away.",
+    "bungalow_construction": {
+      "roof": "Yet to be done.",
+      "ceilings": "Yet to be done.",
+      "walls": "Natural stone walls.",
+      "doors": "Yet to be done.",
+      "windows": "Yet to be done.",
+      "floors": "Mass concrete slab yet to be finished.",
+      "fittings": "Yet to be done."
+    },
+    "bungalow_accommodation": [
+      "Entry VERANDA",
+      "LOUNGE",
+      "DINING RECESS",
+      "Passage",
+      "KITCHEN",
+      "Kitchen BALCONY",
+      "Kitchen STORE",
+      "Common TOILET",
+      "Common BATHROOM",
+      "2No. BEDROOMS",
+      "Master BEDROOM en-suite with toilet"
+    ],
+    "bungalow_plinth_area": "1,491 Square Feet Approx.",
+    "outdoor_toilet_construction": "Constructed in natural stone walls unfinished externally, internally plastered and smoothed beneath a flat concrete slab roof. Ceiling is concrete slab underside. Doors are T&G timber doors. The floor is concreted and unfinished.",
+    "outdoor_toilet_accommodation": [
+      "PASSAGE",
+      "2No. PIT LATRINES",
+      "1No. BATHROOM"
+    ],
+    "outdoor_toilet_plinth_area": "104 Square Feet Approx."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "area_description": "The area is mainly an owner occupier residential area but with vibrant development of hostels to serve the neighbouring RVIST college. Demand for properties in this area is good.",
+    "market_outlook": "The general property market is lukewarm on the background of a dithering economy.",
+    "saleability_factors": "We are not aware of any factors that could negatively affect the saleability of the property both in an open market and forced sale situations.",
+    "zoning": "The property is zoned for residential purposes.",
+    "public_land_status": "There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land).",
+    "environmental_assessment": "At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way.",
+    "title_revocation_status": "As per the Gazzette Notice No. 6862 of July 2017, the title of the subject property has not been revoked by the National Land Commission.",
+    "matrimonial_property_status": "We were not able to ascertain whether the property is a matrimonial property."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 7100000,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Cost approach"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "road_reserve_status": "Does not lie on a road reserve and has no public user claims upon its title.",
+    "zoning": "Residential purposes",
+    "public_utility_land_status": "No evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland or lying on a riparian reserve/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land).",
+    "environmental_challenges": "No obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way.",
+    "title_revocation_status": "Title of the subject property has not been revoked by the National Land Commission as per the Gazzette Notice No. 6862 of July 2017."
+  }
+}

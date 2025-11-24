@@ -6,21 +6,22 @@
     "valuers": [],
     "inspection_date": "",
     "report_date": "",
-    "client": "Gilbert Sosi",
-    "client_address": "",
-    "purpose": "Open Market, Mortgage/Insurable Values, Reserved prices, Forced/Auction sale value or Recommended sale price for Land and Permanent buildings and developments."
+    "client": "DIB Bank Kenya Limited",
+    "client_address": "Bunyala Rd / Lower Hill Rd Junction; P.O. Box 6450 - 00200, Nairobi, Kenya.",
+    "purpose": "To provide professional opinion on Open Market, Mortgage/Insurable Values, Reserved prices, and Forced/Auction sale value for land and permanent buildings/developments."
   },
   "property_details": {
     "apartment_number": "",
     "block": "",
     "floor": "",
     "title_details": {},
-    "location": {
-      "area": "Karai/Gikambura"
-    },
+    "location": {},
     "tenure": {},
     "registered_proprietors": [
-      "Gilbert Sosi"
+      {
+        "name": "ME. WAST",
+        "id_number": "to7 66830"
+      }
     ],
     "ownership_type": "",
     "encumbrances": ""

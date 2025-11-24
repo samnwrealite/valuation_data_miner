@@ -1,0 +1,53 @@
+{
+  "property_id": "NJORO/ NGATA BLOCK 2/5138 (KIROBON ‘A’)",
+  "valuation_report": {
+    "report_reference": "SOO/AM/5282/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Danish Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-01-18",
+    "report_date": "2025-01-23",
+    "client": "Human Resources Department, Co-operative Bank of Kenya Limited",
+    "client_address": "Co-operative Bank House, P.O. Box 48231-00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "BLOCK 2",
+    "floor": "",
+    "title_details": {
+      "title_number": "NJORO/ NGATA BLOCK 2/5138 (KIROBON ‘A’)",
+      "area_hectares": 0.0465,
+      "area_acres": 0.1149,
+      "registry_map_sheet_no": "q"
+    },
+    "location": "The property is situated approximately 2 kilometres off and to the South of Nakuru- Eldoret Highway, branching off at Ngata Bridge centre within RVIST area, Nakuru County. The property lies approximately 1.4 kilometres south-west of Ngata Bridge centre, about 500 metres south-west of RVIST shopping centre and about 450 metres to the west of Rift Valley Institute of Science and Technology. The Google Map co-ordinates 0°16'51.7\"S 35°59'59.1\"E fall on the property.",
+    "tenure": "Freehold",
+    "registered_proprietors": [
+      "Kennedy Owuor Sila",
+      "Florence Anindo Onyango"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "Not occupied",
+  "condition": "Approximately 40% complete",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 4000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable method",
+    "Cost (Contractors) method"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

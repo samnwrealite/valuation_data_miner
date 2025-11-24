@@ -1,0 +1,83 @@
+{
+  "property_id": "NJORO/NGATA BLOCK 2/5138 (KIROBON 'A')",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-01-28",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "2",
+    "floor": "",
+    "title_details": {
+      "title_number": "NJORO/NGATA BLOCK 2/5138 (KIROBON 'A')",
+      "area": "0.065 Ha",
+      "registry_map_sheet_no": "",
+      "edition": "1",
+      "opened_date": "2016-04-06",
+      "nature_of_title": "ABSOLUTE"
+    },
+    "location": {
+      "county": "Nakuru County",
+      "district": "NJORO",
+      "sub_county": "NGATA",
+      "area_description": "RVIST area"
+    },
+    "tenure": {
+      "type": "ABSOLUTE",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
+    },
+    "registered_proprietors": [
+      {
+        "name": "JOASH NAMAN OCHIENG",
+        "address": "P.O. BOX 68771, NAIR",
+        "registration_date": "2019-05-16"
+      }
+    ],
+    "ownership_type": "Absolute",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {
+    "services": "Mains water and electricity services ate available in the neighbourhood for connection to the property. Foul drainage is into a pit latrine. The immediate access toad is earth surfaced; main feeder road is mutram surfaced while the tarmac Nakuru- Eldoret Highway is about 2 kilometres away.",
+    "plot_description": "A rectangular shaped northerly sloping grey volcanic soils plot whose boundaries are marked partly by building lines, partly by barbed wire on timber posts but largely left open. Access is not defined/ open to the road frontage.",
+    "improvements_summary": "The plot is developed with an incomplete three-bedroom bungalow currently at the wall plate level of construction (approximated at about 40% completion) and an outdoor toilet block. Other developments include a GCI sheets site house and a make shift construction tank. These have been ignored for the purposes of this valuation.",
+    "bungalow_construction_details": "Roof: Yet to be done. Ceilings: Yet to be done. Walls: Natural stone walls. Doors: Yet to be done. Windows: Yet to be done. Floors: Mass concrete slab yet to be finished. Fittings: Yet to be done.",
+    "outdoor_toilet_construction_details": "This is constructed in natural stone walls unfinished externally, internally plastered and smoothed beneath a flat concrete slab roof. Ceiling is concrete slab underside. Doors ate T&G timber doors. The floor is concreted and unfinished."
+  },
+  "apartment_details": {
+    "bungalow_accommodation_layout": "Entry VERANDA; LOUNGE; DINING RECESS; Passage; KITCHEN; Kitchen BALCONY; Kitchen STORE; Common TOILET; Common BATHROOM; 2No. BEDROOMS; Master BEDROOM en-suite with toilet.",
+    "bungalow_plinth_area": "1,491 Square Feet Approx.",
+    "outdoor_toilet_accommodation_layout": "PASSAGE; 2No. PIT LATRINES; 1No. BATHROOM.",
+    "outdoor_toilet_plinth_area": "104 Square Feet Approx."
+  },
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_market_remarks": "This is an incomplete residential property situated in RVIST atea, Nakuru County, near all social and economic amenities and lying at approximately 9 kilometres from Nakuru town centre. The area is mainly an owner occupier residential area but with vibrant development of hostels to serve the neighbouring RVIST college. Demand for properties in this atea is good. We however note that the general property market is lukewarm on the background of a dithering economy. We ate not aware of any factors that could negatively affect the saleability of the property both in an open market and forced sale situation"
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 4000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Four Million"
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user_status": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues_summary": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property_status": "According to the Matrimonial Property Act 2013, Section 6 (1) (c), Matrimonial Property means \u2018any other immoveable ot moveable property owned by both or either spouse and acquited during the subsistence of the marriage\u2019. The property is solely registered in the name of Joash Naman Ochieng. We were not able to confirm whether this is a matrimonial property. We advise that the registered owner provide this information."
+  }
+}

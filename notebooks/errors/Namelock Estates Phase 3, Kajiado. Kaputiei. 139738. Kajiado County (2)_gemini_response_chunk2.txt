@@ -1,0 +1,58 @@
+{
+  "property_id": "Kajiado/Kaputiei North/139738",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Safe Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-02-20",
+    "client": "KCB BANK",
+    "client_address": "P.O. Box 48400 - 00100, Nairobi, Kenya.",
+    "purpose": "mortgage financing purposes"
+  },
+  "property_details": {
+    "apartment_number": "3",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/KAPUTIE! NORTH/139738",
+      "approximate_area": "0.035HA.",
+      "registry_map_sheet_no": "",
+      "subdivision_of": "128243"
+    },
+    "location": {
+      "county": "Kajiado County",
+      "area": "Kitengela Area",
+      "estate": "Namelock Estate Phase 3"
+    },
+    "tenure": "freehold interest",
+    "registered_proprietors": [
+      "RiP VALLEY LimiTeD"
+    ],
+    "ownership_type": "absolute proprietor/s)",
+    "encumbrances": "free from any encumbrances"
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 8000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Eight Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: The market value returned here below would be the expected/estimated realization price of the property if placed in the market on the valuation date on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Mortgage Value: The mortgage value returned is on the basis of a percentage of the market value. We have adopted 80% as the standard recommended percentage in accordance to regular practice.",
+    "Forced Sale Value: The forced sale value is usually derived on similar principles as those of the current market value but anticipating a wiling buyer-unwilling seller situation that most often lead to the attainment of lower values/prices upon a propetty’s liquidation. However, we have adopted a value based on 75% of the market value being the reserve price as recommended by Land Act upon sale (auction) of any given property for recovery purposes.",
+    "Insurance Value: In artiving at the insurance value of the structural improvements, we have considered the current replacement cost of the building including professional fees and loss of rent."
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

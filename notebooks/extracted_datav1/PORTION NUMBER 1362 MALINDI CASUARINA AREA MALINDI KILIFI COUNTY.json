@@ -1,0 +1,77 @@
+{
+  "property_id": "PORTION NUMBER 1362 MALINDI CASUARINA AREA MALINDI KILIFI COUNTY",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "tenure": "Freehold Interest",
+      "registered_proprietors": "KICHUNA PROPERTIES LIMITED",
+      "encumbrances": "Nil.",
+      "file_number": "LT. 35 Folio 259/1 File 4259",
+      "plot_number": "Portion Number 1362",
+      "area": "1.36 acres",
+      "registered_owner": "Kichuna Properties Limited",
+      "registrar": "REGISTRAR OF COAST LAND TITLES",
+      "act": [
+        "LAND REGISTRATION ACT NO 3 OF 2012",
+        "LAND ACT No. 6 OF 2012",
+        "THE REGISTRATION OF TITLES ACT CAP. 281 (REPEALED)"
+      ]
+    },
+    "location": {
+      "address": "Off Marine Park Road, Casuarina area, Malindi, Kilifi County",
+      "gps_coordinates": "3\u00b015'4.57\"S, 40\u00b0 7'43.98\"E",
+      "county": "Kilifi County",
+      "town": "Malindi",
+      "geolocation": "3\u00b015'4.57\"S, 40\u00b0 7'43.98\"E",
+      "nearest_landmark": "Marine Park Road and Casuarina sand beach"
+    },
+    "tenure": {
+      "type": "FREEHOLD"
+    },
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "description": "The plot is developed with a residential cottage provided with a staff quarter, gate house and a water stand. This is an approximately 1.36-acre beach plot developed with an imposing four (4) bedroom (all ensuite) holiday cottage in the serene surroundings of Casuarina residential area of Malindi Town, Kilifi County. The property has frontage to both Marine Park Road and Casuarina Beach.",
+    "type_of_house": "Cottage",
+    "number_of_bedrooms": 4,
+    "number_of_bathrooms": "N/A",
+    "size_of_living_room_sqm": "N/A",
+    "age_year_of_construction": "N/A",
+    "number_of_floors": "N/A",
+    "other_features": "DSQ, Parking yard, Garden and all en-suite bedrooms."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "description": "Casuarina is a classy neighbourhood characterized by villas, cottages, holiday homes and beach resorts. Nearby notable properties include Billionaire Resort and Retreat, Malindi Marine Park, Lion in the Sand, among others. Demand for properties with the neighbourhood is steady with the area commanding premium prices. We anticipate continued growth in property prices in the area."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland.",
+    "planning_highway_statutory": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There ate currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property."
+  }
+}

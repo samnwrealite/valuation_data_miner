@@ -1,0 +1,49 @@
+{
+  "property_id": "",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {},
+    "location": {},
+    "tenure": {},
+    "registered_proprietors": [],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Sellout Value (for multi-units)",
+    "Replacement Cost for insurance purposes.",
+    "Income Value.",
+    "Land value separate from the building, fixtures and fittings.",
+    "Capital Value upon completion according to specifications.",
+    "Mortgage value",
+    "Insurance Replacement Value",
+    "Investment Value",
+    "Forced Sale value with special assumptions (including where applicable)"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

@@ -1,5 +1,5 @@
 {
-  "property_id": "SUB-PLOT B- (PROPOSED AMALGAMATION & SUBDIVISION OF L.R NUMBERS: 182/16-20, 35-37) ONDIRI AREA-KIKUYU KIAMBU COUNTY",
+  "property_id": "SUB-PLOT B- (PROPOSED AMALGAMATION & SUBDIVISION OF L.R NUMBERS: 182/16-20, 35-37)",
   "valuation_report": {
     "report_reference": "SOO/DOO/5320/1/25",
     "valuer": "NW Realite Limited",
@@ -9,53 +9,92 @@
     ],
     "inspection_date": "2025-06-15",
     "report_date": "",
-    "client": "Director, Children of Hope, Kikuyu, Kiambu County",
+    "client": "Director, Children of Hope",
     "client_address": "Kikuyu, Kiambu County",
-    "purpose": "advice on its current market value for advisory purposes"
+    "purpose": "advisory purposes"
   },
   "property_details": {
     "apartment_number": "",
     "block": "",
     "floor": "",
     "title_details": {
-      "parcel_numbers": "182/16-20, 35-37",
-      "registered_proprietors": [
-        "Tumaini Ministries"
-      ],
-      "tenure": {
-        "type": "Leasehold",
-        "duration": "999 years",
-        "effective_date": "1904-01-01",
-        "ground_rent": "KShs. 730/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 1,940/=, KShs. 2,970/=, KShs. 1,945/=, KShs. 9,720/="
-      }
+      "parcel_numbers": [
+        "182/16",
+        "182/17",
+        "182/18",
+        "182/19",
+        "182/20",
+        "182/35",
+        "182/36",
+        "182/37"
+      ]
     },
     "location": {
-      "address": "outskirts of Kikuyu Township, approximately 1.5 kilometres to the West of Kikuyu Township, along Kikuyu-Kamangu Road and 350 metets to the Southeast of Ondiri Police Post within Ondirti area of Kiambu County.",
+      "address": "Ondiri Area-Kikuyu, Kiambu County (outskirts of Kikuyu Township, approximately 1.5 kilometres to the West of Kikuyu Township, along Kikuyu-Kamangu Road and 350 meters to the Southeast of Ondiri Police Post)",
       "coordinates": "1°14'28.5\"S 36°39'01.1\"E"
     },
-    "tenure": {},
-    "registered_proprietors": [],
+    "tenure": {
+      "type": "Leasehold",
+      "term": "999 years",
+      "start_date": "1904-01-01",
+      "ground_rent_details": "Varying revisable ground rent (KShs. 730, KShs. 1,940, KShs. 1,945, KShs. 2,970, KShs. 9,720)"
+    },
+    "registered_proprietors": [
+      "Tumaini Ministries"
+    ],
     "ownership_type": "",
     "encumbrances": "Unascertained."
   },
   "property_description": {
+    "property_type": "A MIXED-USE PARCEL",
+    "plot_area_combined_hectares": 19.274,
+    "plot_area_combined_acres": 47.626,
+    "plot_area_subject_hectares": 14.596,
+    "plot_area_subject_acres": 36.067,
     "land_use": "Agricultural user. Potential for residential user.",
-    "plot_area_hectares": 14.596,
-    "plot_area_acres": 36.067,
-    "plot_shape": "irregular-shaped",
-    "soil_type": "red soils plot",
-    "slope": "gentle westward slope",
-    "boundaries": "barbed wite reinforced with hedges",
-    "access": "metal plate gate mounted on concrete pillars granting access into the property",
+    "plot_site_works": "Irregular-shaped, red soils plot with a gentle westward slope whose boundaries are marked by barbed wire reinforced with hedges. Access into the property is via a metal plate gate mounted on concrete pillars granting access into the property.",
     "services": "Mains electricity is connected to the property. Water is supplied from a borehole within the property. Foul drainage is into a septic tank. Immediate access road is tarmacked.",
-    "improvements_summary": "2 No. similar 5-bedroomed townhouses, an ablution block, cowshed and a temporary storage cabin."
+    "improvements": "2 No. similar 5-bedroomed townhouses, an ablution block, cowshed and a temporary storage cabin (temporary improvements ignored for valuation purposes).",
+    "buildings_description": {
+      "townhouses": {
+        "number_of_units": 2,
+        "bedrooms_per_unit": 5,
+        "construction": "Reinforced concrete framework of beams and columns in filled with natural stone walls plastered and colour washed externally, plastered and painted internally. Wet rooms have walls partially lined with ceramic tiles to dado level.",
+        "roof": "Fascia boarded timber trusses overlaid in factory-painted roofing sheets fitted with gutters and downpipes.",
+        "ceilings": "Plastered and painted concrete slab to the ground floor and soft board panels to the first floor.",
+        "doors": "External doors are metal panel types while the internal ones are timber flush types.",
+        "windows": "Glazed steel casements fitted with steel grilles for burglar protection.",
+        "floors": "Mass or reinforced concrete slabs finished in cement screed or ceramic tiles.",
+        "staircase": "Access to the upper floor is via a reinforced concrete staircase provided with steel balustrades and railings.",
+        "fittings": "Stainless-steel sink unit to the kitchen, wardrobes, cupboards, shelves and sanitary wares.",
+        "accommodation_per_unit": {
+          "ground_floor": [
+            "Entrance porch",
+            "Lounge",
+            "Kitchen",
+            "Dining",
+            "Washroom with a WC, shower and a WHB",
+            "1 No. bedroom en-suite with built-in wardrobes and a washroom containing a WC, WHB and an overhead shower",
+            "2 No. bedrooms"
+          ],
+          "first_floor": [
+            "Landing to: 2 No. bedrooms",
+            "Washroom with a WC, WHB and an overhead shower"
+          ]
+        },
+        "total_built_up_area_sq_ft": 5960
+      }
+    }
   },
   "apartment_details": {},
-  "occupancy": "The houses were being used as a children’s home.",
-  "condition": "in a good condition of repair and maintenance.",
+  "occupancy": "Children’s home",
+  "condition": "Good condition of repair and maintenance.",
   "market_assessment": {
-    "general_remarks": "This is an expansive property located in the outskirts of Kikuyu Township, Kiambu County. The immediate neighbourhood is characterised mainly with stand-alone residential developments and complementary social amenities. For optimum use, the proposed sub-plot could be further subdivided into smaller portions to be utilised for residential developments. Infrastructural and social facilities are available in the neighbourhood to support medium density residential uset.",
-    "market_outlook": "The property market has remained subdued due to local economic challenges that have adversely affected the demand for property across board. We however anticipate a continued but measured growth in the foreseeable future due to improving macroeconomic factors such as falling interest and stable exchange rates."
+    "general_remarks": "Expansive property located in the outskirts of Kikuyu Township, Kiambu County. Immediate neighbourhood characterised mainly with stand-alone residential developments and complementary social amenities. For optimum use, the proposed sub-plot could be further subdivided into smaller portions to be utilised for residential developments. Infrastructural and social facilities are available in the neighbourhood to support medium density residential user.",
+    "market_outlook": "Property market has remained subdued due to local economic challenges that have adversely affected the demand for property across board. Anticipate a continued but measured growth in the foreseeable future due to improving macroeconomic factors such as falling interest and stable exchange rates.",
+    "public_utility_user_status": "Property has not been set aside for public use/water catchment area. Not government land and has not been reserved for public utility user. Not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. Not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. Not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "No significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "No other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
   },
   "valuations": {
     "current_market_value": {
@@ -65,12 +104,8 @@
     }
   },
   "valuation_methodology": [
-    "Market Value"
+    "Market Value approach, based on willing buyer willing seller principle."
   ],
   "lease_details": {},
-  "compliance": {
-    "public_utility_user": "it is out considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd Match 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
-    "planning_highway_statutory": "In our opinion we don’t foresee any significant prospect of ot potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
-    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment teport would verify this in greater details."
-  }
+  "compliance": {}
 }

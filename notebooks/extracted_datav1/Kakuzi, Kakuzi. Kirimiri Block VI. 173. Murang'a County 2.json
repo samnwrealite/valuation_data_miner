@@ -1,0 +1,70 @@
+{
+  "property_id": "KAKUZI/KIRIMIRI/BLK VI /173",
+  "valuation_report": {
+    "report_reference": "CSU/ Kenol Manis ASR TIN ONT",
+    "valuer": "NW REALITE VALUERS",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB BANK",
+    "client_address": "KCB Towers, Upper Hill. P. O. Box 48400 \u2014 00100 Nairobi, Kenya",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "BLK VI",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAKUZI/KIRIMIRI/BLK VI /173",
+      "approximate_area": "1.22 hectares (3.015 acres)",
+      "registry_map_sheet_no": "",
+      "land_reference_number": ""
+    },
+    "location": {
+      "area": "Kakuzi Area",
+      "county": "Murang\u2019a County",
+      "description": "The property is situated approximately 3.8 kilometers Northeast of Makuyu Boys High School, 2.5 kilometers Northeast of Kakuzi Magunas, 1 kilometer to the Southwest of Kihara Primary School and 1kilometet to the West of Kakuzi Horticulture East Office within Kakuzi Area in Murang\u2019a County.",
+      "google_coordinates": "0\u00b053'44.7\"S 37\u00b014'15.4\"E",
+      "exact_location": "",
+      "area_covered": "",
+      "gradient": ""
+    },
+    "tenure": {
+      "type": "",
+      "unexpired_term": ""
+    },
+    "registered_proprietors": [
+      "SAMUEL KAMANDE MUCHOKI"
+    ],
+    "ownership_type": "",
+    "encumbrances": ""
+  },
+  "property_description": {
+    "land_use": "Agricultural",
+    "plot_and_site_works": "This is a trapezoidal-shaped, red soils plot with a southwards slope whose boundaries are open or fronting a seasonal river. Access into the property is open.",
+    "services": "Mains electricity and water are available for connection to the property. Fowl drainage would be into a septic tank. The immediate access road to the property is earth surfaced.",
+    "improvements": "There were temporary structures on the parcel, which have been ignored for the purposes of this valuation."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "general_remarks": "This is a vacant agricultural parcel located within Kakuzi area of Murang\u2019a County. The property is located in the Kakuzi area, which is predominantly characterized by crop farming and single-family homesteads. There is adequate infrastructure within the neighborhood to support agricultural activities within the area.",
+    "demand": "The demand for agricultural land in this sub-market is average. The demand is fueled by proximity to water sources for agriculture as well as the soil types, which supports the cultivation of different varieties of crops.",
+    "challenges": "However, the topography of the subject plot, being slightly steep, could discourage potential buyers due to difficulties in cultivating the land."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "We have petused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquity into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current uset of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

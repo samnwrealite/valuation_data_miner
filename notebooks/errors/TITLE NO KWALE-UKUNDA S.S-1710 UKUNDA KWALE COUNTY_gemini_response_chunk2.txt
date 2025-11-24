@@ -1,0 +1,71 @@
+{
+  "property_id": "Kwale/Ukunda S.S/1710",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-05-23",
+    "report_date": "2025-05-26",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "",
+    "purpose": "Open Market, Mortgage purposes, Insurance purposes, Forced sale purposes, Reserve price, Value of land and improvements thereon, Capital value, Rental Value"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "One",
+    "title_details": {
+      "title_number": "Kwale/Ukunda S.S/1710",
+      "approximate_area": "0.1668 acres",
+      "registry_map_sheet_no": "1",
+      "nature_of_title": "ABSOLUTE",
+      "edition_opened": "2018-11-05",
+      "registration_section": ""
+    },
+    "location": {
+      "county": "Kwale County",
+      "town": "Ukunda",
+      "geolocation": "4°18'25.69\"S, 39°32'43.69\"E",
+      "nearest_landmark": "Ukunda Youth Polytechnic"
+    },
+    "tenure": {
+      "type": "Freehold"
+    },
+    "registered_proprietors": [
+      "Solomon Mathenge Muya"
+    ],
+    "ownership_type": "Absolute Proprietor",
+    "encumbrances": "None"
+  },
+  "property_description": {
+    "type_of_house": "Bungalow",
+    "year_of_construction": "2020",
+    "number_of_bedrooms": 3,
+    "number_of_bathrooms": 4,
+    "size_of_living_room_sqm": 31.8,
+    "total_area_covered_plinth_area_sqm": 162.6,
+    "features": [
+      "Master ensuite",
+      "separate dining room"
+    ]
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 6500000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Six Million Five Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

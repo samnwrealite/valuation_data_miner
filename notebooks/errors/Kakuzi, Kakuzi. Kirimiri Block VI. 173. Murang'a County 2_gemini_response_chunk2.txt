@@ -3,7 +3,7 @@
   "valuation_report": {
     "report_reference": "CSU/ Kenol Manis ASR TIN ONT",
     "valuer": "NW REALITE VALUERS",
-    "valuers": ["NW REALITE VALUERS"],
+    "valuers": [],
     "inspection_date": "",
     "report_date": "",
     "client": "KCB BANK",
@@ -12,12 +12,24 @@
   },
   "property_details": {
     "apartment_number": "",
-    "block": "VI",
+    "block": "BLK VI",
     "floor": "",
-    "title_details": {},
-    "location": {},
-    "tenure": {},
-    "registered_proprietors": [],
+    "title_details": {
+      "title_number": "KAKUZI/KIRIMIRI/BLK VI /173",
+      "land_reference_number": ""
+    },
+    "location": {
+      "exact_location": "",
+      "area_covered": "",
+      "gradient": ""
+    },
+    "tenure": {
+      "type": "",
+      "unexpired_term": ""
+    },
+    "registered_proprietors": [
+      "SAMUEL KAMANDE MUCHOKI"
+    ],
     "ownership_type": "",
     "encumbrances": ""
   },

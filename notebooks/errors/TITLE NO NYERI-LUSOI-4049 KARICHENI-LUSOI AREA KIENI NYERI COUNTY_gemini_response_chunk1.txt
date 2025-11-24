@@ -1,0 +1,81 @@
+{
+  "property_id": "NYERI/LUSOI/4049",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5323/1/25",
+    "valuer": "Simon Oruka Orwa",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-06-16",
+    "report_date": "2025-06-26",
+    "client": "Lusoi Estate Limited",
+    "client_address": "P.O BOX 53457 -00200 NAIROBI",
+    "purpose": "Advising on Current Open Market Value and Forced Sale Value for submission to the Agricultural Finance Corporation."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "NYERI/LUSOI/4049",
+      "area_hectares": 50.9,
+      "area_acres": 127.30,
+      "registry_map_sheet_no": "414.2",
+      "edition": "4",
+      "opened_date": ""
+    },
+    "location": {
+      "area": "Karicheni - Lusoi area",
+      "town": "Nyeri County",
+      "county": "Nyeri County",
+      "coordinates": "0°17'12.3\"S 36°59'52.8\"E",
+      "directions": "About two kilometers off and to the West of Nyeri-Nanyuki Road, 7.5 kilometers North of Chaka Town, 2.3 kilometers West of Kieni Technical and Professional College and 1.7 kilometers Southeast of Lusoi Resort."
+    },
+    "tenure": {
+      "type": "Freehold",
+      "details": ""
+    },
+    "registered_proprietors": [
+      {
+        "name": "Lusoi Estate Limited",
+        "address": "P.O BOX 53457 -00200 NAIROBI"
+      }
+    ],
+    "ownership_type": "Absolute",
+    "encumbrances": "NIL"
+  },
+  "property_description": {
+    "land_use": "Agricultural",
+    "parcel_and_siteworks": "An almost-trapezoidal shaped mixed black and brown soil parcel with gentle gradient whose boundaries are partially marked with corner beacons. Access into the property is open.",
+    "services": "Piped water and electricity are available in the neighbourhood for connection. There is a dam within the property to augment water supply. Waste disposal would be to a septic tank/pit latrines.",
+    "improvements": "Temporary farm house, permanent ablution block, and a dam occupying about eight acres of land."
+  },
+  "apartment_details": {},
+  "occupancy": "Unoccupied but under the custody of the registered owner.",
+  "condition": "One hundred and twenty-seven-acre parcel of land located in Karicheni – Lusoi area of Kieni, Nyeri County, situated at the foothills of Mt Kenya, receiving adequate rain to sustain rainfed farming. The dam within the property stores rainwater.",
+  "market_assessment": {
+    "demand": "Generally, demand for land for farming, development or speculation has been strong in the area, however, the property market has been experiencing a slowdown with properties taking longer to dispose due to recent challenges in the wider economy.",
+    "development_potential": "Besides farming, other real estate development options would include setting up holiday homes, a resort, or a recreational facility.",
+    "public_utility_user": "The property has not been set aside for public use/water catchment area, is not government land, not reserved for public utility user, not listed in the Ndungu Report, and not adversely mentioned in NLC Kenya Gazette Notices. The land is not on riparian reserve / wetland.",
+    "planning_considerations": "No significant prospect or potential for change of use of the subject property or those in the vicinity that could materially affect its value. The current user conforms to its stipulated use.",
+    "environmental_issues": "No obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 190000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Hundred and Ninety Million"
+    }
+  },
+  "valuation_methodology": [
+    "Market Value: Expected/estimated realization price on a willing buyer willing seller basis at an arm’s length transaction.",
+    "Forced Sale Value: Derived on similar principles as current market value but anticipates a willing buyer-unwilling seller situation, adopted as 75% of the market value as recommended by Land Act No. 6 of 2012."
+  ],
+  "lease_details": {},
+  "compliance": {
+    "statutory_compliance": "The property has not been set aside for public use/water catchment area, is not government land, not reserved for public utility user, not listed in the Ndungu Report, and not adversely mentioned in NLC Kenya Gazette Notices. The land is not on riparian reserve / wetland. No significant prospect or potential for change of use of the subject property or those in the vicinity that could materially affect its value. The current user conforms to its stipulated use.",
+    "environmental_compliance": "No obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  }
+}

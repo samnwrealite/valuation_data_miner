@@ -1,0 +1,107 @@
+{
+  "property_id": "KAJIADO/KAPUTIEI NORTH /139738 - HOUSE NUMBER 3",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5295/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome - BA Land Econ. (Hons), MBA (USIU), MISK, RV, REA, OPM (Harvard)",
+      "Nahashon Kuria - B.Ed (Arts) (Hons), UoN, REA, Dip. Estate Agency & Property mgt, UoN",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-02-19",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "Riverside Platinum Branch, P.O. Box 48400 – 00100, Nairobi",
+    "purpose": "mortgage purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "KAJIADO/KAPUTIEI NORTH /139738",
+      "plot_number": "",
+      "area_hectares": "0.035",
+      "area_acres": "0.0865",
+      "area_sqm": "",
+      "area_sqft": ""
+    },
+    "location": {
+      "county": "Kajiado County",
+      "town": "Kitengela Area",
+      "estate": "Namelock Estate Phase 3",
+      "address_description": "House Number 3, is situated within Namelock Estate Phase 3, which is located approximately 600 meters Off Namanga Road within Kitengela Area of Kajiado County. The estate lies opposite Sarah’s Gables, approximately 4 kilometres due Southwest of Kitengela Town, and 250 meters to the Southwest of Hindu Temple-Kitengela.",
+      "google_coordinates": "1°30'49.5\"S 36°56'39.6\"E"
+    },
+    "tenure": {
+      "type": "freehold interest",
+      "lease_term": "",
+      "commencement_date": "",
+      "expiry_date": ""
+    },
+    "registered_proprietors": [
+      "Rimpa Valley Limited"
+    ],
+    "ownership_type": "",
+    "encumbrances": "NIL."
+  },
+  "property_description": {
+    "general_description": "The property comprises an all ensuite three-bedroom bungalow.",
+    "construction_materials": {
+      "roof": "Flat-roofed fascia boarded timber trusses overlaid in factory-painted box profile roofing sheets and provided with gutters and downpipes.",
+      "ceilings": "Lined with soft board panels or PVC tiles.",
+      "walls": "In-filled with natural stone walls master rendered externally and keyed; plastered and painted internally. Wet rooms, including kitchen, have walls lined with ceramic tiles to dado level.",
+      "doors": "The external doors are metal panel types while the internal ones ate flush timber types.",
+      "windows": "These are glazed steel casement types.",
+      "floors": "Mass concrete slabs finished in ceramic tiles.",
+      "fittings": "Fittings include tiled worktops, cupboards, and stainless-steel sink unit to the kitchen."
+    },
+    "site_works": "A rectangular-shaped black cotton soils plot with a fairly level slope whose boundaries are marked with a perimeter stone wall or chain-link wire. Access into the subject property is via a sliding metal grilles gate. Access into the estate is granted via a double-leaf metal plate gate mounted on conctete pillars opening on to the main driveway.",
+    "services": "Mains electricity is connected to the property. Water is supplied from a borehole in a nearby property. Foul drainage is into a septic tank. The immediate access to the subject property is murram-surfaced. All other social amenities are easily accessible within the neighborhood."
+  },
+  "apartment_details": {
+    "number_of_bedrooms": "3",
+    "number_of_bathrooms": "3",
+    "built_up_area_sqft": "1520",
+    "accommodation_layout": [
+      "Entrance veranda",
+      "Lounge cum dining area",
+      "Kitchen",
+      "Passageway",
+      "2 No. bedrooms all en-suite with a WC, WHB and an overhead shower",
+      "Cloakroom with WC and WHB",
+      "Master bedroom en-suite with a WC, WHB and an overhead shower"
+    ]
+  },
+  "occupancy": "unoccupied",
+  "condition": "excellent state of repair and decoration",
+  "market_assessment": {
+    "general_market_remarks": "This is a three-bedroom bungalow within the newly built Namelock Estate Phase 3 located within Kitengela Area of Kajiado County. The subject is attractively finished internally; externally rendered and yet to be colour-washed. The property is situated in a neighbourhood that is dominated by residential developments, with gated community concept being a popular feature within the area and its immediate environs. The increasing demand for residential land and properties has sparked a trend that has seen an influx of buyers to peripheral areas of the larger Nairobi Metropolitan area due to the relatively affordable prices. Currently, the local property market is lukewarm due to local economic challenges adversely affecting the demand for ptoperty across board. We however anticipate a continued but measuted growth in the sector going forward into the foreseeable future.",
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/watet catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve /wetland. We were unable to confirm the allotment date or if the ptoper procedures were followed as we were not privy to this information.",
+    "planning_highway_statutory_considerations": "In our opinion we don’t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There ate currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the ptoperty. A detailed environmental impact assessment report would verify this in greater details.",
+    "matrimonial_property": "According to the Matrimonial Property Act 2013, Section 6 (1) (©), Matrimonial Property means ‘any other immoveable ot moveable property owned by both or either spouse and acquired during the subsistence of the marriage’. The property is solely registered in the name of Rimpa Valley Limited; hence it is not a matrimonial property."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    {
+      "method": "Comparative Sales Method",
+      "description": "This method is based on sales and/or properties for sale, which are similar to the subject property with due allowance made for value affecting differences between the subject ptoperty and the comparable propetty."
+    },
+    {
+      "method": "Depreciated Replacement Cost Approach",
+      "description": "This method estimates value based on the value of the land plus the depreciated cost of replacing the existing development. As a basis for the estimate of the replace"
+    }
+  ],
+  "lease_details": {},
+  "compliance": {
+    "rates_payment_status": "We were unable to ascertain the rates payment status as at the date of this valuation. We advise that the proprietor provides details of this if any.",
+    "land_rent_payment_status": "The title is held on a freehold interest hence not subject to payment of land rent."
+  }
+}

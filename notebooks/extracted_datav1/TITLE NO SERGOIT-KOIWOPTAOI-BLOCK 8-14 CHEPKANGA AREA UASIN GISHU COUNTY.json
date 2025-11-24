@@ -1,0 +1,66 @@
+{
+  "property_id": "SERGOIT/KOIWOPTAOI/BLOCK 8/14",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5306/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Danish Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-04-03",
+    "report_date": "2025-04-24",
+    "client": "Administrators of the Estate of William Cherop Murgor",
+    "client_address": "",
+    "purpose": "advice on its current market value; for court purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "8",
+    "floor": "",
+    "title_details": {
+      "title_number": "SERGOIT/KOIWOPTAOI/BLOCK 8/14",
+      "plot_area_hectares": 1.9313,
+      "plot_area_acres": 4.7724
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "area": "Chepkanga Area",
+      "coordinates": "0\u00b034'29.1\"N 35\u00b019'13.0\"E",
+      "description": "The property is situated approximately 1.8 kilometers Eldoret-Iten Raod, approximately 13 kilometres to the Northeast of Eldoret City Centre and 1 kilometres to the East of University of Eldoret High School within Chepkanga Area in Uasin Gishu County."
+    },
+    "tenure": {
+      "type": "Freehold (Absolute proprietorship)"
+    },
+    "registered_proprietors": [
+      "Unascertained"
+    ],
+    "ownership_type": "",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_and_site_works": "A rectangular-shaped red loam soils plot with a fairly level terrain whose boundaries are marked with barbed wire on timber posts. Access into the subject property is open.",
+    "services": "Mains electricity is connected to the property. We were unable to confirm the connectivity of water and sewer lines to the property. The immediate access roads to the subject is murram-surfaced.",
+    "improvements": "Erected on the plot are various permanent and temporary structures. The developments have been ignored in our valuation.",
+    "general_remarks": "This is an agricultural property located within Chepkanga area of Uasin Gishu County. Access to the property is granted by Eldoret-Iten Road and additional murram-surfaced roads. The parcel is characterised by red soils and a fairly flat topography allowing for a range of agricultural activities. The subject area is within the precincts of Eldoret City and hence transitioning from agricultural to residential cum commercial use. University of Eldoret is in the vicinity of the property. It is noticeable that large parcels are gradually being subdivided into smaller plots for development or speculative purposes."
+  },
+  "apartment_details": {},
+  "occupancy": "Unverified",
+  "condition": "",
+  "market_assessment": {
+    "public_utility_user": "We have perused relevant survey plans; it is our considered opinion that the said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user. We confirm that the property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3. We further confirm that the land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032, and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/ wetland.",
+    "planning_highway_statutory_considerations": "In our opinion we don\u2019t foresee any significant prospect of or potential for change of use of the subject property or those in the vicinity, which could materially affect the value of the subject property in the past or in future. The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property. A detailed environmental impact assessment report would verify this in greater details."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 28800000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Twenty Eight Million Eight Hundred Thousand"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

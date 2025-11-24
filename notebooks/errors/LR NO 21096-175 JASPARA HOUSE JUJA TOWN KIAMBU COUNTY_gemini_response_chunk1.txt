@@ -1,0 +1,89 @@
+{
+  "property_id": "21096/175",
+  "valuation_report": {
+    "report_reference": "SOO/4881/2/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Ken Wathome",
+      "Nahashon Kuria",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-03-15",
+    "report_date": "2024-12-31",
+    "client": "Menno Plaza Limited",
+    "client_address": "",
+    "purpose": "advisory purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "title_number": "21096/175"
+    },
+    "location": {
+      "address": "Juja Town, approximately 150 meters to the east of Juja Square and opposite Galkan House, Kiambu County.",
+      "coordinates": "1° 6'16.33\"S, 37° 0'51.85\"E",
+      "town": "Juja Town",
+      "county": "Kiambu County"
+    },
+    "tenure": {
+      "type": "leasehold",
+      "term": "99 years",
+      "commencement_date": "1995-11-01",
+      "annual_rent": "peppercorn (if demanded)"
+    },
+    "registered_proprietors": [
+      "Menno Plaza Limited"
+    ],
+    "ownership_type": "Leasehold",
+    "encumbrances": "Unascertained"
+  },
+  "property_description": {
+    "plot_area": "0.0310 Ha (0.0766 acres)",
+    "user": "Mixed use",
+    "services": "Mains electricity and piped water are connected to the subject ptopetty. Foul drainage is into the town’s main sewer line. The property fronts murram surfaced roads.",
+    "general_description": "The plot is developed with a five-storey residential/commercial block featuring retail shops to the ground floor, one-bedroom units and bedsitters to the upper floors.",
+    "construction_details": {
+      "roof": "Pitched box profile GCI sheets roof on timber trusses fitted with gutters and down pipes.",
+      "ceilings": "Plastered and painted reinforced concrete slabs to the lower floors and soft board panels to the upper floor.",
+      "walls": "Reinforced concrete framework of columns and beams infilled with machine cut stone walls, externally keyed or rendered and colour washed while internally plastered and painted with sanitary areas lined with ceramic tiles to limited heights.",
+      "doors": "External doors are steel plated type while internal ones are T8¢G timber boards or timber flush types.",
+      "windows": "Glazed steel casements provided with burglar proof grilles.",
+      "floor": "The floors are mass concrete slab finished in smooth red oxide cement screed or ceramic tiles.",
+      "access_to_upper_floor": "Access to the upper floor is through a reinforced concrete staircase fitted with steel handrails and balustrades."
+    },
+    "plot_and_siteworks": "This is a flat rectangular shaped plot of mixed soils whose boundaries are marked by building lines and road frontages. Access to the property is via a single plated steel gate that opens onto a passage leading to the staircase.",
+    "built_up_area": "13850 sq. ft."
+  },
+  "apartment_details": {
+    "ground_floor": "8 No. Retail spaces let out to various tenants; Passage leading to staircase",
+    "first_floor": "LANDING area; Circulation VERANDA; 3 No. BEDSITTER units having; Living room; Sanitary room with water closet and overhead shower unit; 3 No. 1 BEDROOM units each comprising; Sitting room; Kitchen; 1No. bedroom; Sanitary room with WC and shower head.",
+    "second_to_fourth_floor": "Each with similar accommodation details as follows; LANDING area; Circulation VERANDA; One (1) No. BEDSITTER having; Living room; Sanitary room with water closet and overhead shower unit; 4No. 1 BEDROOM units each converted into; Sitting room; Kitchen; 1No. bedroom; Sanitary room with WC and shower head."
+  },
+  "occupancy": {
+    "status": "let out to various tenants",
+    "current_monthly_rent_kes": 210000,
+    "current_occupancy_rate": "70%",
+    "current_annual_rent_kes": 2520000,
+    "projected_full_occupancy_monthly_rent_kes": 340000,
+    "projected_full_occupancy_annual_rent_kes": 4080000
+  },
+  "condition": "As at the date of inspection, the property was in a fair state of repair and maintenance. The property was undergoing gradual renovation at the time of our inspection.",
+  "market_assessment": {
+    "general_remarks": "This is a mixed-use property located within Juja Town, Kiambu County. By virtue of its location, the property enjoys easy access to a myriad of infrastructural services and social amenities. The neighborhood is developed with similar mixed-use developments featuring commercial spaces and residential units. There was no evidence to suggest that this property has been set aside for use as public utility land or as a road reserve or a wetland/ or categorized as irregularly/ illegally acquired in the Ndungu Report (Report of the commission of Inquiry into the Illegal/Irregular Allocation of Public Land). At the time of our inspection, we observed no obvious environmental challenges that would pose a threat to the values stated. Nor was there any evidence found, of contaminated land on the subject property that would materially affect the value of the subject property in any adverse way."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [
+    "Income Approach (Income Capitalization Method)",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

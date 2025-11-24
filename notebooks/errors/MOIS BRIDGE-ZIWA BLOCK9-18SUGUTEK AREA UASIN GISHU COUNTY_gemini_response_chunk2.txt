@@ -1,0 +1,104 @@
+{
+  "property_id": "Moi’s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+  "valuation_report": {
+    "report_reference": "12/06/2025-02",
+    "valuer": "Nw Realite Ltd",
+    "valuers": [
+      "Nw Realite Ltd"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "Co-operative Bank of Kenya",
+    "client_address": "P.O.Box 48231 - 00100 GPO Nairobi",
+    "purpose": "Valuation of property for Paul Kiplangat Yegon, to determine Open Market Value, Forced Sale Value and Insurance Value."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "Block 9 (Lemorungeny)",
+    "floor": "",
+    "title_details": {
+      "title_no": "Moi’s Bridge/Ziwa Block 9 (Lemorungeny)/18",
+      "registration_section": "MOL'S BRIDGE/ZIWA BLOCK 9(LEMORUNGENY )",
+      "parcel_number": "18",
+      "approximate_area": "3.70 Acres",
+      "nature_of_title": "ABSOLUTE",
+      "registry_map_sheet_no": "",
+      "date_opened": "1992-12-15",
+      "registered_proprietor_name": "ELIJAH KIPROTICH LELACHET",
+      "registered_proprietor_address": "P.O, BOX 707,ELDORET,.",
+      "date_of_registration": "1992-12-22"
+    },
+    "location": {
+      "county": "Uasin Gishu County",
+      "constituency": "",
+      "ward": "",
+      "area": "Sugutek Area",
+      "gps_coordinates": "",
+      "description": "situated in a developing agricultural area with reasonable accessibility."
+    },
+    "tenure": {
+      "type": "ABSOLUTE"
+    },
+    "registered_proprietors": [
+      {
+        "name": "ELIJAH KIPROTICH LELACHET",
+        "address": "P.O, BOX 707,ELDORET,."
+      }
+    ],
+    "ownership_type": "Absolute Proprietor",
+    "encumbrances": "NO INHIBITIONS, NO CHARGES, NO NOTICES"
+  },
+  "property_description": {
+    "type": "Agricultural Land",
+    "size": "3.70 Acres",
+    "general_description": "The subject property is situated in a developing agricultural area with reasonable accessibility."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "market_activity": "Due to a relatively inactive market, actual sales within the immediate neighborhood were difficult to obtain.",
+    "comparable_data_source": "compatable data from neighboring areas and opinions of value gathered from local market agents familiar with transactions in the broader region.",
+    "comparables": [
+      {
+        "name": "Comparable 1",
+        "description": "closest proximity in terms of location",
+        "value_per_acre": {
+          "amount": 600000,
+          "currency": "KShs"
+        }
+      },
+      {
+        "name": "Comparables 2, 3, and 4",
+        "description": "higher market expectations in superior locations",
+        "value_range_per_acre": {
+          "min_amount": 1300000,
+          "max_amount": 1600000,
+          "currency": "KShs"
+        }
+      }
+    ],
+    "adjusted_value_range_per_acre": {
+      "min_amount": 800000,
+      "max_amount": 1100000,
+      "currency": "KShs",
+      "reason": "Given that the subject is slightly less prime than these high-end comparables but mote accessible than Comparable 1, a reasonable adjusted value may fall in the range of KShs 800,000-1,100,000 per acre, depending on its topography, soil quality, and development potential."
+    },
+    "adopted_rate_per_acre": {
+      "amount": 800000,
+      "currency": "KShs"
+    }
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 2960000,
+      "currency": "KES",
+      "amount_words": "KShs 3,000,000.00"
+    }
+  },
+  "valuation_methodology": [
+    "Market Approach (Sales Comparison)"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

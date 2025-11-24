@@ -1,0 +1,104 @@
+{
+  "property_id": "23153/53, 23153/54",
+  "valuation_report": {
+    "report_reference": "CSU/ LAMU 2852000",
+    "valuer": "Nw realite valuers",
+    "valuers": [
+      "Nw realite valuers"
+    ],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "KCB Bank Kenya Limited",
+    "client_address": "KCB Towers, Upper Hill. P. O. Box 48400 - 00100 Nairobi, Kenya",
+    "purpose": "recovery purposes"
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "land_reference_numbers": [
+        "23153/53",
+        "23153/54"
+      ],
+      "ir_numbers": [
+        "52890",
+        "52889"
+      ],
+      "title_numbers": [
+        "CR. 52890",
+        "CR. 52889"
+      ],
+      "area_hectares": 20.24,
+      "area_acres": 50.012,
+      "title_number": "LR.CR. 52890, LR.CR. 52889",
+      "land_reference_number": "23153/53, 23153/54",
+      "deed_plan_number": "327243, 327074",
+      "original_number": "",
+      "survey_plan_number": "327053, 327054",
+      "date_of_issue": "2011-08-08"
+    },
+    "location": {
+      "area": "Bargoni Area",
+      "county": "Lamu County",
+      "coordinates": [
+        "2\u00b006'03.5\"S 40\u00b045'45.2\"E",
+        "2\u00b006'05.2\"S 40\u00b045'31.2\"E"
+      ],
+      "description": "approximately 4 kilometres off Hindi-Bargoni Road, about 8 kilometres to the Southwest of Bargoni Shopping Centre and 10 kilometres to the Northwest of Hindi Township",
+      "district": "Lamu District",
+      "locality": "North of Hindi Town"
+    },
+    "tenure": {
+      "type": "Leasehold",
+      "term": "99 Years",
+      "start_date": "2011-06-01",
+      "annual_ground_rent": {
+        "amount": 1250,
+        "currency": "KSHS",
+        "revisable": true
+      },
+      "unexpired_term": "",
+      "annual_rent": 1250
+    },
+    "registered_proprietors": [
+      "MAALIMS RANCHING COMPANY LIMITED"
+    ],
+    "ownership_type": "Lessee",
+    "encumbrances": "CHARGE DATED 11 NOVEMBER, 2022 TO KCB BANK KENYA LIMITED FOR KSHS. 10,320,000/= (WITH OTHER LANDS)"
+  },
+  "property_description": {
+    "plot_type": "rectangular-shaped sandy soils plots",
+    "gradient": "",
+    "boundaries": "marked corner beacons",
+    "access": "open",
+    "improvements": "no permanent structural improvements",
+    "general_remarks": "These are two 50-acre parcels of land located within the larger Bargoni Area of Lamu County. The properties are accessible via an earth road branching off the main Hindi-Bargoni murram road. Bargoni is a semi-rural area characterized by expansive parcels of land, limited infrastructure, and sparse settlement. While the region has faced security incidents in the past, the situation has significantly improved due to increased government presence and security apparatus, with further improvements anticipated.",
+    "area_hectares": 20.24,
+    "area_acres": "",
+    "description": "ALL that piece of land situate North of Hindi Town in the Lamu District containing by measurement 20.24 hectares"
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {
+    "market_condition": "relatively slow",
+    "demand_drivers": "speculative holdings and agricultural use",
+    "price_stability": "stable",
+    "investor_activity": "minimal",
+    "future_outlook": "expected to improve as the LAPSSET Corridor project stimulates growth",
+    "transactional_volumes": "modest",
+    "rental_demand_vacant_land": "negligible",
+    "property_specific_issues": "The subject parcels are speculative holdings within a slow-moving market with modest demand. Their appeal lies in their prospects for future growth driven by improving infrastructure. Under forced sale circumstances, a significant discount is expected on the market value due to liquidity issues, delayed development prospects and locational challenges. Any attempts at sale is expected to experience extended marketing and a prolonged sale period."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

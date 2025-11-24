@@ -1,0 +1,49 @@
+{
+  "property_id": "MAVOKO MUNICIPALITY BLOCK 109/42",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "",
+    "valuers": [],
+    "inspection_date": "",
+    "report_date": "",
+    "client": "",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "109",
+    "floor": "",
+    "title_details": {
+      "title_number": "MAVOKO MUNICIPALITY BLOCK 109/42",
+      "approximate_area": "0.0300 H",
+      "registry_map_sheet_no": "7148/4 & 149/3",
+      "nature_of_title": "ABSOLUTE",
+      "edition": "1",
+      "opened_date": ""
+    },
+    "location": {
+      "municipality": "MAVOKO MUNICIPALITY",
+      "district": "MACHAROS"
+    },
+    "tenure": {},
+    "registered_proprietors": ["CO-OPERATIVE BANK HOLL"],
+    "ownership_type": "ABSOLUTE",
+    "encumbrances": ""
+  },
+  "property_description": {},
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 0,
+      "currency": "KES",
+      "amount_words": ""
+    }
+  },
+  "valuation_methodology": [],
+  "lease_details": {},
+  "compliance": {}
+}

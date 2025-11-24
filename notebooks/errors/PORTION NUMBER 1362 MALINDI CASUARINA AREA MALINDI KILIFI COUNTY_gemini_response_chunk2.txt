@@ -1,0 +1,73 @@
+{
+  "property_id": "Portion Number 1362- Malindi, Kilifi County",
+  "valuation_report": {
+    "report_reference": "",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "",
+    "report_date": "2025-06-26",
+    "client": "Kichuna Properties Limited",
+    "client_address": "",
+    "purpose": ""
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "",
+    "floor": "",
+    "title_details": {
+      "file_number": "LT. 35 Folio 259/1 File 4259",
+      "plot_number": "Portion Number 1362",
+      "area": "1.36 acres",
+      "registered_owner": "Kichuna Properties Limited",
+      "registrar": "REGISTRAR OF COAST LAND TITLES",
+      "act": [
+        "LAND REGISTRATION ACT NO 3 OF 2012",
+        "LAND ACT No. 6 OF 2012",
+        "THE REGISTRATION OF TITLES ACT CAP. 281 (REPEALED)"
+      ]
+    },
+    "location": {
+      "county": "Kilifi County",
+      "town": "Malindi",
+      "address": "Off Marine Park Road, Casuarina area, Malindi, Kilifi County",
+      "geolocation": "3°15'4.57\"S, 40° 7'43.98\"E",
+      "nearest_landmark": "Marine Park Road and Casuarina sand beach"
+    },
+    "tenure": {
+      "type": "FREEHOLD"
+    },
+    "registered_proprietors": [
+      "Kichuna Properties Limited"
+    ],
+    "ownership_type": "",
+    "encumbrances": "NIL"
+  },
+  "property_description": {
+    "type_of_house": "Cottage",
+    "number_of_bedrooms": 4,
+    "number_of_bathrooms": "N/A",
+    "size_of_living_room_sqm": "N/A",
+    "age_year_of_construction": "N/A",
+    "number_of_floors": "N/A",
+    "other_features": "DSQ, Parking yard, Garden and all en-suite bedrooms."
+  },
+  "apartment_details": {},
+  "occupancy": "",
+  "condition": "",
+  "market_assessment": {},
+  "valuations": {
+    "current_market_value": {
+      "amount": 65000000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings Sixty Five Million"
+    }
+  },
+  "valuation_methodology": [
+    "Comparable Method",
+    "Depreciated Replacement Cost Approach"
+  ],
+  "lease_details": {},
+  "compliance": {}
+}

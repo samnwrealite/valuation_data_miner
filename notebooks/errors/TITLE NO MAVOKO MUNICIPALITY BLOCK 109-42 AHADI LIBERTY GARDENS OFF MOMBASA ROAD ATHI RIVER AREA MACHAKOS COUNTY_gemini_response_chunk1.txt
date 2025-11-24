@@ -1,0 +1,68 @@
+{
+  "property_id": "MAVOKO MUNICIPALITY BLOCK 109/42",
+  "valuation_report": {
+    "report_reference": "SOO/DOO/5340/1/25",
+    "valuer": "NW Realite Limited",
+    "valuers": [
+      "Onyango Orech",
+      "Simon Oruka Orwa"
+    ],
+    "inspection_date": "2025-08-22",
+    "report_date": "2025-08-26",
+    "client": "Co-operative Bank of Kenya Limited",
+    "client_address": "Co-operative Bank House, P.O. Box 48231-00100, Nairobi",
+    "purpose": "advising on its current market, mortgage, forced sale and insurance values respectively for bank purposes."
+  },
+  "property_details": {
+    "apartment_number": "",
+    "block": "109",
+    "floor": "",
+    "title_details": {
+      "title_number": "MAVOKO MUNICIPALITY BLOCK 109/42",
+      "area": "0.0300 Ha / 0.0741 Acre",
+      "registration_date": "",
+      "search_date": "2025-08-22",
+      "search_no": "EOC"
+    },
+    "location": {
+      "county": "MACHAKOS COUNTY",
+      "town": "Athi River Area",
+      "description": "The property is situated within a gated community known as Ahadi Liberty Gardens situated within Athi River Area of Machakos County. The property lies approximately 4 kilometres off Mombasa Road, branching off at Crystal Rivers Mall, 450 meters to the Southwest of Zabid Gardens and 270 meters to the Northeast of Whistling Morans Park.",
+      "coordinates": "1°24'44.0\"S 36°59'52.5\"E"
+    },
+    "tenure": {
+      "type": "Freehold interest."
+    },
+    "registered_proprietors": [
+      "Co-operative Bank Housing Co-operative Society Limited"
+    ],
+    "ownership_type": "Co-operative Society",
+    "encumbrances": "NIL"
+  },
+  "property_description": "This is a fairly level rectangular-shaped plot of black cotton soils whose boundaries are marked by stone perimeter wall to one side and corner beacons. The estate is fenced off all-round with a stonewall. Access into the subject property is open. Access into the estate is via a double-leaf metal plate gate opening onto the main driveway. As at the time of our inspection, there were no structural improvements on the subject plot. This is a residential plot located within a gated community in Athi River Area of Machakos County.",
+  "apartment_details": {},
+  "occupancy": "The property was unoccupied at the time of our inspection.",
+  "condition": "No structural improvements on the subject plot.",
+  "market_assessment": {
+    "general_remarks": "The real estate market is currently experiencing a slowdown that has affected all properties across board. Properties are taking a bit longer to dispose with prices thawing. We prospect that the current trend will change in the foreseeable future subject to economic growth."
+  },
+  "valuations": {
+    "current_market_value": {
+      "amount": 1800000,
+      "currency": "KES",
+      "amount_words": "Kenya Shillings One Million Eight Hundred Thousand Only"
+    }
+  },
+  "valuation_methodology": [
+    "Comparative Sales Method"
+  ],
+  "lease_details": {},
+  "compliance": {
+    "public_utility_user": "The said property has not been set aside for public use/water catchment area. To the best of our knowledge, the subject property is not government land and has not been reserved for public utility user.",
+    "ndungu_report": "The property is not listed in the Report of the Commission of Inquiry into the Illegal/Irregular Allocation of Public Land (Ndungu Report) Annexes Volumes 1, 2 & 3.",
+    "nlc_gazette_notice": "The land is not adversely mentioned in the National Land Commission (NLC) Kenya Gazette Notice No. 6862 of 17th July 2017, 12526 of 22nd December 2017, 2032 and 2033 of 2nd March 2018 and 1547 of 15th February 2019. The land is not on riparian reserve/wetland.",
+    "planning_conformity": "The current user of the property conforms to its stipulated use.",
+    "environmental_issues": "There are currently no other obvious visible environmental issues including contaminated land either on the subject or on an adjoining site that materially affect the value of the property.",
+    "matrimonial_property": "The property is solely registered in the name of Co-operative Bank Housing Co-operative Society Limited; hence this is not a matrimonial property."
+  }
+}
