@@ -1,15 +1,6 @@
 {
-  "property_id": "doc LR NO 7815-83 LUKENYA AREA OFF MOMBASA ROAD MACHAKOS COUNTY",
-  "report_reference": "SOO/DOO/5296/1/25",
-  "title_number": "7815/83",
-  "lr_number": "7815/83",
-  "ir_number": "237281",
-  "client_name": "Mr. Kenneth Wathome",
-  "valuer_name": "Ken Wathome, Nahashon Kuria",
-  "inspection_date": "14\" April 2021",
-  "report_date": "",
   "location_county": "Machakos County",
-  "location_description": "The property is situated approximately 700 meters off Mombasa Road, 2.3 kilometres to the East of Greenpark Estate and 2.5 kilometres due South of Lukenya Gateway within Lukenya Atea of Machakos County.",
+  "location_description": "approximately 700 meters off Mombasa Road, 2.3 kilometres to the East of Greenpark Estate and 2.5 kilometres due South of Lukenya Gateway within Lukenya Atea of Machakos County.",
   "location_coordinates": "1°28'12.2\"S 37°02'21.7\"E",
   "plot_area_hectares": 2.024,
   "plot_area_acres": 5.001,
@@ -19,19 +10,21 @@
   "gradient": "fairly level slope",
   "drainage": "into a septic tank",
   "vegetation": "",
-  "tenure_type": "leasehold interest",
+  "tenure_type": "leasehold",
   "registered_proprietor": "Kenneth Wathome Mwatu",
   "ownership_type": "",
   "encumbrances": "Unascertained",
   "market_value_amount": 60000000,
   "market_value_currency": "KShs.",
+  "property_id": "doc LR NO 7815-83 LUKENYA AREA OFF MOMBASA ROAD MACHAKOS COUNTY",
+  "report_reference": "SOO/DOO/5296/1/25",
   "metadata": {
     "source_file": "doc LR NO 7815-83 LUKENYA AREA OFF MOMBASA ROAD MACHAKOS COUNTY.pdf",
     "file_size_kb": 6867.22,
-    "processing_time_seconds": 62.99,
+    "processing_time_seconds": 80.93,
     "ocr_used": true,
     "pages_processed": 12,
     "model_name": "models/gemini-2.5-flash",
-    "timestamp": "2025-11-24T16:49:26.079779"
+    "timestamp": "2025-11-24T20:20:10.730495"
   }
 }
