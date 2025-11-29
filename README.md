@@ -130,3 +130,15 @@ The workflow is a **multi-step pipeline**:
 PDF → OCR → Text Cleaning → Gemini (2-Pass Extraction) → Deep Merge → Clean JSON → Supabase Postgres
 
 ```
+
+### Link supabase to power bi
+```
+let
+    Source = Web.Contents(
+        "https://vtsjmfrfvmqrcjheubyn.supabase.co/rest/v1/YOUR_TABLE_NAME?select=*&apikey=YOUR_ANON_KEY"
+    ),
+    Json = Json.Document(Source),
+    ToTable = Table.FromRecords(Json)
+in
+    ToTable
+```
