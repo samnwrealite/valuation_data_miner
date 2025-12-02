@@ -214,7 +214,10 @@ __marimo__/
 /notebooks/extracted_data_v2/
 /notebooks/extracted_datav1/
 /notebooks/extracted_datav3/
-
+/notebooks/nrb_2025v1
+/notebooks/errors/
+notebooks/error_logs/
+/notebooks/additional_2025v1
 
 
 /samples
