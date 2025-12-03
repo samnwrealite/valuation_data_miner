@@ -142,3 +142,40 @@ let
 in
     ToTable
 ```
+
+### Create table
+```
+-- Create the new table
+CREATE TABLE public.table_name_year_raw/clean (
+    id bigserial PRIMARY KEY,
+    property_id text NOT NULL,
+    report_reference text,
+    title_number text,
+    lr_number text,
+    ir_number text,
+    client_name text,
+    valuer_name text,
+    inspection_date text,
+    valuation_date text,
+    location_county text,
+    location_description text,
+    location_coordinates text,
+    plot_area_hectares numeric,
+    plot_area_acres numeric,
+    land_use text,
+    plot_shape text,
+    soil_type text,
+    gradient text,
+    drainage text,
+    vegetation text,
+    tenure_type text,
+    registered_proprietor text,
+    ownership_type text,
+    encumbrances text,
+    market_value_amount numeric,
+    market_value_currency text,
+    metadata jsonb,
+    created_at timestamp with time zone DEFAULT now()
+);
+
+```
