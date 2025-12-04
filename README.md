@@ -146,7 +146,7 @@ in
 ### Create table
 ```
 -- Create the new table
-CREATE TABLE public.table_name_year_raw/clean (
+CREATE TABLE public.table_name_year_raw (
     id bigserial PRIMARY KEY,
     property_id text NOT NULL,
     report_reference text,
